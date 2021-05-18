@@ -1,0 +1,1510 @@
+# DG
+#EXTM3U
+#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="PARAGUAY",DENIS IPTV CLICK AQUI
+https://www.youtube.com/watch?v=vVMeMlY7r2s
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/1280px-Tigo_Sports_logo.svg.png" group-title="PARAGUAY", 2- TIGO SPORTS(24 horas)
+http://ultrax.online:8000/IPTVTOOLSREESTREAMULTRAX/ijKfrdW8ld/1999
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/rolnando-play/RP/master/app/canalesImg/tigo%2B.png" group-title="PARAGUAY", 2- TIGO SPORTS +
+http://gooserace.xyz:2052/live/batman1/batman1/2605684.ts
+#EXTINF:0 tvg-country="PY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/LogoTFFlat.png" group-title="PARAGUAY",TELEFUTURO HD
+http://edge8-ccast-hr.cvattv.com.ar:80/live/c5eds/TELEFUTURO_C4/verimatrix_rotating_FTA/TELEFUTURO_C4-audio_20000=144800-video=3000000.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQN3YzqAYB-no96is0qft2xwhdOgMiTdAZ67A&usqp=CAU" group-title="PARAGUAY",TRECE
+http://cdn.cvattv.com.ar/live/c5eds/RPC_C4/verimatrix_rotating_FTA/RPC_C4-audio_20000=144800-video=2100000.m3u8
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/06/Unicanal-en-vivo-Online.png" group-title="PARAGUAY",UNICANAL
+http://cdn.cvattv.com.ar/live/c5eds/UNICANAL_C4/verimatrix_rotating_FTA/UNICANAL_C4-audio_20000=144800-video=3000000.m3u8
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/04/Paravisi%C3%B3n-en-vivo-Online-1-218x150.png" group-title="PARAGUAY",PARAVISION
+http://cdn.cvattv.com.ar/live/c5eds/PARAVISION_C4/verimatrix_rotating_FTA/PARAVISION_C4-audio_20000=144800-video=1480000.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/latele_m.jpg" group-title="PARAGUAY",LA TELE
+http://cdn.cvattv.com.ar/live/c5eds/LA_TELE_C4/verimatrix_rotating_FTA/LA_TELE_C4-audio_20000=144800-video=1532000.m3u8
+#EXTINF:-1 tvg-logo="https://www.rcn.com.py/wp-content/uploads/2020/08/logo_web@footer.png" group-title="PARAGUAY",RCN CAAGUAZU
+https://59ce1298bfb98.streamlock.net/rcntv/rcntv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/804016687108521985/L4G3JMvc_400x400.jpg" group-title="PARAGUAY",SUR TV
+http://cdn.cvattv.com.ar/live/c5eds/SUR_TV_C4/verimatrix_rotating_FTA/SUR_TV_C4-audio_20000=144800-video=3000000.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-3mGnhkccKB8/WW1Aq9WGBLI/AAAAAAAAAcc/wJuDijs2ThsrlNk2BTg6euAavBAflMfUgCK4BGAYYCw/s1600/logo-tvs-encarnacion-televisora-del-sur-en-vivo-online.png", group-title="PARAGUAY",TVS ENCARNACION
+http://201.217.3.212/tvs/tvs/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/Canal_9_Noticias.jpg" group-title="PARAGUAY",C9N
+http://cdn.cvattv.com.ar/live/c5eds/C9N_C4/verimatrix_rotating_FTA/C9N_C4-audio_20000=144800-video=3900000.m3u8
+#EXTINF:-1 tvg-logo="https://npy.com.py/wp-content/uploads/2019/07/cropped-logodos-1.png" group-title="PARAGUAY",NOTICIAS PY
+http://cdn.cvattv.com.ar/live/c5eds/NOTICIAS_PY_C4/verimatrix_rotating_FTA/NOTICIAS_PY_C4-audio_20000=144800-video=3000000.m3u8
+#EXTINF:-1 tvg-logo="https://paraguaype.com/wp-content/uploads/2017/04/AbcTvenvivoonline.AbcTvdesdeParaguay.jpg" group-title="PARAGUAY",ABC TV 
+http://cdn.cvattv.com.ar:80/live/c5eds/ABC_TV_C4/verimatrix_rotating_FTA/ABC_TV_C4-audio_20000=144800-video=3000000.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/1bjnYEolS9e-utbVyXk4Tu6UTl4RDnfIsSXKYE74r3vmRNWMQZXLADvSQacadS1F5DY" group-title="PARAGUAY",FARRA PLAY
+http://159.203.148.226/live/farra.m3u8
+#EXTINF:-1 tvg-logo="https://www.apf.org.py/assets/img/logo-division-de-honor.png" group-title="FUTBOL PARAGUAYO", FUTBOL PY 1 
+https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/21ec7610fb8c4438ab96f2ab74010a9a/index_5.m3u8
+#EXTINF:-1 tvg-logo="https://www.apf.org.py/assets/img/logo-division-de-honor.png" group-title="FUTBOL PARAGUAYO",FUTBOL PY 2 
+https://d2jluxxgx550su.cloudfront.net/out/v1/e41f1568b50d49229b095520e71de7ce/index_1.m3u8
+#EXTINF:-1 tvg-logo="https://www.apf.org.py/assets/img/logo-division-de-honor.png" group-title="FUTBOL PARAGUAYO",FUTBOL PY 3
+https://d2slu3qf332d0d.cloudfront.net/out/v1/93e9278c930743bbbc68dce83d11dbe6/index_6.m3u8
+#EXTINF:-1 tvg-logo="https://www.apf.org.py/assets/img/logo-division-de-honor.png" group-title="FUTBOL PARAGUAYO",FUTBOL PY 1 OPC HD
+https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/21ec7610fb8c4438ab96f2ab74010a9a/index_5.m3u8
+#EXTINF:-1 tvg-logo="https://www.apf.org.py/assets/img/logo-division-de-honor.png" group-title="FUTBOL PARAGUAYO",FUTBOL PY 2 OPC HD
+https://d2jluxxgx550su.cloudfront.net/out/v1/e41f1568b50d49229b095520e71de7ce/index_2.m3u8
+#EXTINF:-1 tvg-logo="https://www.apf.org.py/assets/img/logo-division-de-honor.png" group-title="FUTBOL PARAGUAYO",FUTBOL PY 3 OPC HD
+http://62.210.203.162:25461/appcafe/A3d5jvxzgG/19
+#EXTINF:-1  group-title="ARGENTINA", EL TRECE ARGENTINA 
+http://cdn.stg.cvattv.com.ar:80/live/live2/ArtearHD/SA_Live_fta/ArtearHD.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://lh3.googleusercontent.com/-0K_G9JiAw-I/XkCUfNx8kmI/AAAAAAAAv8Y/eK0_8koGnZYLy58qtmUqW26VOZjRqqV8gCK8BGAsYHg/s0/2020-02-09.png" group-title="ARGENTINA", TV PUBLICA
+https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://lh3.googleusercontent.com/-CcQlQ7U7EVI/XbIqQWbGCBI/AAAAAAAArpQ/CyEn-4Mk9xEHuDVVhDBB-vQumKMTSkrUwCK8BGAsYHg/s0/2019-10-24.png" group-title="NOTICIAS", FRANCE 24
+http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://lh3.googleusercontent.com/-CAaBUIZOgpc/XbInLO0y7XI/AAAAAAAAro8/uyF1cG5j5XcZHIDofhFJT2q00gjKsTl0wCK8BGAsYHg/s0/2019-10-24.png" group-title="NOTICIAS", TELESUR
+https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/hd/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="DW" tvg-logo="" group-title="Noticias",DW
+https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/164|User-Agent=ajajajaja
+#EXTINF:-1 tvg-id="" tvg-name="RT America" tvg-logo="" group-title="Noticias",RT America
+https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/166|User-Agent=ajajajaja
+#EXTINF:-1 tvg-id="" tvg-name="ADN40" tvg-logo="" group-title="Noticias",ADN40
+https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/168|User-Agent=ajajajaja
+#EXTINF:-1 tvg-id="" tvg-name="CNN ESPAÑOL" tvg-logo="" group-title="Noticias",CNN ESPAÑOL
+https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/169|User-Agent=ajajajaja
+#EXTINF:-1 tvg-id="" tvg-name="FORO TV" tvg-logo="" group-title="Noticias",FORO TV
+https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/170|User-Agent=ajajajaja
+#EXTINF:-1 tvg-id="" tvg-name="MILENIO TV" tvg-logo="" group-title="Noticias",MILENIO TV
+https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/171|User-Agent=ajajajaja
+#EXTINF:-1 tvg-id="" tvg-name="TELEFORMULA" tvg-logo="" group-title="Noticias",TELEFORMULA
+https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/172|User-Agent=ajajajaja
+#EXTINF:-1 tvg-id="" tvg-name="Fox New" tvg-logo="" group-title="Noticias",Fox New
+https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/324|User-Agent=ajajajaja
+#EXTINF:-1 tvg-id="" tvg-name="CNN Internacional" tvg-logo="" group-title="Noticias",CNN Internacional
+https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/325|User-Agent=ajajajaja
+#EXTINF:-1 tvg-id="" tvg-name="BBC World" tvg-logo="" group-title="Noticias",BBC World
+https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/326|User-Agent=ajajajaja
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="MUSICA", Retro Tv
+http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w627639048.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/oAdVLb8.png" group-title="MUSICA", Music Top | HD
+http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A3 Series" tvg-logo="https://i.ibb.co/PNQwNmP/a3series.png" group-title="Entretenimiento",A3 Series
+https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/40|User-Agent=ajajajaja
+#EXTINF:-1 tvg-id="" tvg-name="Telemundo Int." tvg-logo="https://i.ibb.co/FV3Z111/TELEMUNDOEDW.png" group-title="Entretenimiento",Telemundo Int.
+https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/41|User-Agent=ajajajaja
+#EXTINF:-1 tvg-id="" tvg-name="Tru TV" tvg-logo="https://i.ibb.co/mTMBFjw/tru-tv.png" group-title="Entretenimiento",Tru TV
+https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/42|User-Agent=ajajajaja
+#EXTINF:-1 tvg-id="" tvg-name="Caracol" tvg-logo="https://i.ibb.co/phqS6fW/CARACOLLOGOO.png" group-title="Entretenimiento",Caracol
+https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/43|User-Agent=ajajajaja
+#EXTINF:-1 tvg-id="" tvg-name="Caracol Int." tvg-logo="https://i.ibb.co/phqS6fW/CARACOLLOGOO.png" group-title="Entretenimiento",Caracol Int.
+https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/44|User-Agent=ajajajaja
+#EXTINF:-1 tvg-id="" tvg-name="RCN" tvg-logo="https://i.ibb.co/k4M8Rmb/RCNLOGO.png" group-title="Entretenimiento",RCN
+https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/45|User-Agent=ajajajaja
+#EXTINF:-1 tvg-id="" tvg-name="Unicable" tvg-logo="https://i.ibb.co/BrHSVqw/u.png" group-title="Entretenimiento",Unicable
+https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/46|User-Agent=ajajajaja
+#EXTINF:-1 tvg-id="" tvg-name="TVe" tvg-logo="https://i.ibb.co/dPFJqx5/tve.png" group-title="Entretenimiento",TVe
+https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/47|User-Agent=ajajajaja
+#EXTINF:-1 tvg-id="" tvg-name="Start Tve" tvg-logo="https://i.ibb.co/R6qtZbq/starttve.png" group-title="Entretenimiento",Start Tve
+https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/48|User-Agent=ajajajaja
+#EXTINF:-1 tvg-id="" tvg-name="Isat" tvg-logo="https://i.ibb.co/mTMysqz/Imagen14.png" group-title="Entretenimiento",Isat
+https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/49|User-Agent=ajajajaja
+#EXTINF:-1 tvg-id="" tvg-name="Film & Arts" tvg-logo="https://i.ibb.co/6bXBWg5/filmyart.png" group-title="Entretenimiento",Film & Arts
+https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/50|User-Agent=ajajajaja
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://lh3.googleusercontent.com/-YvhgR9bWwEk/XqeKc33JN4I/AAAAAAAAySs/RsIopL6SbT42YZrOwRYaWYx0EztbDMSkQCK8BGAsYHg/s0/2020-04-27.png" group-title="ENTRETENIMIENTO",EXTREMA TV Peliculas
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="E!" tvg-logo="https://i.ibb.co/q7K0fBy/eentretenimiento.png" group-title="Entretenimiento",E!
+https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/30|User-Agent=ajajajaja
+#EXTINF:-1 tvg-id="" tvg-name="Antena 3" tvg-logo="https://i.ibb.co/ctNdhmD/antena-3.png" group-title="Entretenimiento",Antena 3
+https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/31|User-Agent=ajajajaja
+#EXTINF:-1 tvg-id="" tvg-name="Fox Life" tvg-logo="https://i.ibb.co/qk9NjbB/Imagen4.png" group-title="Entretenimiento",Fox Life
+https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/32|User-Agent=ajajajaja
+#EXTINF:-1 tvg-id="" tvg-name="Glitz" tvg-logo="https://i.ibb.co/TDyNmTv/glitz.png" group-title="Entretenimiento",Glitz
+https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/33|User-Agent=ajajajaja
+#EXTINF:-1 tvg-id="" tvg-name="Hola TV" tvg-logo="https://i.ibb.co/v1Fc6PM/hola-tv.png" group-title="Entretenimiento",Hola TV
+https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/34|User-Agent=ajajajaja
+#EXTINF:-1 tvg-id="" tvg-name="TLNovelas" tvg-logo="https://i.ibb.co/GRDLkcN/tnovelas.png" group-title="Entretenimiento",TLNovelas
+https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/35|User-Agent=ajajajaja
+#EXTINF:-1 tvg-id="" tvg-name="Lifetime" tvg-logo="https://i.ibb.co/DfQTNVC/lifetime.png" group-title="Entretenimiento",Lifetime
+https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/36|User-Agent=ajajajaja
+#EXTINF:-1 tvg-id="" tvg-name="Mas Chic" tvg-logo="https://i.ibb.co/tQFt5WJ/Imagen64.png" group-title="Entretenimiento",Mas Chic
+https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/37|User-Agent=ajajajaja
+#EXTINF:-1 tvg-id="" tvg-name="Pasiones" tvg-logo="https://i.ibb.co/rxZNH3M/PASIONES-LOGO.png" group-title="Entretenimiento",Pasiones
+https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/38|User-Agent=ajajajaja
+#EXTINF:-1 tvg-id="" tvg-name="TBS" tvg-logo="https://i.ibb.co/G2F2X3N/Imagen11.png" group-title="Entretenimiento",TBS
+https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/39|User-Agent=ajajajaja
+#EXTINF:-1 group-title="ENTRETENIMIENTO",SPACE 
+http://edge1.stg.cvattv.com.ar:80/live/live2/Space/SA_Live_fta/Space.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",UNIVERSAL CHANNEL HD
+https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/89|User-Agent=ajajajaja
+#EXTINF:-1 group-title="ENTRETENIMIENTO",GOLDEN HD
+https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/90|User-Agent=ajajajaja
+#EXTINF:-1 group-title="ENTRETENIMIENTO",AXN
+http://38.18.238.42:2741/213AXNLatinoAmerica/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|User-Agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 group-title="ENTRETENIMIENTO",SONY HD
+https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/109|User-Agent=ajajajaja
+#EXTINF:-1 group-title="ENTRETENIMIENTO",COMEDY CENTRAL
+http://38.18.238.42:2741/225CMEDY/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8|User-Agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 group-title="ENTRETENIMIENTO",TNT SERIES HD
+https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/85|User-Agent=ajajajaja
+#EXTINF:-1  group-title="ENTRETENIMIENTO",HBO FAMILY
+http://208.88.246.11:2741/652HBOFamily/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|User-Agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 group-title="ENTRETENIMIENTO",HBO HD
+https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/112|User-Agent=ajajajaja
+#EXTINF:-1 group-title="ENTRETENIMIENTO",HBO 2 HD
+https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/113|User-Agent=ajajajaja
+#EXTINF:-1 group-title="ENTRETENIMIENTO",HBO PLUS HD 
+https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/115|User-Agent=ajajajaja
+#EXTINF:-1 group-title="ENTRETENIMIENTO",HBO SIGNATURE
+https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/116|User-Agent=ajajajaja
+#EXTINF:-1 group-title="ENTRETENIMIENTO",HBO MUNDI HD
+https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/117|User-Agent=ajajajaja
+#EXTINF:-1 group-title="ENTRETENIMIENTO",HBO POP HD
+https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/118|User-Agent=ajajajaja
+#EXTINF:-1 group-title="ENTRETENIMIENTO",HBO XTREME HD
+https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/119|User-Agent=ajajajaja
+#EXTINF:-1 group-title="ENTRETENIMIENTO",STAR CHANNEL HD
+http://cdn.stg.cvattv.com.ar:80/live/live2/FXHD/SA_Live_fta/index.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",STAR SERIES HD
+https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/120|User-Agent=ajajajaja
+#EXTINF:-1 group-title="ENTRETENIMIENTO",STAR HITS HD
+https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/121|User-Agent=ajajajaja
+#EXTINF:-1 group-title="ENTRETENIMIENTO",STAR CINEMA HD
+https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/122|User-Agent=ajajajaja
+#EXTINF:-1 group-title="ENTRETENIMIENTO",STAR ACTION HD
+https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/123|User-Agent=ajajajaja
+#EXTINF:-1 group-title="ENTRETENIMIENTO",STAR CLASSICS HD
+https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/124|User-Agent=ajajajaja
+#EXTINF:-1 group-title="ENTRETENIMIENTO",STAR FUN HD
+https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/125|User-Agent=ajajajaja
+#EXTINF:-1 group-title="ENTRETENIMIENTO",STAR COMEDY HD
+https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/126|User-Agent=ajajajaja
+#EXTINF:-1  group-title="ENTRETENIMIENTO",CINECANAL HD
+http://edge1.stg.cvattv.com.ar:80/live/live2/CinecanalHD/SA_Live_fta/CinecanalHD.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",PARAMOUNT HD
+https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/99|User-Agent=ajajajaja
+#EXTINF:-1 group-title="ENTRETENIMIENTO",TCM HD
+https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/101|User-Agent=ajajajaja
+#EXTINF:-1 tvg-id="" tvg-name="Distrito Comedia" tvg-logo="https://i.ibb.co/dGNpQmf/DISCOMEDIA.png" group-title="Entretenimiento",Distrito Comedia
+https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/27|User-Agent=ajajajaja
+#EXTINF:-1 group-title="ENTRETENIMIENTO",STUDIO UNIVERSAL HD
+https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/102|User-Agent=ajajajaja
+#EXTINF:-1 group-title="ENTRETENIMIENTO",DHE PELICULAS HD
+https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/103|User-Agent=ajajajaja
+#EXTINF:-1 group-title="ENTRETENIMIENTO",SYFY HD
+https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/108|User-Agent=ajajajaja
+#EXTINF:-1  group-title="ENTRETENIMIENTO",TNT
+http://38.18.238.35:2741/andromeda/TNT/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|User-Agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1  group-title="ENTRETENIMIENTO",FX HD
+http://38.18.238.35:2741/andromeda/FX/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|User-Agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1  group-title="ENTRETENIMIENTO",WARNER HD
+http://38.18.238.35:2741/andromeda/WARNER/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|User-Agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 group-title="ENTRETENIMIENTO",CINEMAX HD
+https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/106|User-Agent=ajajajaja
+.#EXTINF:-1  group-title="ENTRETENIMIENTO",AMC HD
+http://23.237.22.162:8081//live/la-AMC/playlist.m3u8?s=832e5791601561da2700ce89b6defb48|User-Agent=vsaClient/4.4.6 (Linux;Android 10) ExoPlayerLib/1.5.14
+#EXTINF:-1 group-title="CULTURA",DISCOVERY CHANNEL HD
+https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/70|User-Agent=ajajajaja
+#EXTINF:-1 group-title="CULTURA",DISCOVERY THEATER HD
+https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/71|User-Agent=ajajajaja
+#EXTINF:-1 group-title="CULTURA",DISCOVERY WORLD HD
+https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/72|User-Agent=ajajajaja
+#EXTINF:-1 group-title="CULTURA",ID HD
+https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/73|User-Agent=ajajajaja
+#EXTINF:-1 group-title="CULTURA",DISCOVERY TURBO HD
+https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/74|User-Agent=ajajajaja
+#EXTINF:-1 group-title="CULTURA",DISCOVERY SCIENCE HD
+https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/75|User-Agent=ajajajaja
+#EXTINF:-1 group-title="CULTURA",HISTORY HD
+https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/77|User-Agent=ajajajaja
+#EXTINF:-1  group-title="CULTURAL", HISTORY 2
+http://38.18.238.42:2741/413H2/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8|User-Agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 group-title="CULTURA",HISTORY HD PLUS
+https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/78|User-Agent=ajajajaja
+#EXTINF:-1 group-title="CULTURA",NATGEO HD
+https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/79|User-Agent=ajajajaja
+#EXTINF:-1 group-title="CULTURA",NATGEO WILD HD
+https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/80|User-Agent=ajajajaja
+#EXTINF:-1 group-title="CULTURA",TLC HD
+https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/82|User-Agent=ajajajaja
+#EXTINF:-1 group-title="CULTURA",El GOURMET HD
+https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/83|User-Agent=ajajajaja
+#EXTINF:-1 tvg-id="" tvg-name="Food Network" tvg-logo="https://i.ibb.co/2SWj8d4/food-network.png" group-title="Entretenimiento",Food Network
+https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/51|User-Agent=ajajajaja
+#EXTINF:-1 group-title="CULTURA",ANIMAL PLANET HD
+https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/84|User-Agent=ajajajaja
+#EXTINF:-1  group-title="CULTURAL", Discovery Home & Health
+http://38.18.238.42:2741/215DiscoveryHHLatinoAmerica/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8|User-Agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1  group-title="CULTURAL", E ENTERTAIMENT 
+http://208.88.246.11:2741/212E!Latino/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|User-Agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-id="" tvg-name="ESPN Sur" tvg-logo="" group-title="Deportes",ESPN Sur
+https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/175|User-Agent=ajajajaja
+#EXTINF:-1 tvg-id="" tvg-name="ESPN HD sd" tvg-logo="" group-title="Deportes",ESPN HD sd
+https://centurylink.br.cdn.booyah.live:443/hls/1000037/60232271.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 Sur" tvg-logo="" group-title="Deportes",ESPN 2 Sur
+https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/176|User-Agent=ajajajaja
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 HD" tvg-logo="" group-title="Deportes",ESPN 2 HD SD
+https://akamai2-br.cdn.booyah.live:443/hls/1000010/60397402.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 Sur" tvg-logo="" group-title="Deportes",ESPN 3 Sur
+https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/177|User-Agent=ajajajaja
+#EXTINF:-1 tvg-id="" tvg-name="ESPN Extra Sur" tvg-logo="" group-title="Deportes",ESPN Extra Sur
+https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/178|User-Agent=ajajajaja
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports Sur" tvg-logo="" group-title="Deportes",Fox Sports Sur
+https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/179|User-Agent=ajajajaja
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2 Sur" tvg-logo="" group-title="Deportes",Fox Sports 2 Sur
+https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/180|User-Agent=ajajajaja
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 3 Sur" tvg-logo="" group-title="Deportes",Fox Sports 3 Sur
+https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/181|User-Agent=ajajajaja
+#EXTINF:-1 group-title="DEPORTES",BEIN SPORTS Ñ
+https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/139|User-Agent=ajajajaja
+#EXTINF:-1 tvg-logo="https://www.beinxtraespanol.com/images/beINSPORTS-XTRA_ESPANOL-LOGO_HORIZONTAL_FULL-COLOR.png" group-title="DEPORTES MEXICO", BEIN SPORTS XTRA Ñ HD
+hhttps://status.tehw00t.net/miniProxy.php/https://bein-esp-klowdtv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Win Sports" tvg-logo="https://i.ibb.co/FgjyXv0/WINLOGO.png" group-title="Deportes",Win Sports
+https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/149
+#EXTINF:-1 tvg-id="" tvg-name="Win Sports +" tvg-logo="https://i.ibb.co/HHg3h6D/WINMASGRANDE.png" group-title="Deportes",Win Sports +
+https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/150
+#EXTINF:-1 tvg-id="" tvg-name="TNT sports" tvg-logo="" group-title="Deportes",TNT sports
+https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/182|User-Agent=ajajajaja
+#EXTINF:-1 tvg-id="" tvg-name="Golperu" tvg-logo="" group-title="Deportes",Golperu
+https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/318|User-Agent=ajajajaja
+#EXTINF:-1 tvg-id="" tvg-name="Directv Sports 2" tvg-logo="" group-title="Deportes",Directv Sports 2(OPC 1)
+https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/319|User-Agent=ajajajaja
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/DirecTV_Sports_Latin_America_-_2018_logo_v2.svg" group-title="DEPORTES",DIRECT TV SPORTS
+http://209.205.221.74:130/R3$3202/3R1W3$32/1643_.m3u8
+#EXTINF:-1 group-title="DEPORTES", DIREC TV SPORTS 2
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/70766|User-Agent=esplayer
+#EXTINF:-1 tvg-id="" tvg-name="Directv Sports Plus" tvg-logo="" group-title="Deportes",Directv Sports Plus
+https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/320|User-Agent=ajajajaja
+#EXTINF:-1 tvg-id="" tvg-name="TyC SPORTS Inter" tvg-logo="" group-title="Deportes",TyC SPORTS Inter
+https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/321|User-Agent=ajajajaja
+#EXTINF:-1 tvg-id="" tvg-name="CDF Basico" tvg-logo="" group-title="Deportes",TNT SPORTS CHILE
+https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/322|User-Agent=ajajajaja
+#EXTINF:-1 tvg-id="" tvg-name="CDF HD" tvg-logo="" group-title="Deportes",TNT SPORTS CHILE HD
+https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/323|User-Agent=ajajajaja
+#EXTINF:-1 tvg-id="" tvg-name="Gol tv ecuador" tvg-logo="" group-title="Deportes",Gol tv ecuador
+https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/333|User-Agent=ajajajaja
+#EXTINF:-1 tvg-id="" tvg-name="FUTV CR" tvg-logo="" group-title="Deportes",FUTV CR
+https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/334|User-Agent=ajajajaja
+#EXTINF:-1 tvg-id="" tvg-name="UTDN" tvg-logo="https://i.ibb.co/dLyJPBL/utdn.png" group-title="Deportes",TUDN
+https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/127|User-Agent=ajajajaja
+#EXTINF:-1 tvg-id="" tvg-name="TUDN" tvg-logo="https://i.ibb.co/YfmKXLV/tudn.png" group-title="Deportes",TUDN
+https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/128|User-Agent=ajajajaja
+#EXTINF:-1 tvg-id="" tvg-name="ESPN Deportes" tvg-logo="https://fotos.subefotos.com/4ca6c9095961295111111e43acf5c420o.png" group-title="Deportes",ESPN Deportes
+https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/130|User-Agent=ajajajaja
+#EXTINF:-1 tvg-id="" tvg-name="ESPN" tvg-logo="https://i.ibb.co/M53CYp5/ESPN.png" group-title="Deportes",ESPN MX
+https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/131|User-Agent=ajajajaja
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2" tvg-logo="https://i.ibb.co/Sw7hdZr/ESPN-2-ARGEN.png" group-title="Deportes",ESPN 2 MX
+https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/132|User-Agent=ajajajaja
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3" tvg-logo="https://i.ibb.co/mCmq9fJ/ESPN3.png" group-title="Deportes",ESPN 3 MX
+https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/133|User-Agent=ajajajaja
+#EXTINF:-1 tvg-id="" tvg-name="ESPN Extra" tvg-logo="https://fotos.subefotos.com/b9a16677b171c826a568ae6ae40056fdo.png" group-title="Deportes",ESPN Extra
+https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/134|User-Agent=ajajajaja
+#EXTINF:-1 tvg-id="" tvg-name="Fox Deportes" tvg-logo="https://i.ibb.co/5jy9nCR/fox-deportes.png" group-title="Deportes",Fox Deportes MX
+https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/135|User-Agent=ajajajaja
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports" tvg-logo="https://i.ibb.co/wRzh7nd/Imagen30.png" group-title="Deportes",Fox Sports MX
+https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/136|User-Agent=ajajajaja
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2" tvg-logo="https://i.ibb.co/6WRG061/Imagen71.png" group-title="Deportes",Fox Sports 2 MX
+https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/137|User-Agent=ajajajaja
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 3" tvg-logo="https://i.ibb.co/nRhNfQj/FOX-SPORT-3-ARG.png" group-title="Deportes",Fox Sports 3 MX
+https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/138|User-Agent=ajajajaja
+#EXTINF:-1 tvg-id="" tvg-name="NFL Network" tvg-logo="https://i.ibb.co/TqBDzbR/nfl-network.png" group-title="Deportes",NFL Network
+https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/142|User-Agent=ajajajaja
+#EXTINF:-1 tvg-id="" tvg-name="NBA Tv" tvg-logo="https://i.ibb.co/QCB4s2P/nba.png" group-title="Deportes",NBA 978856745674634653
+https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/144|User-Agent=ajajajaja
+#EXTINF:-1 tvg-id="" tvg-name="Adrenalina" tvg-logo="" group-title="Deportes",Adrenalina
+https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/153|User-Agent=ajajajaja
+#EXTINF:-1 tvg-id="" tvg-name="Aym Sports" tvg-logo="" group-title="Deportes",Aym Sports
+https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/154|User-Agent=ajajajaja
+#EXTINF:-1 group-title="DEPORTES",CLARO SPORTS
+https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/155|User-Agent=ajajajaja
+#EXTINF:-1  tvg-logo="https://statics-files.tycsports.com/frontend/tycsports/img/site_image.jpg" group-title="DEPORTES",TYC SPORTS
+http://sv3.futbollibre.net/php/tyc.php?tyc.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/GOLTV.png" group-title="DEPORTES",GOL TV
+http://sv3.futbollibre.net/php/goltv.php?goltv.m3u8
+#EXTINF:-1 group-title="DEPORTES",GOL TV USA HD
+https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/157|User-Agent=ajajajaja
+#EXTINF:-1 group-title="DEPORTES ESP",MOVISTAR LA LIGA 1
+http://ns3173312.ip-51-210-33.eu:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/38.ts|User-Agent=cp_525
+#EXTINF:-1 group-title="DEPORTES ESP",MOVISTAR LIGA 2
+http://ns3173312.ip-51-210-33.eu:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/36.ts|User-Agent=cp_525
+#EXTINF:-1 group-title="DEPORTES ESP",GOL SPORTS
+http://ns3173312.ip-51-210-33.eu:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/35.ts|User-Agent=cp_525
+#EXTINF:-1 group-title="DEPORTES ESP",MOVISTAR LA LIGA 3
+http://ns3173312.ip-51-210-33.eu:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/34.ts|User-Agent=cp_525
+#EXTINF:-1 group-title="DEPORTES ESP",VAMOS SPORTS 
+http://ns3173312.ip-51-210-33.eu:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/33.ts|User-Agent=cp_525
+#EXTINF:-1 group-title="ADULTOS",PLAY BOY
+http://208.88.246.11:2741/484Playboy/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8|User-Agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 group-title="ADULTOS",VENUS
+http://208.88.246.11:2741/488Venus/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8|User-Agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 group-title="ADULTOS",SEXTREME
+http://208.88.246.11:2741/490Sextreme/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8|User-Agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+#EXTINF:-1 tvg-logo="https://cladem.org/wp-content/uploads/2020/08/Paraguay-finallll-01.png" group-title="PARAGUAY", SOMOS DEL ESTE TV
+https://59ce1298bfb98.streamlock.net/somosdeleste/somosdeleste/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cladem.org/wp-content/uploads/2020/08/Paraguay-finallll-01.png" group-title="PARAGUAY", ESTACIÓN CRISTAL TV
+https://59ce1298bfb98.streamlock.net/cristaltv/cristaltv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cladem.org/wp-content/uploads/2020/08/Paraguay-finallll-01.png" group-title="PARAGUAY", UGA TV
+https://tigocloud.desdeparaguay.net/ugatv/ugatv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cladem.org/wp-content/uploads/2020/08/Paraguay-finallll-01.png" group-title="PARAGUAY", INVASIVA TV CAPIATA PARAGUAY
+https://live.admefy.com/live/default/ashamed_crimson_3360d.m3u8
+#EXTINF:-1 tvg-logo="https://cladem.org/wp-content/uploads/2020/08/Paraguay-finallll-01.png" group-title="PARAGUAY", MI TV
+https://tigocloud.desdeparaguay.net/mitv/mitv/chunklist_w680215671.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/3/3f/D_HIL0KXkAA_s7m.jpg/revision/latest?cb=20190713001303&path-prefix=es" group-title="PELICULAS", LA VIDA SECRETA DE TUS MASCOTAS 2
+https://www320.ff-01.com:443/token=Z8X2JjxjzM5VeGUE6qTm_Q/1621317427/181.124.0.0/22/2/95/7bd616f236554f93ed40cd16cee4c952-720p.mp4
+#EXTINF:-1 tvg-id="" tvg-name="LA VIDA SECRETA DE TUS MASCOTAS 1" tvg-logo="https://i.pinimg.com/originals/0a/41/8f/0a418ff3b57072f6091bdab27b10f49b.jpg" group-title="PELICULAS",LA VIDA SECRETA DE TUS MASCOTAS 1
+https://908371212.tapecontent.net:443/radosgw/eqKwVYoy1ZHYGpR/Ta2et9Gook_tPjT_EePMHR8fn5CRFkZ4qcRiGyMvrL075H8X6qeqpuh_5hjSsSHP3zRXsfWUCNC9gwLODY6uzqrmRIzRpVx5nhmbzVVE4z0aOHC6jVJu2uyJxgRJKhiEaKAQEBucBRXkn3QcJdyea2su2UXc91FWf5prKH_FjxqV08vL-48Tm3kYhOkVPhZqItxWMJ4nmFf2WhdcE3_C9ZQZPd-UtHhB-j45VZq39XLYG9HfSs7DCrPa7ZOR0En1SDPuCH2HlSOgBf4GUk3hn5HlBPkuLzb24bZZ1w/la-vida-secreta-de-tus-mascotas_1.mp4?stream=1
+#EXTINF:-1 tvg-id="" tvg-name="6 globos (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d5iOt4FZcTsnxLtpq0UXkT0JuOZ.jpg" group-title="PELICULAS",6 globos (2018)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72785
+#EXTINF:-1 tvg-id="" tvg-name="8 millas (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bRSMRkf06aUeZcmr5Cyxuv5vk4T.jpg" group-title="PELICULAS",8 millas (2002)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72786
+#EXTINF:-1 tvg-id="" tvg-name="Código fuente (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hE7XhFL3CVgiR5Fh9BZQ0wOOBIT.jpg" group-title="PELICULAS",Código fuente (2011)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72787
+#EXTINF:-1 tvg-id="" tvg-name="12 años de esclavitud (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1OoCd3fmjPHt9iCR4QxNGGrDyI0.jpg" group-title="PELICULAS",12 años de esclavitud (2013)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72788
+#EXTINF:-1 tvg-id="" tvg-name="12 monos (1995)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7aRu9kpP9bKPOkptnFW7JkXqbNQ.jpg" group-title="PELICULAS",12 monos (1995)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72789
+#EXTINF:-1 tvg-id="" tvg-name="12 valientes (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8YcjGJtW4AEHyNH8yrs8FAaPBM.jpg" group-title="PELICULAS",12 valientes (2018)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72790
+#EXTINF:-1 tvg-id="" tvg-name="14 Blades (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5duNkRR49FlfNnfGfivnuKvVK90.jpg" group-title="PELICULAS",14 Blades (2010)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72791
+#EXTINF:-1 tvg-id="" tvg-name="21 blackjack (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1c0sybcPnVF1fmVk9JKdG2fH1Au.jpg" group-title="PELICULAS",21 blackjack (2008)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72792
+#EXTINF:-1 tvg-id="" tvg-name="28 días después (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sIGsLU7hMDVKhGKsRFcFxUAtFyT.jpg" group-title="PELICULAS",28 días después (2002)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72793
+#EXTINF:-1 tvg-id="" tvg-name="127 horas (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1XbNkZMLXD9dYGZJ87nmQ62Mp2l.jpg" group-title="PELICULAS",127 horas (2010)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72794
+#EXTINF:-1 tvg-id="" tvg-name="(500) días juntos (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dHzgvcbLQxyym58r5N0VKL6c8RS.jpg" group-title="PELICULAS",(500) días juntos (2009)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72795
+#EXTINF:-1 tvg-id="" tvg-name="1922 (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1wj8hLGHAP9goBvvJ45TIK2RjsA.jpg" group-title="PELICULAS",1922 (2017)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72796
+#EXTINF:-1 tvg-id="" tvg-name="A 47 metros (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9XupsXE6vFjR8qvy6WaR46ScrIw.jpg" group-title="PELICULAS",A 47 metros (2017)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72797
+#EXTINF:-1 tvg-id="" tvg-name="Una mente maravillosa (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6zyZ6cauEgSbfii9I7gOvGNyPGv.jpg" group-title="PELICULAS",Una mente maravillosa (2001)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72798
+#EXTINF:-1 tvg-id="" tvg-name="A ciegas (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aSq0fxYogknujP8Om2UahCuXVIP.jpg" group-title="PELICULAS",A ciegas (2008)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72799
+#EXTINF:-1 tvg-id="" tvg-name="Acorralados (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m6aITji0GwOUwDeeNYgkCPreQO0.jpg" group-title="PELICULAS",Acorralados (2016)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72800
+#EXTINF:-1 tvg-id="" tvg-name="Actividades criminales (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tXRw3CHVBRHHIphtiOTwX4Cv03Y.jpg" group-title="PELICULAS",Actividades criminales (2015)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72801
+#EXTINF:-1 tvg-id="" tvg-name="Actos de violencia (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iypJglyCs1vx6MX86a3anh8csSN.jpg" group-title="PELICULAS",Actos de violencia (2018)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72802
+#EXTINF:-1 tvg-id="" tvg-name="adiós (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pvgabyL5HYkOCrh3DN9KFcJllOC.jpg" group-title="PELICULAS",adiós (2007)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72803
+#EXTINF:-1 tvg-id="" tvg-name="The Bling Ring (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uAd3Fu1gSLElAt2W6yl1IL2Oovz.jpg" group-title="PELICULAS",The Bling Ring (2013)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72804
+#EXTINF:-1 tvg-id="" tvg-name="Algunos hombres buenos (1992)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/10IoqEQs0E9oMJejGfWDnr2lEfe.jpg" group-title="PELICULAS",Algunos hombres buenos (1992)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72805
+#EXTINF:-1 tvg-id="" tvg-name="A golpe de monedas (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j3TLvRoVxqrEoLTRl1Lj4CYTl5q.jpg" group-title="PELICULAS",A golpe de monedas (2017)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72806
+#EXTINF:-1 tvg-id="" tvg-name="Al acecho del leopardo (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s2ZgozAnPosMiWWCsy1TbbkYS4x.jpg" group-title="PELICULAS",Al acecho del leopardo (2011)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72807
+#EXTINF:-1 tvg-id="" tvg-name="A la hora señalada (1995)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A1FJwUVg84sQSjHVz5jVMXQvifJ.jpg" group-title="PELICULAS",A la hora señalada (1995)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72808
+#EXTINF:-1 tvg-id="" tvg-name="Alba (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/BBGo2f4RwICEPsQGpchoVx31KL.jpg" group-title="PELICULAS",Alba (2016)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72809
+#EXTINF:-1 tvg-id="" tvg-name="Alguien voló sobre el nido del cuco (1975)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yU7bnfzfhZoxkZRcJfTbhxfFJhg.jpg" group-title="PELICULAS",Alguien voló sobre el nido del cuco (1975)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72810
+#EXTINF:-1 tvg-id="" tvg-name="All the Way (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j4AEurmnYoRsA1nHhRK9AE4j2CL.jpg" group-title="PELICULAS",All the Way (2016)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72811
+#EXTINF:-1 tvg-id="" tvg-name="Alma salvaje (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/95HIDefwG7xIzbPXABJdZCZUdQ2.jpg" group-title="PELICULAS",Alma salvaje (2014)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72812
+#EXTINF:-1 tvg-id="" tvg-name="Los secretos del corazón (Rabbit Hole) (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zTUQXwMn4ndt5AAcDvJCi14ZY2B.jpg" group-title="PELICULAS",Los secretos del corazón (Rabbit Hole) (2010)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72813
+#EXTINF:-1 tvg-id="" tvg-name="Amadeus (1984)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nI24KqCadkHbjF4LpVHmUhQRNDn.jpg" group-title="PELICULAS",Amadeus (1984)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72814
+#EXTINF:-1 tvg-id="" tvg-name="Amador (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dMyk28pbvnFw1IMt3j6zGPRY1zi.jpg" group-title="PELICULAS",Amador (2010)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72815
+#EXTINF:-1 tvg-id="" tvg-name="Amar (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zyMtH3LYpYMsvy3rJxhtLpvUyoJ.jpg" group-title="PELICULAS",Amar (2017)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72816
+#EXTINF:-1 tvg-id="" tvg-name="Blackhat: Amenaza en la red (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6KGxFPcGcyYnN4ct96nmYoabLZ6.jpg" group-title="PELICULAS",Blackhat: Amenaza en la red (2015)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72817
+#EXTINF:-1 tvg-id="" tvg-name="American Animals (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aLbdKxgxuOPvs6CTlmzoOQ4Yg3j.jpg" group-title="PELICULAS",American Animals (2018)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72818
+#EXTINF:-1 tvg-id="" tvg-name="American History X (1998)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y1bOldgPms4HHouTHz55Xcvm6tK.jpg" group-title="PELICULAS",American History X (1998)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72819
+#EXTINF:-1 tvg-id="" tvg-name="La gran estafa americana (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8RKWeBKsn0dMgknx6cxco1nIyIJ.jpg" group-title="PELICULAS",La gran estafa americana (2013)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72820
+#EXTINF:-1 tvg-id="" tvg-name="American Pastoral (Pastoral americana) (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zfgstcDllBokre3LIb8vRpPq6Ac.jpg" group-title="PELICULAS",American Pastoral (Pastoral americana) (2016)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72821
+#EXTINF:-1 tvg-id="" tvg-name="Amistad (1997)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vhOZNKsyShoNLNBBKeXNWBPAta1.jpg" group-title="PELICULAS",Amistad (1997)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72822
+#EXTINF:-1 tvg-id="" tvg-name="Amor Carnal (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n0HbMNvufhQSNkQdru7CjpjiMX0.jpg" group-title="PELICULAS",Amor Carnal (2016)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72823
+#EXTINF:-1 tvg-id="" tvg-name="Amores perros (2000)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uoObXx53SjSLLtAavMSIe02zizs.jpg" group-title="PELICULAS",Amores perros (2000)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72824
+#EXTINF:-1 tvg-id="" tvg-name="Las cenizas de Ángela (1999)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k6u82Ah6tTt3hsMIbdaY81arANZ.jpg" group-title="PELICULAS",Las cenizas de Ángela (1999)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72825
+#EXTINF:-1 tvg-id="" tvg-name="Animales fantásticos: los crímenes de Grindelwald (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p4BabO5lvfXnIsVIBLDpN2wLORz.jpg" group-title="PELICULAS",Animales fantásticos: los crímenes de Grindelwald (2018)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72826
+#EXTINF:-1 tvg-id="" tvg-name="Ana y el rey (1999)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yXpEWiFJHsrzRJBXadCpus6acGG.jpg" group-title="PELICULAS",Ana y el rey (1999)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72827
+#EXTINF:-1 tvg-id="" tvg-name="Ana de las tejas verdes (1985)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zADR6CcBrLKjZEBqAMi3wZwXXG7.jpg" group-title="PELICULAS",Ana de las tejas verdes (1985)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72828
+#EXTINF:-1 tvg-id="" tvg-name="Ana de las tejas verdes: La continuación (1987)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4PIwGZt80dIh7kf2fyBQxk5AKMO.jpg" group-title="PELICULAS",Ana de las tejas verdes: La continuación (1987)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72829
+#EXTINF:-1 tvg-id="" tvg-name="Antes y después (1996)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/isfMb4GxD7En0I3q7ldnM1ksTaG.jpg" group-title="PELICULAS",Antes y después (1996)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72830
+#EXTINF:-1 tvg-id="" tvg-name="Apolo. La juventud baila (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4W3vdu5GRjq5uBHljMPBK0A98Zj.jpg" group-title="PELICULAS",Apolo. La juventud baila (2018)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72831
+#EXTINF:-1 tvg-id="" tvg-name="Apolo 13 (1995)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dmAFHZ56Dswb9M1bR7qJdH6RJmi.jpg" group-title="PELICULAS",Apolo 13 (1995)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72832
+#EXTINF:-1 tvg-id="" tvg-name="La corresponsal (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mu2CPpT2XUVgsDEdtcelXhq5DwH.jpg" group-title="PELICULAS",La corresponsal (2018)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72833
+#EXTINF:-1 tvg-id="" tvg-name="Molly's Game (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sxV1wlobArp7paz16QuC8n1dPwj.jpg" group-title="PELICULAS",Molly's Game (2017)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72834
+#EXTINF:-1 tvg-id="" tvg-name="Aquí no ha pasado nada (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sltBvNQGWY3Jnpecy4kbRxJ17v5.jpg" group-title="PELICULAS",Aquí no ha pasado nada (2016)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72835
+#EXTINF:-1 tvg-id="" tvg-name="Armero (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1yhaCCHSZ0fs5cbLDLO1XYEinRv.jpg" group-title="PELICULAS",Armero (2017)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72836
+#EXTINF:-1 tvg-id="" tvg-name="Así nos va (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mp6aEHJa1SUQD0BvmbytvVjHk8.jpg" group-title="PELICULAS",Así nos va (2014)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72837
+#EXTINF:-1 tvg-id="" tvg-name="Pregunta lo que quieras (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u0rEtOp6jI7oU6u3m7v1aAOJNQr.jpg" group-title="PELICULAS",Pregunta lo que quieras (2014)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72838
+#EXTINF:-1 tvg-id="" tvg-name="Asylum: El experimento (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/itvsscemvBjw8WtKXToSmNEbHPK.jpg" group-title="PELICULAS",Asylum: El experimento (2014)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72839
+#EXTINF:-1 tvg-id="" tvg-name="Atrápame si puedes (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fxX5KGDO4lf2yyBJn2IxBx3F4cO.jpg" group-title="PELICULAS",Atrápame si puedes (2002)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72840
+#EXTINF:-1 tvg-id="" tvg-name="Av. Larco (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ozG4f0FLr0yPJtU3clFBJVdsNaw.jpg" group-title="PELICULAS",Av. Larco (2017)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72841
+#EXTINF:-1 tvg-id="" tvg-name="Caminando entre las tumbas (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nb0L57p0r25ehV46trx86537ByP.jpg" group-title="PELICULAS",Caminando entre las tumbas (2014)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72842
+#EXTINF:-1 tvg-id="" tvg-name="A Wish for Christmas (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9z81XnaxHJ7LYptef6augvgwake.jpg" group-title="PELICULAS",A Wish for Christmas (2016)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72843
+#EXTINF:-1 tvg-id="" tvg-name="Bajo cero (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2o6WIGfZ2A5anSfAODwDkXq1iqd.jpg" group-title="PELICULAS",Bajo cero (2006)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72844
+#EXTINF:-1 tvg-id="" tvg-name="Bajo cero: milagro en la montaña (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uuaL8Wjl5LW2WpnZTgVMYjr72PZ.jpg" group-title="PELICULAS",Bajo cero: milagro en la montaña (2017)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72845
+#EXTINF:-1 tvg-id="" tvg-name="Bajo la rosa (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d4ELqJSvUTXFyEkZrzQL7WpO41c.jpg" group-title="PELICULAS",Bajo la rosa (2017)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72846
+#EXTINF:-1 tvg-id="" tvg-name="Banderas de nuestros padres (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gpvlDdAfr3ImydsZxGnYM0bcrJg.jpg" group-title="PELICULAS",Banderas de nuestros padres (2006)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72847
+#EXTINF:-1 tvg-id="" tvg-name="Basada en hechos reales (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y4nbcV8ckxcb2j1GgTiRL0gyGKB.jpg" group-title="PELICULAS",Basada en hechos reales (2017)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72848
+#EXTINF:-1 tvg-id="" tvg-name="El traficante (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pmN2sk7vOofhxve96t9bvnAgTjG.jpg" group-title="PELICULAS",El traficante (2018)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72849
+#EXTINF:-1 tvg-id="" tvg-name="Beautiful Boy (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7puPuSeje8315Pbdxzo8bxHD6EB.jpg" group-title="PELICULAS",Beautiful Boy (2010)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72850
+#EXTINF:-1 tvg-id="" tvg-name="Bel Canto. La última función (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/prJuHMuv4NBlZ0UEPpoSe8iDFkW.jpg" group-title="PELICULAS",Bel Canto. La última función (2018)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72851
+#EXTINF:-1 tvg-id="" tvg-name="Bella Mafia (1997)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mxq0lb3ZwR2McB868Ub6VmelyzR.jpg" group-title="PELICULAS",Bella Mafia (1997)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72852
+#EXTINF:-1 tvg-id="" tvg-name="American Beauty (1999)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5DyStTYPt4MUtgWjmc8mmzTp4ew.jpg" group-title="PELICULAS",American Beauty (1999)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72853
+#EXTINF:-1 tvg-id="" tvg-name="Belleza oculta (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yehmgSrs0duzn9y5LnjkF9RrkaJ.jpg" group-title="PELICULAS",Belleza oculta (2016)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72854
+#EXTINF:-1 tvg-id="" tvg-name="Benny & Joon: El amor de los inocentes (1993)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rMFkZ7pM6CxfEhdGRJOO0QlFFKR.jpg" group-title="PELICULAS",Benny & Joon: El amor de los inocentes (1993)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72855
+#EXTINF:-1 tvg-id="" tvg-name="Bienvenidos a Belleville (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fedxSLmZ7wmUiJBCEyvXZACZpLD.jpg" group-title="PELICULAS",Bienvenidos a Belleville (2003)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72856
+#EXTINF:-1 tvg-id="" tvg-name="La gran hambruna (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gZiu9RIcMeQLUaDVqQffQTl6bhy.jpg" group-title="PELICULAS",La gran hambruna (2018)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72857
+#EXTINF:-1 tvg-id="" tvg-name="Promesa sangrienta (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/btcBcN9GNJStdaYJbmOcm2fIdrx.jpg" group-title="PELICULAS",Promesa sangrienta (2009)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72858
+#EXTINF:-1 tvg-id="" tvg-name="Blood Brother (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/46Z8vyP3G10ASVeLKERc3qgta1E.jpg" group-title="PELICULAS",Blood Brother (2018)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72859
+#EXTINF:-1 tvg-id="" tvg-name="Blood Money (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yCvcvsP3w4CyiB3CLTxwaHBpKro.jpg" group-title="PELICULAS",Blood Money (2017)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72860
+#EXTINF:-1 tvg-id="" tvg-name="Blow (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t3E4XlBsxBarWAUlilIE7xgf6Bu.jpg" group-title="PELICULAS",Blow (2001)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72861
+#EXTINF:-1 tvg-id="" tvg-name="Sangre por sangre (1993)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Wc4S6rFHKJ7jyghOdZVWVVC49j.jpg" group-title="PELICULAS",Sangre por sangre (1993)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72862
+#EXTINF:-1 tvg-id="" tvg-name="Boys Don't Cry (1999)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mnnGtVKxDyLCsqfHC0WfXCJRJvR.jpg" group-title="PELICULAS",Boys Don't Cry (1999)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72863
+#EXTINF:-1 tvg-id="" tvg-name="Boys in the Trees (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uxYNmTENdL30TnjX3jRqBKEmnv2.jpg" group-title="PELICULAS",Boys in the Trees (2016)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72864
+#EXTINF:-1 tvg-id="" tvg-name="Los chicos del barrio (1991)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pZJJe938He0wHmJfJ333gRuzod3.jpg" group-title="PELICULAS",Los chicos del barrio (1991)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72865
+#EXTINF:-1 tvg-id="" tvg-name="Brazil (1985)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x7N8ZbCw7ojT8XbvoeGL0LXTK8E.jpg" group-title="PELICULAS",Brazil (1985)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72866
+#EXTINF:-1 tvg-id="" tvg-name="Burlesque (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3U9zBIibERQZqYKM3N1a4MYgBsN.jpg" group-title="PELICULAS",Burlesque (2010)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72867
+#EXTINF:-1 tvg-id="" tvg-name="Buscando un destino (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a6L0Jnlk8lwnTuY75UFqGZA4ogZ.jpg" group-title="PELICULAS",Buscando un destino (2013)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72868
+#EXTINF:-1 tvg-id="" tvg-name="Cadena de favores (2000)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gZisbwWAjMBmR0VGs9Ep6iYSjDR.jpg" group-title="PELICULAS",Cadena de favores (2000)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72869
+#EXTINF:-1 tvg-id="" tvg-name="Cadillac Records (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/71SDc1iIAK3mv0PDl4eoD2O5eCd.jpg" group-title="PELICULAS",Cadillac Records (2008)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72870
+#EXTINF:-1 tvg-id="" tvg-name="Cake (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5GJEZovjtKisJxNMG6fBTCxNzZi.jpg" group-title="PELICULAS",Cake (2014)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72871
+#EXTINF:-1 tvg-id="" tvg-name="Call me by your name (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cfqc9Z287VPRV85NrOIS1bxHlBT.jpg" group-title="PELICULAS",Call me by your name (2017)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72872
+#EXTINF:-1 tvg-id="" tvg-name="Camino a la libertad (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rTCAjT6sOVG2LReVdBr7od8boGw.jpg" group-title="PELICULAS",Camino a la libertad (2010)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72873
+#EXTINF:-1 tvg-id="" tvg-name="Campeón (1979)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9OMXgwGwczwUCoyUC5wOgQZxo7U.jpg" group-title="PELICULAS",Campeón (1979)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72874
+#EXTINF:-1 tvg-id="" tvg-name="El precio del poder (1983)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6ZV3PqpuVMBFEtHKUPMh7kntKKP.jpg" group-title="PELICULAS",El precio del poder (1983)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72875
+#EXTINF:-1 tvg-id="" tvg-name="Cargo (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cdPSUck4tBRvRu6DFk6XciDrssn.jpg" group-title="PELICULAS",Cargo (2017)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72876
+#EXTINF:-1 tvg-id="" tvg-name="Loving Vincent (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3EApKIxlgS3plXBR5xCmYzrh2j8.jpg" group-title="PELICULAS",Loving Vincent (2017)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72877
+#EXTINF:-1 tvg-id="" tvg-name="Casablanca (1942)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r4PPjF6PgEczAZ6uZijodzMYSix.jpg" group-title="PELICULAS",Casablanca (1942)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72878
+#EXTINF:-1 tvg-id="" tvg-name="Casi leyendas (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ySp07i0wzkCfRUFnr6jGUYTPutS.jpg" group-title="PELICULAS",Casi leyendas (2017)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72879
+#EXTINF:-1 tvg-id="" tvg-name="El castillo de cristal (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kF8y0kVdUQZj4c23XKitfjMGWqK.jpg" group-title="PELICULAS",El castillo de cristal (2017)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72880
+#EXTINF:-1 tvg-id="" tvg-name="I Kill Giants (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hrDbPQkEwkv7NQNpJ9UfwSZ1nC8.jpg" group-title="PELICULAS",I Kill Giants (2018)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72881
+#EXTINF:-1 tvg-id="" tvg-name="A la caza de los ñumanos (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rzu1NT7TXVY1DBxfHEX5yaeOFkC.jpg" group-title="PELICULAS",A la caza de los ñumanos (2016)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72882
+#EXTINF:-1 tvg-id="" tvg-name="Churchill (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rMM0EcVfge5HEJwDYOAVY36NBjg.jpg" group-title="PELICULAS",Churchill (2017)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72883
+#EXTINF:-1 tvg-id="" tvg-name="Cincuenta sombras de Grey (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mNZcZOIlTwDKd30xLnRR4p0ZELg.jpg" group-title="PELICULAS",Cincuenta sombras de Grey (2015)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72884
+#EXTINF:-1 tvg-id="" tvg-name="Cincuenta sombras liberadas (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sM8hwgWZlmZf0h4aOkNopb3HBIo.jpg" group-title="PELICULAS",Cincuenta sombras liberadas (2018)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72885
+#EXTINF:-1 tvg-id="" tvg-name="Cincuenta sombras más oscuras (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jvBAQOg2ObZKYXZGxYSz3Fkr7Qt.jpg" group-title="PELICULAS",Cincuenta sombras más oscuras (2017)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72886
+#EXTINF:-1 tvg-id="" tvg-name="Cinderella Man: El hombre que no se dejó tumbar (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9qJlfL3fB5d8MotO4kUtDgH4Yr8.jpg" group-title="PELICULAS",Cinderella Man: El hombre que no se dejó tumbar (2005)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72887
+#EXTINF:-1 tvg-id="" tvg-name="Cinema Verite (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yyXW04JEfVHBoK6ijeHiBle0odo.jpg" group-title="PELICULAS",Cinema Verite (2011)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72888
+#EXTINF:-1 tvg-id="" tvg-name="Ciudad de Dios (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2MztAexSbCVszezV0bKMKZPJAZf.jpg" group-title="PELICULAS",Ciudad de Dios (2002)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72889
+#EXTINF:-1 tvg-id="" tvg-name="Madtown (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hXJ8t2kVgQyDZubVcpG1M7TZETE.jpg" group-title="PELICULAS",Madtown (2016)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72890
+#EXTINF:-1 tvg-id="" tvg-name="Ciudades de papel (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kala11GwSTYQ2yL7rIxVrdsayRa.jpg" group-title="PELICULAS",Ciudades de papel (2015)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72891
+#EXTINF:-1 tvg-id="" tvg-name="El atlas de las nubes (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6O6tW56P1UU5UKLtwMQB2gpsrSh.jpg" group-title="PELICULAS",El atlas de las nubes (2012)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72892
+#EXTINF:-1 tvg-id="" tvg-name="de la rebeldía a la leyenda de Chanel (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yz5JhT8ecEJLw30tvAN29LOyFcW.jpg" group-title="PELICULAS",de la rebeldía a la leyenda de Chanel (2009)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72893
+#EXTINF:-1 tvg-id="" tvg-name="Windtalkers (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nDVe8IpViR0bdFrraEN2IZnBanN.jpg" group-title="PELICULAS",Windtalkers (2002)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72894
+#EXTINF:-1 tvg-id="" tvg-name="Colonia (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yqIjUrxdMvzARjPeEW63FlDpuui.jpg" group-title="PELICULAS",Colonia (2016)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72895
+#EXTINF:-1 tvg-id="" tvg-name="Confirmation (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/595fYO2tUbkhaYi43wDJGKFquzQ.jpg" group-title="PELICULAS",Confirmation (2016)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72896
+#EXTINF:-1 tvg-id="" tvg-name="The Gerber Syndrome - Il contagio (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pBmvk8D8sE9PiICNk0MP9yJQxM6.jpg" group-title="PELICULAS",The Gerber Syndrome - Il contagio (2011)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72897
+#EXTINF:-1 tvg-id="" tvg-name="Contracorriente (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d8I7Sjmp5PjVfrtrFmFdXfFeNLu.jpg" group-title="PELICULAS",Contracorriente (2009)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72898
+#EXTINF:-1 tvg-id="" tvg-name="Betty Anne Waters (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aA4OEmy5QDnPNv2o2w5nCy52QBK.jpg" group-title="PELICULAS",Betty Anne Waters (2010)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72899
+#EXTINF:-1 tvg-id="" tvg-name="Corazones de hierro (1989)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4yuNV7Ze62EsZXzKrVKV7PbEKfN.jpg" group-title="PELICULAS",Corazones de hierro (1989)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72900
+#EXTINF:-1 tvg-id="" tvg-name="Country Strong (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4AMEQzrWzqU4boThrJfeHkhSj7L.jpg" group-title="PELICULAS",Country Strong (2010)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72901
+#EXTINF:-1 tvg-id="" tvg-name="Crash (Colisión) (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rF52ZAaTpBV6VhmwNpRwpQH1MBo.jpg" group-title="PELICULAS",Crash (Colisión) (2005)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72902
+#EXTINF:-1 tvg-id="" tvg-name="Creed. La leyenda de Rocky (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/13cA8aW3XuQG2CGWLPS3cMO52MQ.jpg" group-title="PELICULAS",Creed. La leyenda de Rocky (2015)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72903
+#EXTINF:-1 tvg-id="" tvg-name="Creed II: la leyenda de Rocky (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2t53WEu1Ck7qAMS3theMnQK2N2c.jpg" group-title="PELICULAS",Creed II: la leyenda de Rocky (2018)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72904
+#EXTINF:-1 tvg-id="" tvg-name="Crímenes oscuros (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pbxmGUqCQ2RjqoCZxjNmxTFt7XG.jpg" group-title="PELICULAS",Crímenes oscuros (2018)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72905
+#EXTINF:-1 tvg-id="" tvg-name="Delitos y faltas (1989)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ptBljoTY9KrAIOZcULsIs2J3fGc.jpg" group-title="PELICULAS",Delitos y faltas (1989)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72906
+#EXTINF:-1 tvg-id="" tvg-name="Crónicas de un tiroteo (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zGp0aPvctgTf0q9HIBVcoS4Bncu.jpg" group-title="PELICULAS",Crónicas de un tiroteo (2009)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72907
+#EXTINF:-1 tvg-id="" tvg-name="Cronos (1993)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6vgjMO8lBc2L3qT8K1eoky49LBk.jpg" group-title="PELICULAS",Cronos (1993)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72908
+#EXTINF:-1 tvg-id="" tvg-name="Crown Heights (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ksTHqOb8bPPdbIsZXHnWX3NrgfH.jpg" group-title="PELICULAS",Crown Heights (2017)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72909
+#EXTINF:-1 tvg-id="" tvg-name="Cuando los hijos regresan (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A32jM9IB3UFDQuAk2nbHnqxsZue.jpg" group-title="PELICULAS",Cuando los hijos regresan (2017)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72910
+#EXTINF:-1 tvg-id="" tvg-name="Cuando un hombre ama a una mujer (1994)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6XQ1oWGNgtMw91v7wVqsTdBrggF.jpg" group-title="PELICULAS",Cuando un hombre ama a una mujer (1994)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72911
+#EXTINF:-1 tvg-id="" tvg-name="Cuento de invierno (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zDbpndYrheT0kGetWjuBJ8pmFzt.jpg" group-title="PELICULAS",Cuento de invierno (2014)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72912
+#EXTINF:-1 tvg-id="" tvg-name="Cut Bank (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hP5N3R8qqe7JT4N3esgh23GOpCN.jpg" group-title="PELICULAS",Cut Bank (2014)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72913
+#EXTINF:-1 tvg-id="" tvg-name="Dame tus ojos (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hTmhIv39zKBqcBnRLe5hMtvJKuv.jpg" group-title="PELICULAS",Dame tus ojos (2012)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72914
+#EXTINF:-1 tvg-id="" tvg-name="Bailando con lobos (1990)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fFRs3WcrrX7F8CEANVrVzrIu925.jpg" group-title="PELICULAS",Bailando con lobos (1990)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72915
+#EXTINF:-1 tvg-id="" tvg-name="El instante más oscuro (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bvfIACbN7YtScwvEt0UhGsheWae.jpg" group-title="PELICULAS",El instante más oscuro (2017)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72916
+#EXTINF:-1 tvg-id="" tvg-name="Das Boot. El submarino (1981)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qXeULeu5uHHXYHRsbITzuLN51EB.jpg" group-title="PELICULAS",Das Boot. El submarino (1981)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72917
+#EXTINF:-1 tvg-id="" tvg-name="Deber cumplido (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1sMGs4XnQxf1XFv4QriirKxIzX1.jpg" group-title="PELICULAS",Deber cumplido (2017)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72918
+#EXTINF:-1 tvg-id="" tvg-name="Song to Song (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fZ1tHVE8KW1OnemlRSVulpgvejd.jpg" group-title="PELICULAS",Song to Song (2017)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72919
+#EXTINF:-1 tvg-id="" tvg-name="Déjame entrar (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lQX09oC3S4BKIg6dpKxr5oGGsIr.jpg" group-title="PELICULAS",Déjame entrar (2010)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72920
+#EXTINF:-1 tvg-id="" tvg-name="Demolición (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vGAQasaiocRmXkabQuvM2o1kjBB.jpg" group-title="PELICULAS",Demolición (2016)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72921
+#EXTINF:-1 tvg-id="" tvg-name="De padres a hijas (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bGYMxXWAwSNVvuRkuZnoae4O33P.jpg" group-title="PELICULAS",De padres a hijas (2015)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72922
+#EXTINF:-1 tvg-id="" tvg-name="Secuestrado (Kidnap) (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1jcD7bGnoWTIaQTu6gQLNj4E7aF.jpg" group-title="PELICULAS",Secuestrado (Kidnap) (2017)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72923
+#EXTINF:-1 tvg-id="" tvg-name="Descubriendo a Morrissey (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/70YhV2zCStn2gSbpccUGUCNwYu7.jpg" group-title="PELICULAS",Descubriendo a Morrissey (2017)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72924
+#EXTINF:-1 tvg-id="" tvg-name="The Lovely Bones (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sn0iDphRxQ7I6aLd9igIgACITak.jpg" group-title="PELICULAS",The Lovely Bones (2009)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72925
+#EXTINF:-1 tvg-id="" tvg-name="El justiciero (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3hkImCSIM8ROpTSA8EF2joYdBNd.jpg" group-title="PELICULAS",El justiciero (2018)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72926
+#EXTINF:-1 tvg-id="" tvg-name="Deseos (1977)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gDBRJC6Pl6BoHCyRSiBZgGDVeFM.jpg" group-title="PELICULAS",Deseos (1977)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72927
+#EXTINF:-1 tvg-id="" tvg-name="Desire (2000)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wqoQPQDJ6dykXjD98fZRaODb36L.jpg" group-title="PELICULAS",Desire (2000)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72928
+#EXTINF:-1 tvg-id="" tvg-name="Despertares (1990)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dkQfTT6hpfll4dzhfC0pNjRwXAe.jpg" group-title="PELICULAS",Despertares (1990)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72929
+#EXTINF:-1 tvg-id="" tvg-name="Destroyer. Una mujer herida (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jjZcNNFc8DTudMFbN3OeWo6g2Kn.jpg" group-title="PELICULAS",Destroyer. Una mujer herida (2018)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72930
+#EXTINF:-1 tvg-id="" tvg-name="Diana (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u1e2hMO0GvtTE5OXsMcPUDyfMgs.jpg" group-title="PELICULAS",Diana (2013)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72931
+#EXTINF:-1 tvg-id="" tvg-name="Diré tu nombre (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1zeG0kUBvbDqMBgJttiQhoRwKus.jpg" group-title="PELICULAS",Diré tu nombre (2017)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72932
+#EXTINF:-1 tvg-id="" tvg-name="Dirt (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vTaCOiOHIizJcahCgRoBQWtDwsz.jpg" group-title="PELICULAS",Dirt (2018)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72933
+#EXTINF:-1 tvg-id="" tvg-name="Dirty Dancing (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/itjxxb8I1TfK1H3TGvrs5aJDM9a.jpg" group-title="PELICULAS",Dirty Dancing (2017)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72934
+#EXTINF:-1 tvg-id="" tvg-name="Doble traición (1999)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e8QCTF53UZQKHBGUcih0Itr7INr.jpg" group-title="PELICULAS",Doble traición (1999)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72935
+#EXTINF:-1 tvg-id="" tvg-name="Dolor y gloria (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2kg9rw0qVT0YCtUFXopcJsnDHAK.jpg" group-title="PELICULAS",Dolor y gloria (2019)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72936
+#EXTINF:-1 tvg-id="" tvg-name="Donnie Darko (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nu54TDGOHwMPqWpASTDt28wuhO0.jpg" group-title="PELICULAS",Donnie Darko (2001)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72937
+#EXTINF:-1 tvg-id="" tvg-name="Dragged Across Concrete (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4HtOea2Oo7axrkFWw2i3oIygOm.jpg" group-title="PELICULAS",Dragged Across Concrete (2019)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72938
+#EXTINF:-1 tvg-id="" tvg-name="Drive (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tQq9vJLmj01aA5gmXoBJ5lzypr2.jpg" group-title="PELICULAS",Drive (2011)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72939
+#EXTINF:-1 tvg-id="" tvg-name="Paseando a Miss Daisy (1989)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wRLwmrenqa2DUzgA7GWR97fT4Ps.jpg" group-title="PELICULAS",Paseando a Miss Daisy (1989)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72940
+#EXTINF:-1 tvg-id="" tvg-name="Duck Butter (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zQkNvLOudRFzpmLfDY8q2fcSOtE.jpg" group-title="PELICULAS",Duck Butter (2018)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72941
+#EXTINF:-1 tvg-id="" tvg-name="Effie Gray (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eEeuxFscc6NLdyhpvqBGsHgpqV3.jpg" group-title="PELICULAS",Effie Gray (2014)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72942
+#EXTINF:-1 tvg-id="" tvg-name="Pactar con el diablo (1997)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kO0gL6J6LM85QOZFQTAd4yYlQX.jpg" group-title="PELICULAS",Pactar con el diablo (1997)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72943
+#EXTINF:-1 tvg-id="" tvg-name="El americano (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1LF6NQG6CI7nY3sB5b0pygfUkkC.jpg" group-title="PELICULAS",El americano (2010)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72944
+#EXTINF:-1 tvg-id="" tvg-name="todo (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/otDv3BdUoMPl1h6qmAvFucVcefP.jpg" group-title="PELICULAS",todo (2017)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72945
+#EXTINF:-1 tvg-id="" tvg-name="El caso de Calvin Willis (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kBNVkpvHU6fUOHUPv4OkdWvb9sO.jpg" group-title="PELICULAS",El caso de Calvin Willis (2010)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72946
+#EXTINF:-1 tvg-id="" tvg-name="El caso de Cristo (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vWNsVxismTahgcFvs7ZObPMiuYG.jpg" group-title="PELICULAS",El caso de Cristo (2017)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72947
+#EXTINF:-1 tvg-id="" tvg-name="El caso Heineken (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aR7olYUR6SKHewhUBLqRFLtfvJM.jpg" group-title="PELICULAS",El caso Heineken (2015)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72948
+#EXTINF:-1 tvg-id="" tvg-name="Bubble Boy (El Chico de la Burbuja) (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tFwvUSc8g0HHvDOBQ2rvC9LWVSj.jpg" group-title="PELICULAS",Bubble Boy (El Chico de la Burbuja) (2001)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72949
+#EXTINF:-1 tvg-id="" tvg-name="El chico del millón de dólares (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jn2WHwRLN2VmSkdaEMGxce2usuE.jpg" group-title="PELICULAS",El chico del millón de dólares (2014)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72950
+#EXTINF:-1 tvg-id="" tvg-name="El clan (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6icQ3PPhM4Vg8mBnCDXMXovuF3R.jpg" group-title="PELICULAS",El clan (2015)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72951
+#EXTINF:-1 tvg-id="" tvg-name="El club de la lucha (1999)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1yWmCAIGSVNuTOGyz9F48W9g1Ux.jpg" group-title="PELICULAS",El club de la lucha (1999)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72952
+#EXTINF:-1 tvg-id="" tvg-name="El Cristo ciego (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eMfCmwOSeubEyF84Mi6pgKimGt.jpg" group-title="PELICULAS",El Cristo ciego (2016)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72953
+#EXTINF:-1 tvg-id="" tvg-name="El cuerpo del delito (1993)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/blWCLJHZGgJcJvZMpqo8T4w8RoM.jpg" group-title="PELICULAS",El cuerpo del delito (1993)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72954
+#EXTINF:-1 tvg-id="" tvg-name="El curioso caso de Benjamin Button (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tq8yOj5fu4aLVdMUbibm9GEkmuN.jpg" group-title="PELICULAS",El curioso caso de Benjamin Button (2008)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72955
+#EXTINF:-1 tvg-id="" tvg-name="El demonio bajo la piel (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dqcBY2W5GhG7WnwCW45ckz5fSg8.jpg" group-title="PELICULAS",El demonio bajo la piel (2010)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72956
+#EXTINF:-1 tvg-id="" tvg-name="El desafío (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bNA2wIdgnadizeAD7YH9FuM8Jv5.jpg" group-title="PELICULAS",El desafío (2015)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72957
+#EXTINF:-1 tvg-id="" tvg-name="El desafío de las águilas (1968)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eaObTparTASOFlD7lpj0qEtrWje.jpg" group-title="PELICULAS",El desafío de las águilas (1968)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72958
+#EXTINF:-1 tvg-id="" tvg-name="The Discovery (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nLIDouFvreSrs8xK62zuvpEPDw0.jpg" group-title="PELICULAS",The Discovery (2017)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72959
+#EXTINF:-1 tvg-id="" tvg-name="The Stray (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bxw9tRRPZHIQ3vYOubS3DVfgnDo.jpg" group-title="PELICULAS",The Stray (2017)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72960
+#EXTINF:-1 tvg-id="" tvg-name="El escándalo Ted Kennedy (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mo3yj3ALwt2ZLEShhK8cbGQIUtp.jpg" group-title="PELICULAS",El escándalo Ted Kennedy (2018)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72961
+#EXTINF:-1 tvg-id="" tvg-name="El escritor (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vSfc6sznIOFHlkVh7BlNoSuypxl.jpg" group-title="PELICULAS",El escritor (2010)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72962
+#EXTINF:-1 tvg-id="" tvg-name="The Phenom (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6IhtSMsGW86dYfsRqEcXxiCME23.jpg" group-title="PELICULAS",The Phenom (2016)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72963
+#EXTINF:-1 tvg-id="" tvg-name="El fundador (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zpqzcMNU3idAlTR9r9DIPaw0bgc.jpg" group-title="PELICULAS",El fundador (2016)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72964
+#EXTINF:-1 tvg-id="" tvg-name="El gato desaparece (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qBV7k0eO3cwuQ9kxmQ9js5qycpm.jpg" group-title="PELICULAS",El gato desaparece (2011)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72965
+#EXTINF:-1 tvg-id="" tvg-name="211 (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4UPlLPXINfeeABoV6zyvQKLW2I4.jpg" group-title="PELICULAS",211 (2018)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72966
+#EXTINF:-1 tvg-id="" tvg-name="Big Fish (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1LqFD9ATxBxP1Szh5WRIFrE7gbq.jpg" group-title="PELICULAS",Big Fish (2003)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72967
+#EXTINF:-1 tvg-id="" tvg-name="El gran showman (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4ssLEvNQ5oM9sJnV6FkDVgOtyAE.jpg" group-title="PELICULAS",El gran showman (2017)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72968
+#EXTINF:-1 tvg-id="" tvg-name="El héroe de Berlín (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pE4v040BWPaFj5YjAeTGTOnvP4s.jpg" group-title="PELICULAS",El héroe de Berlín (2016)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72969
+#EXTINF:-1 tvg-id="" tvg-name="la última profecía (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/poYhzoLWvxDGCsSfGBLjc90VN1e.jpg" group-title="PELICULAS",la última profecía (2002)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72970
+#EXTINF:-1 tvg-id="" tvg-name="El hombre que conocía el infinito (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sUnBAIZwvtLgAucRe9PixhYEvec.jpg" group-title="PELICULAS",El hombre que conocía el infinito (2016)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72971
+#EXTINF:-1 tvg-id="" tvg-name="El hombre que mató a Liberty Valance (1962)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kri89b1pIhYfkZrvNCouDxwyKSH.jpg" group-title="PELICULAS",El hombre que mató a Liberty Valance (1962)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72972
+#EXTINF:-1 tvg-id="" tvg-name="El incidente (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r5tUWYqZvVjjNf3hOzNGsIqNT8B.jpg" group-title="PELICULAS",El incidente (2008)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72973
+#EXTINF:-1 tvg-id="" tvg-name="El informador (2000)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uYbkko9u3RUbrFO7oDCScxdOlvQ.jpg" group-title="PELICULAS",El informador (2000)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72974
+#EXTINF:-1 tvg-id="" tvg-name="Mark Felt. El informante (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gdc13Aj5w3Wn4RiJtYFHtrXIG2L.jpg" group-title="PELICULAS",Mark Felt. El informante (2017)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72975
+#EXTINF:-1 tvg-id="" tvg-name="El instante más oscuro (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bvfIACbN7YtScwvEt0UhGsheWae.jpg" group-title="PELICULAS",El instante más oscuro (2017)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72976
+#EXTINF:-1 tvg-id="" tvg-name="El insulto (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/umt1Ia1TcSgUugNEurgziqRqO1R.jpg" group-title="PELICULAS",El insulto (2017)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72977
+#EXTINF:-1 tvg-id="" tvg-name="Gotti (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kjOWt9bMOnFeEz6hl7s7s2W5xeB.jpg" group-title="PELICULAS",Gotti (2018)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72978
+#EXTINF:-1 tvg-id="" tvg-name="Eduardo Manostijeras (1990)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vd8tCekihFx82bzmENaASvbhNmx.jpg" group-title="PELICULAS",Eduardo Manostijeras (1990)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72979
+#EXTINF:-1 tvg-id="" tvg-name="El juego (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w5ubmpOr6xNg7Z95wtal9OKdawb.jpg" group-title="PELICULAS",El juego (2016)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72980
+#EXTINF:-1 tvg-id="" tvg-name="El laberinto del fauno (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Ao83nMqYIYUsD2Q3lNsz6176MlC.jpg" group-title="PELICULAS",El laberinto del fauno (2006)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72981
+#EXTINF:-1 tvg-id="" tvg-name="El libro secreto de Henry (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cePypW0tjH4t1lMvltEWkGkVZpl.jpg" group-title="PELICULAS",El libro secreto de Henry (2017)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72982
+#EXTINF:-1 tvg-id="" tvg-name="El lobo de Wall Street (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jTlIYjvS16XOpsfvYCTmtEHV10K.jpg" group-title="PELICULAS",El lobo de Wall Street (2013)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72983
+#EXTINF:-1 tvg-id="" tvg-name="All Saints (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qM4N0gInaPkrPOHjCeqeGxaieP2.jpg" group-title="PELICULAS",All Saints (2017)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72984
+#EXTINF:-1 tvg-id="" tvg-name="El misterio de Peacok (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iEtrsxfNw9qmAeML3QSzOe0hrS0.jpg" group-title="PELICULAS",El misterio de Peacok (2010)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72985
+#EXTINF:-1 tvg-id="" tvg-name="El muñeco de nieve (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2EB4lIkz0SaBvPFs2eAz2txb1DQ.jpg" group-title="PELICULAS",El muñeco de nieve (2017)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72986
+#EXTINF:-1 tvg-id="" tvg-name="El Muro Adentro (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wFWFxjeMkU9RHo8VeeH1KKy99CI.jpg" group-title="PELICULAS",El Muro Adentro (2017)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72987
+#EXTINF:-1 tvg-id="" tvg-name="El padrino. Parte II (1974)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iJqEycKV96JCBWqx2Ij38Ufa8EH.jpg" group-title="PELICULAS",El padrino. Parte II (1974)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72988
+#EXTINF:-1 tvg-id="" tvg-name="El padrino. Parte III (1990)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l2D8Gzuzw8hN41UthdqM9Osu9I3.jpg" group-title="PELICULAS",El padrino. Parte III (1990)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72989
+#EXTINF:-1 tvg-id="" tvg-name="El padrino (1972)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wLXd1Cd0XW7DhXayfC0Ok5ago9r.jpg" group-title="PELICULAS",El padrino (1972)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72990
+#EXTINF:-1 tvg-id="" tvg-name="El pasajero (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nd7dKQ1Lpkzlvl4V29gEu2Kg3sX.jpg" group-title="PELICULAS",El pasajero (2018)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72991
+#EXTINF:-1 tvg-id="" tvg-name="El profesional (Léon) (1994)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gT8w2VX3LFcQInpVaYL6Mjhbqwx.jpg" group-title="PELICULAS",El profesional (Léon) (1994)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72992
+#EXTINF:-1 tvg-id="" tvg-name="El perfume: Historia de un asesino (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dAR6MYoz8VrUhGsT0F8ZsqONtdp.jpg" group-title="PELICULAS",El perfume: Historia de un asesino (2006)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72993
+#EXTINF:-1 tvg-id="" tvg-name="El pianista (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mxfLOWnHnSlbdraKfzRn5mqoqk7.jpg" group-title="PELICULAS",El pianista (2002)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72994
+#EXTINF:-1 tvg-id="" tvg-name="El poder del perdón (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uE4ag0fKIewrLpeIGME1QWoJret.jpg" group-title="PELICULAS",El poder del perdón (2010)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72995
+#EXTINF:-1 tvg-id="" tvg-name="First Man (El primer hombre) (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hLXDrsgBqdO0xJHoRlBBMMortWL.jpg" group-title="PELICULAS",First Man (El primer hombre) (2018)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72996
+#EXTINF:-1 tvg-id="" tvg-name="El príncipe (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7y024dVkSZyK0n53sAb5fVy5Cnn.jpg" group-title="PELICULAS",El príncipe (2019)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72997
+#EXTINF:-1 tvg-id="" tvg-name="El profesor Marston y Wonder Women (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/34cwZOrzwvQplGw4Vp2CRl4uZ86.jpg" group-title="PELICULAS",El profesor Marston y Wonder Women (2017)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72998
+#EXTINF:-1 tvg-id="" tvg-name="The Florida Project (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2Jwrq1AbGt2vpbdFXGwjy82UU3.jpg" group-title="PELICULAS",The Florida Project (2017)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/72999
+#EXTINF:-1 tvg-id="" tvg-name="Rebelde entre el centeno (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/djOJYZhpD3N1ILAvGv0PvZznB6U.jpg" group-title="PELICULAS",Rebelde entre el centeno (2017)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73000
+#EXTINF:-1 tvg-id="" tvg-name="El sacrificio de un ciervo sagrado (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2iVoj8V3PUiX2tR8VwYG1lU95vu.jpg" group-title="PELICULAS",El sacrificio de un ciervo sagrado (2017)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73001
+#EXTINF:-1 tvg-id="" tvg-name="El secreto de sus ojos (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4qGglMWuI4dHMHX8pMr1BbwaXkW.jpg" group-title="PELICULAS",El secreto de sus ojos (2009)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73002
+#EXTINF:-1 tvg-id="" tvg-name="El secreto de una obsesión (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/biK0cAoIJpnRFg7A7JMIOHY7LMs.jpg" group-title="PELICULAS",El secreto de una obsesión (2015)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73003
+#EXTINF:-1 tvg-id="" tvg-name="El sentido de un final (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7ggTFxqlRCv7jX32814B4rYy42g.jpg" group-title="PELICULAS",El sentido de un final (2017)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73004
+#EXTINF:-1 tvg-id="" tvg-name="El sexto sentido (1999)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wcnLlfQ2USwvyYbd6XgtNEOQfMT.jpg" group-title="PELICULAS",El sexto sentido (1999)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73005
+#EXTINF:-1 tvg-id="" tvg-name="El síndrome de Berlín (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qvJeDDYKlfvtYayfOj5sAUXxUju.jpg" group-title="PELICULAS",El síndrome de Berlín (2017)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73006
+#EXTINF:-1 tvg-id="" tvg-name="El sueño de una noche de verano (1999)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dcczK6MSCn0Q88RvXSVG0BJY5ve.jpg" group-title="PELICULAS",El sueño de una noche de verano (1999)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73007
+#EXTINF:-1 tvg-id="" tvg-name="El tren de las 3:10 (1957)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7UNt0JSO2Ttyxjcp49L0aTkDsLr.jpg" group-title="PELICULAS",El tren de las 3:10 (1957)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73008
+#EXTINF:-1 tvg-id="" tvg-name="El último tour (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3fEuVd8Xorwtk5kFVvyiNlOtcIw.jpg" group-title="PELICULAS",El último tour (2015)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73009
+#EXTINF:-1 tvg-id="" tvg-name="El último virrey de la India (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aTAhc74weEakySzClTl4zUnmKdx.jpg" group-title="PELICULAS",El último virrey de la India (2017)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73010
+#EXTINF:-1 tvg-id="" tvg-name="El viajante (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sYVEbDAlkRxYV8hkqgZYSyAQ0N4.jpg" group-title="PELICULAS",El viajante (2016)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73011
+#EXTINF:-1 tvg-id="" tvg-name="El viaje de sus vidas (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zWFEPp2nM8jUOp1Kt3tW2BYrXsD.jpg" group-title="PELICULAS",El viaje de sus vidas (2017)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73012
+#EXTINF:-1 tvg-id="" tvg-name="Elvis & Nixon (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wA1Hf3JIIeFEdHBUtHraqBzVVHU.jpg" group-title="PELICULAS",Elvis & Nixon (2016)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73013
+#EXTINF:-1 tvg-id="" tvg-name="El vuelo (Flight) (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7kpE6FW5aDOdBvZP5zKzG8sDLfg.jpg" group-title="PELICULAS",El vuelo (Flight) (2012)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73014
+#EXTINF:-1 tvg-id="" tvg-name="The Wackness (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u6CTOWpM2Se4rpuLfmlZUlBfs8N.jpg" group-title="PELICULAS",The Wackness (2008)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73015
+#EXTINF:-1 tvg-id="" tvg-name="Emmanuelle II. La antivirgen (1975)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lV8kebM5syvKoOtuwy07i61g9xh.jpg" group-title="PELICULAS",Emmanuelle II. La antivirgen (1975)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73016
+#EXTINF:-1 tvg-id="" tvg-name="Una oportunidad para Emma (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fYQPVBmw3F8CYOVDhSnzZGCPrDU.jpg" group-title="PELICULAS",Una oportunidad para Emma (2016)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73017
+#EXTINF:-1 tvg-id="" tvg-name="El imperio del sol (1987)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6s0RoC4LuRNKnVWeQ3gq5J8uprN.jpg" group-title="PELICULAS",El imperio del sol (1987)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73018
+#EXTINF:-1 tvg-id="" tvg-name="En busca de la felicidad (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qF6JFr6IdfNep0x6yw3i7S8avAb.jpg" group-title="PELICULAS",En busca de la felicidad (2006)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73019
+#EXTINF:-1 tvg-id="" tvg-name="Enemigo mío (1985)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bKK7XXP10KskhUWSQYldd6wx0Qx.jpg" group-title="PELICULAS",Enemigo mío (1985)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73020
+#EXTINF:-1 tvg-id="" tvg-name="Enganchados a la muerte (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c8NXAvw2fypYgMwZEFIM4DhWMsO.jpg" group-title="PELICULAS",Enganchados a la muerte (2017)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73021
+#EXTINF:-1 tvg-id="" tvg-name="Deep in the Darkness (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/igJo6txL8k83Y203mJZGkIOD1PU.jpg" group-title="PELICULAS",Deep in the Darkness (2014)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73022
+#EXTINF:-1 tvg-id="" tvg-name="En nombre de Caín (1992)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d3cVJ8Pl0qpNpa94QuMSiPGGI2u.jpg" group-title="PELICULAS",En nombre de Caín (1992)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73023
+#EXTINF:-1 tvg-id="" tvg-name="El extraño (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sX4Wn09Fhu1jp0xtNx6kSvNc3w0.jpg" group-title="PELICULAS",El extraño (2016)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73024
+#EXTINF:-1 tvg-id="" tvg-name="Spotlight (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rBkptJyAMqCfoMwUGQfCpubroec.jpg" group-title="PELICULAS",Spotlight (2015)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73025
+#EXTINF:-1 tvg-id="" tvg-name="nunca estuviste aquí (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/505AFHvK3BoHC2zwWXBWkevRTYF.jpg" group-title="PELICULAS",nunca estuviste aquí (2017)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73026
+#EXTINF:-1 tvg-id="" tvg-name="En tierra de sangre y miel (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2WV3EGz27Sma5zo3mFVnUr5kjIC.jpg" group-title="PELICULAS",En tierra de sangre y miel (2011)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73027
+#EXTINF:-1 tvg-id="" tvg-name="Entrevista con el vampiro (1994)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/10Y3tfdMc4VhGElEjZCJtx1IfNJ.jpg" group-title="PELICULAS",Entrevista con el vampiro (1994)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73028
+#EXTINF:-1 tvg-id="" tvg-name="Estallido (1995)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yxe9MSuSjXDH676Al1Sg6JEzejq.jpg" group-title="PELICULAS",Estallido (1995)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73029
+#EXTINF:-1 tvg-id="" tvg-name="Escalofrío (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hER3sVCZ9cZRBO0KNI7NbtiLacn.jpg" group-title="PELICULAS",Escalofrío (2001)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73030
+#EXTINF:-1 tvg-id="" tvg-name="The Clapper (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vsm2gxPoZDzG3ocTArrK8ak7go4.jpg" group-title="PELICULAS",The Clapper (2018)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73031
+#EXTINF:-1 tvg-id="" tvg-name="El Show (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4rtJ325KWfdLn4XZiqc9GuIHn0A.jpg" group-title="PELICULAS",El Show (2017)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73032
+#EXTINF:-1 tvg-id="" tvg-name="Someone (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cuf8aq2ybTFutnssA4OZVsirRNK.jpg" group-title="PELICULAS",Someone (2016)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73033
+#EXTINF:-1 tvg-id="" tvg-name="Euforia (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sxKDEmYXdtlD4jXgptem5iTVajE.jpg" group-title="PELICULAS",Euforia (2010)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73034
+#EXTINF:-1 tvg-id="" tvg-name="Everest (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7SfhoXCc8LGfKvyNIw2nU0gEi3R.jpg" group-title="PELICULAS",Everest (2015)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73035
+#EXTINF:-1 tvg-id="" tvg-name="Excalibur (1981)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oPAC1Bso6KsViv8YhzJ60pl9y04.jpg" group-title="PELICULAS",Excalibur (1981)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73036
+#EXTINF:-1 tvg-id="" tvg-name="Fahrenheit 451 (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8NetSYBOdRAgcp6it0ldZmNPUqH.jpg" group-title="PELICULAS",Fahrenheit 451 (2018)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73037
+#EXTINF:-1 tvg-id="" tvg-name="Falsa evidencia (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n0CgDI6tnV0XFX3kA2hRDpgbKgq.jpg" group-title="PELICULAS",Falsa evidencia (2018)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73038
+#EXTINF:-1 tvg-id="" tvg-name="Familia al instante (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pVxmxH7IYL7hnioTBOAPIw2vbr1.jpg" group-title="PELICULAS",Familia al instante (2018)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73039
+#EXTINF:-1 tvg-id="" tvg-name="Fences (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mCvMXsEbdMW2ESEATDcs14Urh9y.jpg" group-title="PELICULAS",Fences (2016)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73040
+#EXTINF:-1 tvg-id="" tvg-name="The Phenom (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6IhtSMsGW86dYfsRqEcXxiCME23.jpg" group-title="PELICULAS",The Phenom (2016)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73041
+#EXTINF:-1 tvg-id="" tvg-name="Campo de sueños (1989)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pQa87vXZzyD6m0NjrKG7hSbEPB2.jpg" group-title="PELICULAS",Campo de sueños (1989)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73042
+#EXTINF:-1 tvg-id="" tvg-name="Flower (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xYTI11qFnmx39LRhDOsGEabfqtp.jpg" group-title="PELICULAS",Flower (2017)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73043
+#EXTINF:-1 tvg-id="" tvg-name="Le Mans '66 (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kFkZFPBU7vnDDu4m9eOgk7w9W7O.jpg" group-title="PELICULAS",Le Mans '66 (2019)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73044
+#EXTINF:-1 tvg-id="" tvg-name="Frío en julio (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i58D3vIxp7OF1bd5wLQ6Y67e3PL.jpg" group-title="PELICULAS",Frío en julio (2014)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73045
+#EXTINF:-1 tvg-id="" tvg-name="Galveston (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q4oJPtd6ilux9NU9wXomTWBI90B.jpg" group-title="PELICULAS",Galveston (2018)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73046
+#EXTINF:-1 tvg-id="" tvg-name="Gandhi (1982)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mGIDXmuCeLu1nzOxLbN8fWwn1fN.jpg" group-title="PELICULAS",Gandhi (1982)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73047
+#EXTINF:-1 tvg-id="" tvg-name="I Feel Good: La historia de James Brown (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v14YSZ8x0yil3rXD3Vhwghk3ULN.jpg" group-title="PELICULAS",I Feel Good: La historia de James Brown (2014)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73048
+#EXTINF:-1 tvg-id="" tvg-name="La joven de la perla (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/milHDb4L8eyOZoPnrXpVmwglEd9.jpg" group-title="PELICULAS",La joven de la perla (2003)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73049
+#EXTINF:-1 tvg-id="" tvg-name="Las chicas del oro (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yz1HMJkAwodFITez3ogU4QyijKo.jpg" group-title="PELICULAS",Las chicas del oro (2018)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73050
+#EXTINF:-1 tvg-id="" tvg-name="Lo que el viento se llevó (1939)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3bAYXjK0xCAizMVixG9mSW5FDun.jpg" group-title="PELICULAS",Lo que el viento se llevó (1939)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73051
+#EXTINF:-1 tvg-id="" tvg-name="Vietnam (1987)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gsh0fhNQZ6O1ZYsDIt3THtBxoeP.jpg" group-title="PELICULAS",Vietnam (1987)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73052
+#EXTINF:-1 tvg-id="" tvg-name="Greta (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kDl1LxSe6ulL81VUAwi2651GWy1.jpg" group-title="PELICULAS",Greta (2019)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73053
+#EXTINF:-1 tvg-id="" tvg-name="Gringo: Se busca vivo o muerto (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/492tyQrvVPPbwuFJu1cr54N3tlq.jpg" group-title="PELICULAS",Gringo: Se busca vivo o muerto (2018)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73054
+#EXTINF:-1 tvg-id="" tvg-name="Guardián y verdugo (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/djMqABp65IlL2SrEYn4ds3aD6Sp.jpg" group-title="PELICULAS",Guardián y verdugo (2017)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73055
+#EXTINF:-1 tvg-id="" tvg-name="Hable con ella (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5XHHxzx3qWowda7xWUUx7SAkAcW.jpg" group-title="PELICULAS",Hable con ella (2002)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73056
+#EXTINF:-1 tvg-id="" tvg-name="Hasta el último hombre (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m3jj8IJ7uP5p4MqMzgtGW5l4ECd.jpg" group-title="PELICULAS",Hasta el último hombre (2016)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73057
+#EXTINF:-1 tvg-id="" tvg-name="Hamlet (1996)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hPS1ryG1a4BCdc9kiNUtx8i54UD.jpg" group-title="PELICULAS",Hamlet (1996)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73058
+#EXTINF:-1 tvg-id="" tvg-name="Manos de piedra (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jno7F2SixgYRygFsOC6gVdVPUyu.jpg" group-title="PELICULAS",Manos de piedra (2016)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73059
+#EXTINF:-1 tvg-id="" tvg-name="Hannibal (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v5wAZwRqpGWmyAaaJ8BBHYuNXnj.jpg" group-title="PELICULAS",Hannibal (2001)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73060
+#EXTINF:-1 tvg-id="" tvg-name="Adiós Christopher Robin (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9O2LoirCUU6Cepph2xvDJ7iaTcK.jpg" group-title="PELICULAS",Adiós Christopher Robin (2017)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73061
+#EXTINF:-1 tvg-id="" tvg-name="El cielo es real (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w4k7KCwLPDixM13J2JYcqt9kHZ7.jpg" group-title="PELICULAS",El cielo es real (2014)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73062
+#EXTINF:-1 tvg-id="" tvg-name="Hermanos (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eW8p4xYCCTg8OrMqtMUvRStGzPm.jpg" group-title="PELICULAS",Hermanos (2018)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73063
+#EXTINF:-1 tvg-id="" tvg-name="Héroes en el infierno (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xBiHghgl0LwgINFgaYTORUUXwYZ.jpg" group-title="PELICULAS",Héroes en el infierno (2017)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73064
+#EXTINF:-1 tvg-id="" tvg-name="Hesher (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dD03azf3h1hUHVzVkkqJs96Kkay.jpg" group-title="PELICULAS",Hesher (2010)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73065
+#EXTINF:-1 tvg-id="" tvg-name="Figuras ocultas (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yiufjE3kfM9e0qIlEdGEmkUcXky.jpg" group-title="PELICULAS",Figuras ocultas (2016)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73066
+#EXTINF:-1 tvg-id="" tvg-name="Hijos de los hombres (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ArYcgH5c6uPyms1VF3WfJwbPmo4.jpg" group-title="PELICULAS",Hijos de los hombres (2006)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73067
+#EXTINF:-1 tvg-id="" tvg-name="Family Man (2000)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6MMKl97hsaaZy4WHV5EJGsmrBKh.jpg" group-title="PELICULAS",Family Man (2000)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73068
+#EXTINF:-1 tvg-id="" tvg-name="Hombres de honor (2000)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hO3jsfq2aa1jbE1p41okla9bEJ4.jpg" group-title="PELICULAS",Hombres de honor (2000)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73069
+#EXTINF:-1 tvg-id="" tvg-name="Honey 3: Vamos A Bailar (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2qsCUy88FPiHxOSFXdkKlmJz7Hw.jpg" group-title="PELICULAS",Honey 3: Vamos A Bailar (2016)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73070
+#EXTINF:-1 tvg-id="" tvg-name="Honey: Levántate y baila (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/soPCHy4NJhoecRToQd7EmNmPcBY.jpg" group-title="PELICULAS",Honey: Levántate y baila (2018)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73071
+#EXTINF:-1 tvg-id="" tvg-name="Hope Springs Eternal (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eo28MSJ50erE1oPg9XGk8yu9Cn1.jpg" group-title="PELICULAS",Hope Springs Eternal (2018)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73072
+#EXTINF:-1 tvg-id="" tvg-name="Hotel Rwanda (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p3pHw85UMZPegfMZBA6dZ06yarm.jpg" group-title="PELICULAS",Hotel Rwanda (2004)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73073
+#EXTINF:-1 tvg-id="" tvg-name="Huérfanos de Brooklyn (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2X86f3KRbdStQXk0f8pZovSRpal.jpg" group-title="PELICULAS",Huérfanos de Brooklyn (2019)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73074
+#EXTINF:-1 tvg-id="" tvg-name="Hunter Killer: Caza en las profundidades (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wYdNCLoAoycUGuIr7U3y9nNWGGt.jpg" group-title="PELICULAS",Hunter Killer: Caza en las profundidades (2018)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73075
+#EXTINF:-1 tvg-id="" tvg-name="Huracán Carter (1999)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sTr6KLATv1msUPK6hO3yTIU3b8i.jpg" group-title="PELICULAS",Huracán Carter (1999)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73076
+#EXTINF:-1 tvg-id="" tvg-name="Incendies (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9NFEihPYnclTAQov0Z4RL01LSvQ.jpg" group-title="PELICULAS",Incendies (2010)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73077
+#EXTINF:-1 tvg-id="" tvg-name="In Darkness (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i3DVA0SguyYNXuaia4fuVqmdG2W.jpg" group-title="PELICULAS",In Darkness (2011)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73078
+#EXTINF:-1 tvg-id="" tvg-name="Indivisible (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nHoV8LbrDPGBZp0QSl9S0Jiw4tg.jpg" group-title="PELICULAS",Indivisible (2018)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73079
+#EXTINF:-1 tvg-id="" tvg-name="Inmersión (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eZaecd428OQyHbfYhNi5BAhHbsn.jpg" group-title="PELICULAS",Inmersión (2017)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73080
+#EXTINF:-1 tvg-id="" tvg-name="Invictus (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gWW20yeF5t6ZHn3gCjidLuWtQMU.jpg" group-title="PELICULAS",Invictus (2009)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73081
+#EXTINF:-1 tvg-id="" tvg-name="I Remember You (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cJi0fevyuh999BilAmJAvkgBTK3.jpg" group-title="PELICULAS",I Remember You (2017)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73082
+#EXTINF:-1 tvg-id="" tvg-name="Ilusiones de un mentiroso (1999)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tTuUcIcru8fcwyzQnmtuS2r3UGU.jpg" group-title="PELICULAS",Ilusiones de un mentiroso (1999)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73083
+#EXTINF:-1 tvg-id="" tvg-name="Jefa por accidente (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2GDxKKxnaoF0a1GEDdXT7Dytnuj.jpg" group-title="PELICULAS",Jefa por accidente (2018)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73084
+#EXTINF:-1 tvg-id="" tvg-name="Jersey Boys (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kz956Y83YtT6vTyg0Q40mzRe2UM.jpg" group-title="PELICULAS",Jersey Boys (2014)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73085
+#EXTINF:-1 tvg-id="" tvg-name="Joe (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/29Z02vEXyPuI8VRckDGlaiG3B85.jpg" group-title="PELICULAS",Joe (2014)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73086
+#EXTINF:-1 tvg-id="" tvg-name="Jóvenes y brujas (1996)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zrevj9eXFr1ocxRVq4UEDXh48tK.jpg" group-title="PELICULAS",Jóvenes y brujas (1996)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73087
+#EXTINF:-1 tvg-id="" tvg-name="La bruma (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z9nIOsyC4g0tS3WRTEdCUQUIGcN.jpg" group-title="PELICULAS",La bruma (2018)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73088
+#EXTINF:-1 tvg-id="" tvg-name="Kids in Love (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5ua4rxPI2KLlVA6TowSgyRzpfLH.jpg" group-title="PELICULAS",Kids in Love (2016)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73089
+#EXTINF:-1 tvg-id="" tvg-name="Kimura (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sFKRne59dooaLGNNWq5ZmeXorNY.jpg" group-title="PELICULAS",Kimura (2017)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73090
+#EXTINF:-1 tvg-id="" tvg-name="King Charles III (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tvsC8m0M7YGCveSIvWUCoRPGv2v.jpg" group-title="PELICULAS",King Charles III (2017)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73091
+#EXTINF:-1 tvg-id="" tvg-name="El coleccionista de amantes (1997)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i9mQEM8dzl5vklW6VEqlONdbUJk.jpg" group-title="PELICULAS",El coleccionista de amantes (1997)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73092
+#EXTINF:-1 tvg-id="" tvg-name="Kursk (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8E5PL4cKBxVg0zzNPIOWnaAKSN5.jpg" group-title="PELICULAS",Kursk (2018)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73093
+#EXTINF:-1 tvg-id="" tvg-name="La 4ª compañía (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wykPRhCP2kJ036kH3iiUAGFjDi5.jpg" group-title="PELICULAS",La 4ª compañía (2017)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73094
+#EXTINF:-1 tvg-id="" tvg-name="Canción de Nueva York (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cq9iBxggxWfNoU4avORT32c6rvv.jpg" group-title="PELICULAS",Canción de Nueva York (2017)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73095
+#EXTINF:-1 tvg-id="" tvg-name="La amenaza de Andrómeda (1971)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nmTaysdcdR6gZuhXcaQ6If1DHul.jpg" group-title="PELICULAS",La amenaza de Andrómeda (1971)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73096
+#EXTINF:-1 tvg-id="" tvg-name="La Bamba (1987)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Znulqtc7cdqlUC69HGf26Ef5fi.jpg" group-title="PELICULAS",La Bamba (1987)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73097
+#EXTINF:-1 tvg-id="" tvg-name="La cabaña (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d7qG9sdCTo3uBeWXpxKehplvr8B.jpg" group-title="PELICULAS",La cabaña (2017)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73098
+#EXTINF:-1 tvg-id="" tvg-name="La cena di Natale (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sbzJ4H1m3VKRa0oHEf18YZyoTaV.jpg" group-title="PELICULAS",La cena di Natale (2016)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73099
+#EXTINF:-1 tvg-id="" tvg-name="La chaqueta metálica (1987)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hJfHQlX5i9L5ywAHGbZw4OmI3mj.jpg" group-title="PELICULAS",La chaqueta metálica (1987)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73100
+#EXTINF:-1 tvg-id="" tvg-name="La dictadura perfecta (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pjNWekSbafFIPLBNZQ9gUaX3tkV.jpg" group-title="PELICULAS",La dictadura perfecta (2014)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73101
+#EXTINF:-1 tvg-id="" tvg-name="Ladybird Ladybird (1994)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/91KSK1xKdVEIDASKRo9ahBFCtM2.jpg" group-title="PELICULAS",Ladybird Ladybird (1994)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73102
+#EXTINF:-1 tvg-id="" tvg-name="Lady Halcón (1985)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v6yY9gflIfLwu45skj65G2kzDKf.jpg" group-title="PELICULAS",Lady Halcón (1985)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73103
+#EXTINF:-1 tvg-id="" tvg-name="Lady Macbeth (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vdzpp4Z4Zik3P7xzrg7g9uiDNOL.jpg" group-title="PELICULAS",Lady Macbeth (2016)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73104
+#EXTINF:-1 tvg-id="" tvg-name="La entrega (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/15ODu72Q8Z6uFwefH8U0vjYZ75v.jpg" group-title="PELICULAS",La entrega (2014)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73105
+#EXTINF:-1 tvg-id="" tvg-name="The Model (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8kxdItrqseNI0jVana5Qi960kiI.jpg" group-title="PELICULAS",The Model (2016)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73106
+#EXTINF:-1 tvg-id="" tvg-name="La favorita (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mirzwvOh7s5HN0vC7b7H6WMkO6X.jpg" group-title="PELICULAS",La favorita (2018)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73107
+#EXTINF:-1 tvg-id="" tvg-name="La forma del agua (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ahsMZ2PCIVi5qGoPKjjeG3ZznjA.jpg" group-title="PELICULAS",La forma del agua (2017)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73108
+#EXTINF:-1 tvg-id="" tvg-name="La fórmula de la felicidad (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9PpwTNDsXnuGHcwBdpgybVSwsFN.jpg" group-title="PELICULAS",La fórmula de la felicidad (2014)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73109
+#EXTINF:-1 tvg-id="" tvg-name="La gran aventura de Winter el delfín 2 (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i65sQI4ZTzXsyRNCvrUeID5xZep.jpg" group-title="PELICULAS",La gran aventura de Winter el delfín 2 (2014)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73110
+#EXTINF:-1 tvg-id="" tvg-name="La gran aventura de Winter el delfín (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zj4OM3bsDQX2aI2b3nvpXynN62x.jpg" group-title="PELICULAS",La gran aventura de Winter el delfín (2011)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73111
+#EXTINF:-1 tvg-id="" tvg-name="Shutter Island (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Ap0iZ0CRNCsrK6kUfWLA6HJwu2K.jpg" group-title="PELICULAS",Shutter Island (2010)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73112
+#EXTINF:-1 tvg-id="" tvg-name="Sleepy Hollow (1999)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5t5lmVAG3SkHrYdjMwAAobL8m1w.jpg" group-title="PELICULAS",Sleepy Hollow (1999)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73113
+#EXTINF:-1 tvg-id="" tvg-name="La lista de Schindler (1993)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3Ho0pXsnMxpGJWqdOi0KDNdaTkT.jpg" group-title="PELICULAS",La lista de Schindler (1993)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73114
+#EXTINF:-1 tvg-id="" tvg-name="La llave del mal (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oAjpyj08T5RizLVsxEYoyqtk0Ec.jpg" group-title="PELICULAS",La llave del mal (2005)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73115
+#EXTINF:-1 tvg-id="" tvg-name="La montaña entre nosotros (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iSKDUzyk3xIuQ1HJBQpPWyTt97t.jpg" group-title="PELICULAS",La montaña entre nosotros (2017)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73116
+#EXTINF:-1 tvg-id="" tvg-name="La mujer invisible (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w1RFxh6XrPr9tUgC6mGq7DXxjIR.jpg" group-title="PELICULAS",La mujer invisible (2013)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73117
+#EXTINF:-1 tvg-id="" tvg-name="La música del silencio (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/81s2hTFD4q9BOmaa6FPnx8p2ac0.jpg" group-title="PELICULAS",La música del silencio (2017)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73118
+#EXTINF:-1 tvg-id="" tvg-name="La naranja mecánica (1971)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A3v4qLiGbwDK1wib9DvEAaB9vW4.jpg" group-title="PELICULAS",La naranja mecánica (1971)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73119
+#EXTINF:-1 tvg-id="" tvg-name="La Negrada (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uqXbigoJpMu1c5tkUEIhzhU9uoP.jpg" group-title="PELICULAS",La Negrada (2018)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73120
+#EXTINF:-1 tvg-id="" tvg-name="La novia (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jqGzL1jfJP688ynjq7luM8H44wk.jpg" group-title="PELICULAS",La novia (2015)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73121
+#EXTINF:-1 tvg-id="" tvg-name="La pasión de Cristo (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eOecgHEmiejyBQ5J2CjGmF8sDFF.jpg" group-title="PELICULAS",La pasión de Cristo (2004)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73122
+#EXTINF:-1 tvg-id="" tvg-name="La piel que habito (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2ELBum40zKITstrjwHSYkg0xB51.jpg" group-title="PELICULAS",La piel que habito (2011)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73123
+#EXTINF:-1 tvg-id="" tvg-name="La poesía del duelo (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qGhniAGmYTq2WvdoGifbvYaHO3N.jpg" group-title="PELICULAS",La poesía del duelo (2017)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73124
+#EXTINF:-1 tvg-id="" tvg-name="Tu mejor amigo (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1vz34upg09Hh9p4aV2Uau19g2bv.jpg" group-title="PELICULAS",Tu mejor amigo (2017)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73125
+#EXTINF:-1 tvg-id="" tvg-name="La región salvaje (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4OzoG5dfRdEq9X20iBUYKuQSDWb.jpg" group-title="PELICULAS",La región salvaje (2016)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73126
+#EXTINF:-1 tvg-id="" tvg-name="La resurrección de Louis Drax (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vRwtWFJVRePTrcOZephwE9rrH1p.jpg" group-title="PELICULAS",La resurrección de Louis Drax (2016)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73127
+#EXTINF:-1 tvg-id="" tvg-name="reina de Escocia (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sWjZjCZlFHy4C12JU3IIOj3lW22.jpg" group-title="PELICULAS",reina de Escocia (2018)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73128
+#EXTINF:-1 tvg-id="" tvg-name="Las hermanas Bolena (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eLU4zvrXkHwgfzlD0N8rlYZ19mG.jpg" group-title="PELICULAS",Las hermanas Bolena (2008)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73129
+#EXTINF:-1 tvg-id="" tvg-name="Las hijas del narco (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u9PWuATG9097HxUr2TXa4BRxKq4.jpg" group-title="PELICULAS",Las hijas del narco (2016)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73130
+#EXTINF:-1 tvg-id="" tvg-name="El instante más oscuro (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bvfIACbN7YtScwvEt0UhGsheWae.jpg" group-title="PELICULAS",El instante más oscuro (2017)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73131
+#EXTINF:-1 tvg-id="" tvg-name="Mi vida en Palos Verdes (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k1xxJyyuIo2NZoykWDDcMR0Jt8U.jpg" group-title="PELICULAS",Mi vida en Palos Verdes (2017)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73132
+#EXTINF:-1 tvg-id="" tvg-name="La teoría del todo (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sVKeuoy82eR02iMIqRAepqMCoag.jpg" group-title="PELICULAS",La teoría del todo (2014)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73133
+#EXTINF:-1 tvg-id="" tvg-name="La tercera orilla (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rHSQDV28uAOGIyLe2w5c0QoSeE7.jpg" group-title="PELICULAS",La tercera orilla (2014)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73134
+#EXTINF:-1 tvg-id="" tvg-name="La terminal (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g0szJPw61Cj3sjaGsIy4aWdGZU3.jpg" group-title="PELICULAS",La terminal (2004)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73135
+#EXTINF:-1 tvg-id="" tvg-name="La trampa (The Snare) (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/njA7M4yIKEdilFS2OdNAUK1Rd0w.jpg" group-title="PELICULAS",La trampa (The Snare) (2017)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73136
+#EXTINF:-1 tvg-id="" tvg-name="La tumba de las luciérnagas (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1g7R0wNUcmTRYmyRGmp3YMePNJM.jpg" group-title="PELICULAS",La tumba de las luciérnagas (2005)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73137
+#EXTINF:-1 tvg-id="" tvg-name="La última esperanza (1976)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nh8JkR53HlqHcM6qHAhCBpRwbco.jpg" group-title="PELICULAS",La última esperanza (1976)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73138
+#EXTINF:-1 tvg-id="" tvg-name="La última tentación de Cristo (1988)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3xRhV1uTixtze1ye8lA0INfsffO.jpg" group-title="PELICULAS",La última tentación de Cristo (1988)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73139
+#EXTINF:-1 tvg-id="" tvg-name="La verdad oculta (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3JA9qH5MUeP9AwZqz0Snhk7rES0.jpg" group-title="PELICULAS",La verdad oculta (2010)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73140
+#EXTINF:-1 tvg-id="" tvg-name="La vida de los peces (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vQzcPzSRawVuMuzkh3sa5GY2lpm.jpg" group-title="PELICULAS",La vida de los peces (2010)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73141
+#EXTINF:-1 tvg-id="" tvg-name="Trainspotting (1996)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qN6MomkBcDx0QilCagcwhPBgXU3.jpg" group-title="PELICULAS",Trainspotting (1996)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73142
+#EXTINF:-1 tvg-id="" tvg-name="La vida precoz y breve de Sabina Rivas (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cxmJeBgPomHt43CNxcWk9UCDsB9.jpg" group-title="PELICULAS",La vida precoz y breve de Sabina Rivas (2012)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73143
+#EXTINF:-1 tvg-id="" tvg-name="Una cuestión de género (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eXbt9oUWzWAVVzxOb8HP1g8S9c.jpg" group-title="PELICULAS",Una cuestión de género (2018)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73144
+#EXTINF:-1 tvg-id="" tvg-name="Lazos ardientes (1996)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/umrpj8XNAzvePGRXvTIh4x5TvxP.jpg" group-title="PELICULAS",Lazos ardientes (1996)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73145
+#EXTINF:-1 tvg-id="" tvg-name="La última canción (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7iQ62bIhfTbea5nuGbSUqHK85Es.jpg" group-title="PELICULAS",La última canción (2010)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73146
+#EXTINF:-1 tvg-id="" tvg-name="Los chicos del coro (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f0FrAsLdcnCbvbT9Ofj31UkmcNe.jpg" group-title="PELICULAS",Los chicos del coro (2004)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73147
+#EXTINF:-1 tvg-id="" tvg-name="Let There Be Light (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a1lCoSdAEYEs4ezvm5PcufEUVti.jpg" group-title="PELICULAS",Let There Be Light (2017)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73148
+#EXTINF:-1 tvg-id="" tvg-name="Enganchados a la muerte (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c8NXAvw2fypYgMwZEFIM4DhWMsO.jpg" group-title="PELICULAS",Enganchados a la muerte (2017)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73149
+#EXTINF:-1 tvg-id="" tvg-name="Lion (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hIyi7jzNUeck8hzzBuSKGDz7lWf.jpg" group-title="PELICULAS",Lion (2016)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73150
+#EXTINF:-1 tvg-id="" tvg-name="Lo mejor de mí (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nbffFxODkJmT3h9qSKtr36doFD3.jpg" group-title="PELICULAS",Lo mejor de mí (2007)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73151
+#EXTINF:-1 tvg-id="" tvg-name="Lo mejor para ella (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7NasKOsHCYYbF8p53nQIQp5K8BP.jpg" group-title="PELICULAS",Lo mejor para ella (2014)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73152
+#EXTINF:-1 tvg-id="" tvg-name="Lo mejor para ella (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7NasKOsHCYYbF8p53nQIQp5K8BP.jpg" group-title="PELICULAS",Lo mejor para ella (2014)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73153
+#EXTINF:-1 tvg-id="" tvg-name="Más fuerte que el olvido (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/60aPLuGddsdmSq7fONzvUP1idTH.jpg" group-title="PELICULAS",Más fuerte que el olvido (2018)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73154
+#EXTINF:-1 tvg-id="" tvg-name="El señor de la guerra (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1Z4mE3Ue4VegboGrjw5VgNFAk1l.jpg" group-title="PELICULAS",El señor de la guerra (2005)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73155
+#EXTINF:-1 tvg-id="" tvg-name="Los criminales de Noviembre (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/szio4FSVt8YXGONnErS8idIKIcQ.jpg" group-title="PELICULAS",Los criminales de Noviembre (2017)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73156
+#EXTINF:-1 tvg-id="" tvg-name="Los Diez Mandamientos (1956)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gFoGJj2UpoLqIGsLwcRxWnyTymR.jpg" group-title="PELICULAS",Los Diez Mandamientos (1956)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73157
+#EXTINF:-1 tvg-id="" tvg-name="Los hermanos Bloom (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xIz8iwzyjgWGzcIwHKpqhBs77ML.jpg" group-title="PELICULAS",Los hermanos Bloom (2008)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73158
+#EXTINF:-1 tvg-id="" tvg-name="Los límites de la verdad (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7VXmLkrTxymAL4RyWkTfVqYQEPg.jpg" group-title="PELICULAS",Los límites de la verdad (2013)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73159
+#EXTINF:-1 tvg-id="" tvg-name="Los miserables (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uhHLWMB5jRH8kC2tLQD4lu2kRfJ.jpg" group-title="PELICULAS",Los miserables (2012)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73160
+#EXTINF:-1 tvg-id="" tvg-name="Los padecientes (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zHTFH4cxTeMUIt7jc2reO7Bex34.jpg" group-title="PELICULAS",Los padecientes (2017)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73161
+#EXTINF:-1 tvg-id="" tvg-name="Los Picapiedra en Viva Rock Vegas (2000)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sNE3FV3TDC2Z22uNHZipGEbKHdY.jpg" group-title="PELICULAS",Los Picapiedra en Viva Rock Vegas (2000)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73162
+#EXTINF:-1 tvg-id="" tvg-name="Los Picapiedra & WWE: Stone Age Smackdown! (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sEC1hwyG7pJaUazMtiroc31e3gK.jpg" group-title="PELICULAS",Los Picapiedra & WWE: Stone Age Smackdown! (2015)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73163
+#EXTINF:-1 tvg-id="" tvg-name="Lost in Translation (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ybXq8xTs6VMx3hM4RDYMXaDZwcz.jpg" group-title="PELICULAS",Lost in Translation (2003)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73164
+#EXTINF:-1 tvg-id="" tvg-name="Loving (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aZ8EoTtnrZwXDSeUk7Xb6lTt3jz.jpg" group-title="PELICULAS",Loving (2016)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73165
+#EXTINF:-1 tvg-id="" tvg-name="Loving Pablo (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cjgO5nJTC0E3TxicrHk5XCd27tB.jpg" group-title="PELICULAS",Loving Pablo (2017)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73166
+#EXTINF:-1 tvg-id="" tvg-name="Peleando en familia (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9vkwKmg5dYBA1z4VaO4jWU9xxO2.jpg" group-title="PELICULAS",Peleando en familia (2019)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73167
+#EXTINF:-1 tvg-id="" tvg-name="Lucía y el sexo (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k2cSUupLrRKCDSUocPpclspvkSd.jpg" group-title="PELICULAS",Lucía y el sexo (2001)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73168
+#EXTINF:-1 tvg-id="" tvg-name="Lukas (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/79vOYO1lKMnnE2PzbX3honhBCZq.jpg" group-title="PELICULAS",Lukas (2018)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73169
+#EXTINF:-1 tvg-id="" tvg-name="Moonlight (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xVzMkuXkRrmfYSYTzBCCJlj990Y.jpg" group-title="PELICULAS",Moonlight (2016)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73170
+#EXTINF:-1 tvg-id="" tvg-name="Madame (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rQpQ8vRlltPcLP1hsxP9saCcK1U.jpg" group-title="PELICULAS",Madame (2017)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73171
+#EXTINF:-1 tvg-id="" tvg-name="Magnolia (1999)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uq2u8HgtLFJkjNq2kHb2jvipIPT.jpg" group-title="PELICULAS",Magnolia (1999)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73172
+#EXTINF:-1 tvg-id="" tvg-name="Malèna (2000)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/89Z89qJ6iApWtd7nIvbvqCoev1T.jpg" group-title="PELICULAS",Malèna (2000)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73173
+#EXTINF:-1 tvg-id="" tvg-name="Mañana empieza todo (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5kdTXiFswJJZl4JFvIQi6DMdiqr.jpg" group-title="PELICULAS",Mañana empieza todo (2016)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73174
+#EXTINF:-1 tvg-id="" tvg-name="Manchester frente al mar (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A3yR6Mdz48elRI1pBOzbIbDyCRi.jpg" group-title="PELICULAS",Manchester frente al mar (2016)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73175
+#EXTINF:-1 tvg-id="" tvg-name="Mar adentro (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tQkEMFZxv03Ik6gxIZ6LIU9imR2.jpg" group-title="PELICULAS",Mar adentro (2004)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73176
+#EXTINF:-1 tvg-id="" tvg-name="Marcelino Pan y Vino (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pLMLasdAGBveMShdw1wQmo75aeV.jpg" group-title="PELICULAS",Marcelino Pan y Vino (2010)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73177
+#EXTINF:-1 tvg-id="" tvg-name="María Antonieta (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b6zvPhkzL0FHWXoZxLjpodsLXwb.jpg" group-title="PELICULAS",María Antonieta (2006)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73178
+#EXTINF:-1 tvg-id="" tvg-name="Marshall (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2KfdXsXTCbMie0wB1mSmIX60C2F.jpg" group-title="PELICULAS",Marshall (2017)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73179
+#EXTINF:-1 tvg-id="" tvg-name="Más allá de la vida (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hfAPCaZZACUafTSJ1Z2kzb6wmlU.jpg" group-title="PELICULAS",Más allá de la vida (2010)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73180
+#EXTINF:-1 tvg-id="" tvg-name="Más allá de los sueños (1998)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t73wtydNOHyXKhwRnmD4WuQApPh.jpg" group-title="PELICULAS",Más allá de los sueños (1998)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73181
+#EXTINF:-1 tvg-id="" tvg-name="Más fuerte que el destino (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zutdNLxhaYVm1GMSfdqw85DYfMQ.jpg" group-title="PELICULAS",Más fuerte que el destino (2017)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73182
+#EXTINF:-1 tvg-id="" tvg-name="Matador (1986)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fdwmWNDmNRAxzoVgAX5KttEqFMi.jpg" group-title="PELICULAS",Matador (1986)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73183
+#EXTINF:-1 tvg-id="" tvg-name="Me enamoré de una chica cristiana (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mKQ5nKTkEwE9vvGv6N0axTXukTz.jpg" group-title="PELICULAS",Me enamoré de una chica cristiana (2013)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73184
+#EXTINF:-1 tvg-id="" tvg-name="Megan Leavey (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hhrqkEc6QPvAOAj2SdMzwGNf1jo.jpg" group-title="PELICULAS",Megan Leavey (2017)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73185
+#EXTINF:-1 tvg-id="" tvg-name="Menashe (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/11jQ1dsdefwAZIilbvgr0lMyhKN.jpg" group-title="PELICULAS",Menashe (2017)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73186
+#EXTINF:-1 tvg-id="" tvg-name="Mercenario (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bgEuTCpl8mAJTAlgCm7CNsWyXri.jpg" group-title="PELICULAS",Mercenario (2016)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73187
+#EXTINF:-1 tvg-id="" tvg-name="Metalhead (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A9BcPpQlrRBWsyt5SAMXrbtukef.jpg" group-title="PELICULAS",Metalhead (2013)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73188
+#EXTINF:-1 tvg-id="" tvg-name="Mia Madre (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nUymTRScnK41CCoplqxBQvy21UW.jpg" group-title="PELICULAS",Mia Madre (2015)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73189
+#EXTINF:-1 tvg-id="" tvg-name="Mia y el león blanco (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qlP3Ci2d2A3HuZFzl3OHlDGQrQt.jpg" group-title="PELICULAS",Mia y el león blanco (2018)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73190
+#EXTINF:-1 tvg-id="" tvg-name="Michael Collins (1996)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/brIBbU6t9glEGAKRTJ4PMj9OiDC.jpg" group-title="PELICULAS",Michael Collins (1996)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73191
+#EXTINF:-1 tvg-id="" tvg-name="El expreso de medianoche (1978)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hXaFXmoTeIYXceQAc45RpRfk9Cr.jpg" group-title="PELICULAS",El expreso de medianoche (1978)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73192
+#EXTINF:-1 tvg-id="" tvg-name="Los milagros del cielo (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ohjQUH4jPVBkJOTrrOz77xGw3dF.jpg" group-title="PELICULAS",Los milagros del cielo (2016)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73193
+#EXTINF:-1 tvg-id="" tvg-name="Millennium 1: Los hombres que no amaban a las mujeres (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fYeXySqKa5uiqFM8OMSdxs3hGK3.jpg" group-title="PELICULAS",Millennium 1: Los hombres que no amaban a las mujeres (2009)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73194
+#EXTINF:-1 tvg-id="" tvg-name="Millennium 2: La chica que soñaba con una cerilla y un bidón de gasolina (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ikCdaQwDEaPKXjXCE8ByzfOLK0a.jpg" group-title="PELICULAS",Millennium 2: La chica que soñaba con una cerilla y un bidón de gasolina (2009)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73195
+#EXTINF:-1 tvg-id="" tvg-name="Millennium 3: La reina en el palacio de las corrientes de aire (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iaDftmicSI0M1RxtraZW6Uh8OeB.jpg" group-title="PELICULAS",Millennium 3: La reina en el palacio de las corrientes de aire (2009)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73196
+#EXTINF:-1 tvg-id="" tvg-name="Million Dollar Baby (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4h44OpmdptpofZt9fTZAePwRxbM.jpg" group-title="PELICULAS",Million Dollar Baby (2004)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73197
+#EXTINF:-1 tvg-id="" tvg-name="The Mimic (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j3EW5nCETgm0lX5OKkvUs67Y7wG.jpg" group-title="PELICULAS",The Mimic (2017)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73198
+#EXTINF:-1 tvg-id="" tvg-name="mi nombre es Doris (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eO358lgKGSoLKHscAp6yca2jD9c.jpg" group-title="PELICULAS",mi nombre es Doris (2015)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73199
+#EXTINF:-1 tvg-id="" tvg-name="Mi nombre es Emily (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oaRnZyXFjuh7V5jxmrCSTyz3A6s.jpg" group-title="PELICULAS",Mi nombre es Emily (2016)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73200
+#EXTINF:-1 tvg-id="" tvg-name="Mi prima Rachel (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v3145GM0eLkCLGYeliDhbR7rrGo.jpg" group-title="PELICULAS",Mi prima Rachel (2017)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73201
+#EXTINF:-1 tvg-id="" tvg-name="Mi Primer Combate (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5nEeaWxVCPnwuo8pfb7J1E7vScd.jpg" group-title="PELICULAS",Mi Primer Combate (2018)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73202
+#EXTINF:-1 tvg-id="" tvg-name="Milagro en la ciudad (1994)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/heYt5iHBemRHzeNCjGBy5u1YMlr.jpg" group-title="PELICULAS",Milagro en la ciudad (1994)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73203
+#EXTINF:-1 tvg-id="" tvg-name="El hogar de Miss Peregrine para niños peculiares (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b4585PS4VZEqvwvVZiqeYZkpxhC.jpg" group-title="PELICULAS",El hogar de Miss Peregrine para niños peculiares (2016)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73204
+#EXTINF:-1 tvg-id="" tvg-name="El imperio del mal (1991)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l7GfcGzH4UQzzP0Q3EfBiDbm5yu.jpg" group-title="PELICULAS",El imperio del mal (1991)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73205
+#EXTINF:-1 tvg-id="" tvg-name="Mob Town (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1BL0X6TKtKuYjd6CsZLzZvAYRlb.jpg" group-title="PELICULAS",Mob Town (2019)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73206
+#EXTINF:-1 tvg-id="" tvg-name="Moby Dick (1956)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3QWdrnCFftqS22DqeDT18cZXhAB.jpg" group-title="PELICULAS",Moby Dick (1956)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73207
+#EXTINF:-1 tvg-id="" tvg-name="Molly's Game (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sxV1wlobArp7paz16QuC8n1dPwj.jpg" group-title="PELICULAS",Molly's Game (2017)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73208
+#EXTINF:-1 tvg-id="" tvg-name="Las aventuras de Peabody y Sherman (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r26UfZeF067hvxYlT76v0i9P0qt.jpg" group-title="PELICULAS",Las aventuras de Peabody y Sherman (2014)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73209
+#EXTINF:-1 tvg-id="" tvg-name="Mudbound (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7cL7UgVMeP9xDSxU2NyAqeAQAbt.jpg" group-title="PELICULAS",Mudbound (2017)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73210
+#EXTINF:-1 tvg-id="" tvg-name="Mula (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r7tJH9dXbHUHFF9ziACg3ELc2TC.jpg" group-title="PELICULAS",Mula (2018)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73211
+#EXTINF:-1 tvg-id="" tvg-name="Multiple Sarcasms (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wcRurhx052RPItkOGbS1KqXdujS.jpg" group-title="PELICULAS",Multiple Sarcasms (2010)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73212
+#EXTINF:-1 tvg-id="" tvg-name="Munich (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNcxRSvhLfxaqH5IBYcPGhBiuO.jpg" group-title="PELICULAS",Munich (2005)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73213
+#EXTINF:-1 tvg-id="" tvg-name="Asesinato en el Orient Express (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v5F94xCSBrSDorvOQNHU4sqAcqZ.jpg" group-title="PELICULAS",Asesinato en el Orient Express (2017)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73214
+#EXTINF:-1 tvg-id="" tvg-name="We Are Your Friends (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rpjGpELAYt9D9oCqGXHJfruYwUd.jpg" group-title="PELICULAS",We Are Your Friends (2015)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73215
+#EXTINF:-1 tvg-id="" tvg-name="Mi cena con Hervé (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sb7Pr5mS4l37gWOWcwVaFNclhZh.jpg" group-title="PELICULAS",Mi cena con Hervé (2018)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73216
+#EXTINF:-1 tvg-id="" tvg-name="Mi chica (1991)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6iYlGQ82uM2l5Jjor0axXB30J3J.jpg" group-title="PELICULAS",Mi chica (1991)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73217
+#EXTINF:-1 tvg-id="" tvg-name="Mi chica 2 (1994)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1uL2qCHV7KbhqfGP5av6B1VSMNT.jpg" group-title="PELICULAS",Mi chica 2 (1994)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73218
+#EXTINF:-1 tvg-id="" tvg-name="Siempre a mi lado (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qi4Z8qxzlPkw6VDFP1DAtn2fkCY.jpg" group-title="PELICULAS",Siempre a mi lado (2010)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73219
+#EXTINF:-1 tvg-id="" tvg-name="Nacido el cuatro de julio (1989)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aqFRpA9wjMLP1MWjQelCsP7qXJn.jpg" group-title="PELICULAS",Nacido el cuatro de julio (1989)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73220
+#EXTINF:-1 tvg-id="" tvg-name="Nación salvaje (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iOxF8dMdMSjyubsq2jdIvndepVI.jpg" group-title="PELICULAS",Nación salvaje (2018)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73221
+#EXTINF:-1 tvg-id="" tvg-name="Nada que perder (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/awxt51Y6hECLjIC2mRIOKcCG9a1.jpg" group-title="PELICULAS",Nada que perder (2018)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73222
+#EXTINF:-1 tvg-id="" tvg-name="Náufrago (2000)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4j5ijr5M19bhdjIWwA9VAxjr50u.jpg" group-title="PELICULAS",Náufrago (2000)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73223
+#EXTINF:-1 tvg-id="" tvg-name="Nebraska (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qJIXMitYhKtGnkSVMdJMoDZSqd6.jpg" group-title="PELICULAS",Nebraska (2013)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73224
+#EXTINF:-1 tvg-id="" tvg-name="Negación (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fAQ8StdThqEWEvrFhRrGmm2OMVI.jpg" group-title="PELICULAS",Negación (2016)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73225
+#EXTINF:-1 tvg-id="" tvg-name="Newness (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j6P9ErPK3PgX56nZukGGgTvSaUC.jpg" group-title="PELICULAS",Newness (2017)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73226
+#EXTINF:-1 tvg-id="" tvg-name="No conoces a Jack (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/85LcrKMKO3PgB72UMCyOubn3LqB.jpg" group-title="PELICULAS",No conoces a Jack (2010)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73227
+#EXTINF:-1 tvg-id="" tvg-name="Animales nocturnos (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bPCo3floRoaxmiImRtfsS4ej3Vd.jpg" group-title="PELICULAS",Animales nocturnos (2016)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73228
+#EXTINF:-1 tvg-id="" tvg-name="El arca de Noé (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cO6x9pTZHIBXbPLcmFSCXAI6Ky3.jpg" group-title="PELICULAS",El arca de Noé (2014)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73229
+#EXTINF:-1 tvg-id="" tvg-name="vuela (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fBuWxlAg27efWNyDEYOkAn0gUtr.jpg" group-title="PELICULAS",vuela (2014)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73230
+#EXTINF:-1 tvg-id="" tvg-name="I'm Not Ashamed (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mDbZcxPIMYIH6e98uEDlozBpyA0.jpg" group-title="PELICULAS",I'm Not Ashamed (2016)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73231
+#EXTINF:-1 tvg-id="" tvg-name="Nosotros en la noche (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s6OmZkk23VmjKy5tVsEkt9wOJH1.jpg" group-title="PELICULAS",Nosotros en la noche (2017)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73232
+#EXTINF:-1 tvg-id="" tvg-name="Nuestro Sitio (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lwzudBkF9a374Rx5qm9pqHzFvur.jpg" group-title="PELICULAS",Nuestro Sitio (2017)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73233
+#EXTINF:-1 tvg-id="" tvg-name="Nuestro último verano en Escocia (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eoQAzGHNgSzzFY3BjW5Wvo99yRq.jpg" group-title="PELICULAS",Nuestro último verano en Escocia (2014)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73234
+#EXTINF:-1 tvg-id="" tvg-name="Nueve Muertos (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zpmfVbs6R6ibDQQWyLFc3CNr8Tz.jpg" group-title="PELICULAS",Nueve Muertos (2010)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73235
+#EXTINF:-1 tvg-id="" tvg-name="Nunca es demasiado tarde (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2wF6AItrtGoqMPJaywdMgc057i0.jpg" group-title="PELICULAS",Nunca es demasiado tarde (2013)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73236
+#EXTINF:-1 tvg-id="" tvg-name="Obsesión fatal (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mHNAzwNJmEllFa5Lt1RjyyXoGMS.jpg" group-title="PELICULAS",Obsesión fatal (2016)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73237
+#EXTINF:-1 tvg-id="" tvg-name="Oddball (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8DoiFnHXzZhkyNyGw6s7DGpaauA.jpg" group-title="PELICULAS",Oddball (2015)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73238
+#EXTINF:-1 tvg-id="" tvg-name="Oficial y Caballero (1982)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6fj5gCkPb8bSDb3wCPxqxQ5uAPe.jpg" group-title="PELICULAS",Oficial y Caballero (1982)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73239
+#EXTINF:-1 tvg-id="" tvg-name="De ratones y hombres (1992)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cSctuPnLpWzOePnXmztiioSIgwN.jpg" group-title="PELICULAS",De ratones y hombres (1992)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73240
+#EXTINF:-1 tvg-id="" tvg-name="Ramona! (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mscdZrk8k6VTVOgbVF5IpsaA8sK.jpg" group-title="PELICULAS",Ramona! (2019)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73241
+#EXTINF:-1 tvg-id="" tvg-name="Big Eyes (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3TgU7hinG5xJfob5ygC1ZmCiseE.jpg" group-title="PELICULAS",Big Eyes (2014)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73242
+#EXTINF:-1 tvg-id="" tvg-name="Once (Una Vez) (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7nW363kSYRCkr4VGOMvuSGwtzKs.jpg" group-title="PELICULAS",Once (Una Vez) (2007)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73243
+#EXTINF:-1 tvg-id="" tvg-name="Érase una vez en América (1984)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u4VnqaxINtKVscmdldZsBojU6jm.jpg" group-title="PELICULAS",Érase una vez en América (1984)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73244
+#EXTINF:-1 tvg-id="" tvg-name="Héroes en el infierno (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xBiHghgl0LwgINFgaYTORUUXwYZ.jpg" group-title="PELICULAS",Héroes en el infierno (2017)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73245
+#EXTINF:-1 tvg-id="" tvg-name="Una cuestión de género (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eXbt9oUWzWAVVzxOb8HP1g8S9c.jpg" group-title="PELICULAS",Una cuestión de género (2018)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73246
+#EXTINF:-1 tvg-id="" tvg-name="Operación: Huracán (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/76yQcIZR6NG191Ab38JqKR4JWQL.jpg" group-title="PELICULAS",Operación: Huracán (2018)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73247
+#EXTINF:-1 tvg-id="" tvg-name="Gorrión rojo (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bitgVjyiz4FszOvgQJ9ORHlRhA8.jpg" group-title="PELICULAS",Gorrión rojo (2018)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73248
+#EXTINF:-1 tvg-id="" tvg-name="Oro (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hOx9xaGqubgbkTbWUacR0qZZikN.jpg" group-title="PELICULAS",Oro (2017)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73249
+#EXTINF:-1 tvg-id="" tvg-name="Fallen (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/usGCM7wiUQhijEwz39brIaoGlVa.jpg" group-title="PELICULAS",Fallen (2016)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73250
+#EXTINF:-1 tvg-id="" tvg-name="Overlord (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xtdy7CDGyFYYPMsM2FmZ9tkGTG4.jpg" group-title="PELICULAS",Overlord (2018)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73251
+#EXTINF:-1 tvg-id="" tvg-name="Pactar con el diablo (1997)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kO0gL6J6LM85QOZFQTAd4yYlQX.jpg" group-title="PELICULAS",Pactar con el diablo (1997)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73252
+#EXTINF:-1 tvg-id="" tvg-name="Pájaros de verano (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ydm0Vgol5t5QMWu11CkCHnrgDfX.jpg" group-title="PELICULAS",Pájaros de verano (2018)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73253
+#EXTINF:-1 tvg-id="" tvg-name="Gangs of New York (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oriWw159WYMycVWRAtEjzab2c4a.jpg" group-title="PELICULAS",Gangs of New York (2002)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73254
+#EXTINF:-1 tvg-id="" tvg-name="Passengers (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iLMtX4MGl8WjKCPfMgCdDuceOth.jpg" group-title="PELICULAS",Passengers (2016)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73255
+#EXTINF:-1 tvg-id="" tvg-name="Pat Garrett y Billy el Niño (1973)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eUZbn652KXfWMwh6Oe4PdeJfKuS.jpg" group-title="PELICULAS",Pat Garrett y Billy el Niño (1973)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73256
+#EXTINF:-1 tvg-id="" tvg-name="Patti Cake$ (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/11MVxyp77zUPwc4cmqsUumNQYWK.jpg" group-title="PELICULAS",Patti Cake$ (2017)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73257
+#EXTINF:-1 tvg-id="" tvg-name="Patton (1970)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1jCaXkBMi9onVxeqqN9v7kovp3u.jpg" group-title="PELICULAS",Patton (1970)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73258
+#EXTINF:-1 tvg-id="" tvg-name="El guerrero pacífico (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cYkOF9grDTqdYcwU7JwN2oDPhHh.jpg" group-title="PELICULAS",El guerrero pacífico (2006)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73259
+#EXTINF:-1 tvg-id="" tvg-name="Pedro el afortunado (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kfG0XHNxG3GS4R11tWk61vGjqKo.jpg" group-title="PELICULAS",Pedro el afortunado (2018)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73260
+#EXTINF:-1 tvg-id="" tvg-name="fe en el caos (1998)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iauKJI5oeCAUeMfvmhCHuYd5vN4.jpg" group-title="PELICULAS",fe en el caos (1998)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73261
+#EXTINF:-1 tvg-id="" tvg-name="Philadelphia (1993)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tFe5Yoo5zT495okA49bq1vPPkiV.jpg" group-title="PELICULAS",Philadelphia (1993)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73262
+#EXTINF:-1 tvg-id="" tvg-name="Phoenix (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k9urjjKcwBYKoRnls3Pxxst6yL9.jpg" group-title="PELICULAS",Phoenix (2014)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73263
+#EXTINF:-1 tvg-id="" tvg-name="fe en el caos (1998)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iauKJI5oeCAUeMfvmhCHuYd5vN4.jpg" group-title="PELICULAS",fe en el caos (1998)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73264
+#EXTINF:-1 tvg-id="" tvg-name="¿Podrás perdonarme algún día? (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cPS3qqWnPmGY2SLAKXPzAmr0Ggm.jpg" group-title="PELICULAS",¿Podrás perdonarme algún día? (2018)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73265
+#EXTINF:-1 tvg-id="" tvg-name="Pozos de ambición (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/spEmaPsrkYQRCDuy5ZLscs3d0e3.jpg" group-title="PELICULAS",Pozos de ambición (2007)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73266
+#EXTINF:-1 tvg-id="" tvg-name="La hora señalada (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rU1qCoPooOwZd99Q2RHEcOLVe9k.jpg" group-title="PELICULAS",La hora señalada (2017)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73267
+#EXTINF:-1 tvg-id="" tvg-name="Se lo llevaron: Recuerdos de una niña de Camboya (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6pjwS7TrziPFyoWPlUofc5EeVs3.jpg" group-title="PELICULAS",Se lo llevaron: Recuerdos de una niña de Camboya (2017)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73268
+#EXTINF:-1 tvg-id="" tvg-name="El profesor Marston y Wonder Women (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/34cwZOrzwvQplGw4Vp2CRl4uZ86.jpg" group-title="PELICULAS",El profesor Marston y Wonder Women (2017)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73269
+#EXTINF:-1 tvg-id="" tvg-name="Prospect (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xP015xnIApAXsBgsTONp6kUChZb.jpg" group-title="PELICULAS",Prospect (2018)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73270
+#EXTINF:-1 tvg-id="" tvg-name="Purasangre (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bnApVRDjMChIytsjGipQtOE66sa.jpg" group-title="PELICULAS",Purasangre (2017)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73271
+#EXTINF:-1 tvg-id="" tvg-name="Querido John (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6JXXvv9I7cTHuOPPNd9mGeW9Jx3.jpg" group-title="PELICULAS",Querido John (2010)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73272
+#EXTINF:-1 tvg-id="" tvg-name="Qué tan lejos (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3pyihm13u3HKWNGPwJOb9PzqJHr.jpg" group-title="PELICULAS",Qué tan lejos (2006)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73273
+#EXTINF:-1 tvg-id="" tvg-name="Quills (2000)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hFj5IMooJrvO14CfxvB2seNvplT.jpg" group-title="PELICULAS",Quills (2000)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73274
+#EXTINF:-1 tvg-id="" tvg-name="Quién es Simon Miller (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8qAk4FsfCoibydXrYllQ4ToJMbw.jpg" group-title="PELICULAS",Quién es Simon Miller (2011)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73275
+#EXTINF:-1 tvg-id="" tvg-name="Rain Man (1988)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mPX2v7MbalB9FbGsUylKW91J68E.jpg" group-title="PELICULAS",Rain Man (1988)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73276
+#EXTINF:-1 tvg-id="" tvg-name="Escuadrón rojo (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jiORLnBsGcVcqIibkGBE213zAyh.jpg" group-title="PELICULAS",Escuadrón rojo (2012)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73277
+#EXTINF:-1 tvg-id="" tvg-name="El regreso de Ben (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8YX8AhxJJcKcQ69j33oarYGFvvw.jpg" group-title="PELICULAS",El regreso de Ben (2018)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73278
+#EXTINF:-1 tvg-id="" tvg-name="En algún lugar de la memoria (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jXI7NP3iSoVBiU1ADLrqnwE8gVy.jpg" group-title="PELICULAS",En algún lugar de la memoria (2007)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73279
+#EXTINF:-1 tvg-id="" tvg-name="Relatos salvajes (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ttaZHjuyiyBqH85sOBqgWxczqdJ.jpg" group-title="PELICULAS",Relatos salvajes (2014)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73280
+#EXTINF:-1 tvg-id="" tvg-name="Reparar a los vivos (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fMUt28VRZuap1gmHKQRu7nTgOcT.jpg" group-title="PELICULAS",Reparar a los vivos (2016)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73281
+#EXTINF:-1 tvg-id="" tvg-name="Reporteras en guerra (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ucaUyFSuGKt61aDurleQIfXhzY8.jpg" group-title="PELICULAS",Reporteras en guerra (2016)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73282
+#EXTINF:-1 tvg-id="" tvg-name="Salvar al soldado Ryan (1998)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dcKfD8xWf8XnS3tHVp7v331wdNT.jpg" group-title="PELICULAS",Salvar al soldado Ryan (1998)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73283
+#EXTINF:-1 tvg-id="" tvg-name="Regreso al lago azul (1991)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jhUTLuPgc3Qcvr5xtji8oiWSfYy.jpg" group-title="PELICULAS",Regreso al lago azul (1991)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73284
+#EXTINF:-1 tvg-id="" tvg-name="Rocketman (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lvt3qfH3QlzydjmGNMGQ2tx2O7C.jpg" group-title="PELICULAS",Rocketman (2019)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73285
+#EXTINF:-1 tvg-id="" tvg-name="Rock Star (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8pRMweo9WA1MvYOLsD2hWyFpZ1V.jpg" group-title="PELICULAS",Rock Star (2001)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73286
+#EXTINF:-1 tvg-id="" tvg-name="Rocky (1976)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/geDE4RATUhEftV2pVgBHq16PsQP.jpg" group-title="PELICULAS",Rocky (1976)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73287
+#EXTINF:-1 tvg-id="" tvg-name="Rocky Balboa (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v1idhSQfaaXZqMKNWxfIc6t9zfL.jpg" group-title="PELICULAS",Rocky Balboa (2006)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73288
+#EXTINF:-1 tvg-id="" tvg-name="Rocky II (1979)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y8BvO9xCwdzpZB2TSLJEmscl64V.jpg" group-title="PELICULAS",Rocky II (1979)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73289
+#EXTINF:-1 tvg-id="" tvg-name="Rocky III (1982)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uWiTgedRzBRNeED7Nj7YB4TXBGg.jpg" group-title="PELICULAS",Rocky III (1982)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73290
+#EXTINF:-1 tvg-id="" tvg-name="Rocky IV (1985)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3s9nnzKQ9XvVSvrXY0oOiOZXuzw.jpg" group-title="PELICULAS",Rocky IV (1985)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73291
+#EXTINF:-1 tvg-id="" tvg-name="Rocky V (1990)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s39Rz8xkcIoj3JbwRosWwpM8WpV.jpg" group-title="PELICULAS",Rocky V (1990)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73292
+#EXTINF:-1 tvg-id="" tvg-name="Esq. (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6lM9QFGKoMln5oV03KwZzMZgVFb.jpg" group-title="PELICULAS",Esq. (2017)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73293
+#EXTINF:-1 tvg-id="" tvg-name="Rosewater (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7QNjiJdQn456uryRM3bzDjbyPc4.jpg" group-title="PELICULAS",Rosewater (2014)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73294
+#EXTINF:-1 tvg-id="" tvg-name="Roxanne Roxanne (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xVNJe0xmGMbsuN5USr1J5gTLvct.jpg" group-title="PELICULAS",Roxanne Roxanne (2017)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73295
+#EXTINF:-1 tvg-id="" tvg-name="Rudderless (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4jhqpyUXgJvtE31xJnI57oTi5Vb.jpg" group-title="PELICULAS",Rudderless (2014)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73296
+#EXTINF:-1 tvg-id="" tvg-name="Rumbos paralelos (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1gndcTKYAIQdZfI5xxT6sL1b6Ln.jpg" group-title="PELICULAS",Rumbos paralelos (2016)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73297
+#EXTINF:-1 tvg-id="" tvg-name="Réquiem por un sueño (2000)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2B5brHMhaHN1d9KmdeZI6RlU3aE.jpg" group-title="PELICULAS",Réquiem por un sueño (2000)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73298
+#EXTINF:-1 tvg-id="" tvg-name="Sangre de mi sangre (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iDRt0bwVqewNZgi9wAicNueTdvC.jpg" group-title="PELICULAS",Sangre de mi sangre (2016)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73299
+#EXTINF:-1 tvg-id="" tvg-name="Santa Claus (1959)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xurQgTzzYjYRwhWcUwzlE14SInp.jpg" group-title="PELICULAS",Santa Claus (1959)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73300
+#EXTINF:-1 tvg-id="" tvg-name="Esencia de mujer (1992)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jk5HebAjrJzJ5POrZzNdUAOXN6V.jpg" group-title="PELICULAS",Esencia de mujer (1992)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73301
+#EXTINF:-1 tvg-id="" tvg-name="Secretariat (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9bpAR3ALEfaqosxbi9zpuv9FH7F.jpg" group-title="PELICULAS",Secretariat (2010)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73302
+#EXTINF:-1 tvg-id="" tvg-name="Secuestrado (Kidnap) (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1jcD7bGnoWTIaQTu6gQLNj4E7aF.jpg" group-title="PELICULAS",Secuestrado (Kidnap) (2017)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73303
+#EXTINF:-1 tvg-id="" tvg-name="Selma (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yCZaJNKTxu5VGbJu4fwu2yIBQAz.jpg" group-title="PELICULAS",Selma (2014)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73304
+#EXTINF:-1 tvg-id="" tvg-name="Señales (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/axb5KzE3cfwmKhnx33wmHJtADM8.jpg" group-title="PELICULAS",Señales (2002)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73305
+#EXTINF:-1 tvg-id="" tvg-name="Mentiras y Muertos (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/deNkTBnMOjWyXH9Mox0XzZvxsxu.jpg" group-title="PELICULAS",Mentiras y Muertos (2011)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73306
+#EXTINF:-1 tvg-id="" tvg-name="Mademoiselle de Joncquières (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xLUJ1zkN4eFK8FXPmJQwT3K92bO.jpg" group-title="PELICULAS",Mademoiselle de Joncquières (2018)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73307
+#EXTINF:-1 tvg-id="" tvg-name="Shot Caller (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gtKhQhooQCB8jn4l3Pi1kRZHKbw.jpg" group-title="PELICULAS",Shot Caller (2017)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73308
+#EXTINF:-1 tvg-id="" tvg-name="Showgirls (1995)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dTDEDmd7A5BEbIdR7uJ9LTzw3HM.jpg" group-title="PELICULAS",Showgirls (1995)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73309
+#EXTINF:-1 tvg-id="" tvg-name="Siempre a tu lado (Hachiko) (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rLPMD8BOHjvvjjCX7BZQdqNWBm2.jpg" group-title="PELICULAS",Siempre a tu lado (Hachiko) (2009)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73310
+#EXTINF:-1 tvg-id="" tvg-name="Siempre a tu lado (Hachiko) (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rLPMD8BOHjvvjjCX7BZQdqNWBm2.jpg" group-title="PELICULAS",Siempre a tu lado (Hachiko) (2009)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73311
+#EXTINF:-1 tvg-id="" tvg-name="Inmersión (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eZaecd428OQyHbfYhNi5BAhHbsn.jpg" group-title="PELICULAS",Inmersión (2017)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73312
+#EXTINF:-1 tvg-id="" tvg-name="Era el Cielo (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p1RCSoIWwSn3lYGdtI1Ij7E0yhj.jpg" group-title="PELICULAS",Era el Cielo (2016)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73313
+#EXTINF:-1 tvg-id="" tvg-name="Silencio (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x1hqZL8GxAByIVnnnVfxVIMTare.jpg" group-title="PELICULAS",Silencio (2018)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73314
+#EXTINF:-1 tvg-id="" tvg-name="Sin novedad en el frente (1979)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A2Miw9CY2iJ5H1BNncHNJBbaNd9.jpg" group-title="PELICULAS",Sin novedad en el frente (1979)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73315
+#EXTINF:-1 tvg-id="" tvg-name="Si no despierto (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/16zYFa4x8ANd8UFiXxRiYlHIzEl.jpg" group-title="PELICULAS",Si no despierto (2017)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73316
+#EXTINF:-1 tvg-id="" tvg-name="Sin retorno (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a0tgmEuvDqkaBO2R7kbfdW4t9da.jpg" group-title="PELICULAS",Sin retorno (2010)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73317
+#EXTINF:-1 tvg-id="" tvg-name="Somos lo que hay (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uUKoQzfdqLOtkNiLMiseQDzaPzb.jpg" group-title="PELICULAS",Somos lo que hay (2010)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73318
+#EXTINF:-1 tvg-id="" tvg-name="Sospechosos habituales (1995)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6EwKfCzUVDSNwfTz3uOQ77ANawi.jpg" group-title="PELICULAS",Sospechosos habituales (1995)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73319
+#EXTINF:-1 tvg-id="" tvg-name="Speed Kills (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lzR2GneOf4FiIqhB74pmqMNfuMr.jpg" group-title="PELICULAS",Speed Kills (2018)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73320
+#EXTINF:-1 tvg-id="" tvg-name="Spotlight (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rBkptJyAMqCfoMwUGQfCpubroec.jpg" group-title="PELICULAS",Spotlight (2015)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73321
+#EXTINF:-1 tvg-id="" tvg-name="Cuenta conmigo (1986)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1J6shezdRbtdeoYHSYmi4oUIWkD.jpg" group-title="PELICULAS",Cuenta conmigo (1986)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73322
+#EXTINF:-1 tvg-id="" tvg-name="Stone (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3cSySvLRy1ywYzuQ2I51wIgnzDl.jpg" group-title="PELICULAS",Stone (2010)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73323
+#EXTINF:-1 tvg-id="" tvg-name="Straight Outta Compton (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9B63hMwU6iICtNDTISCaZQ5US7R.jpg" group-title="PELICULAS",Straight Outta Compton (2015)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73324
+#EXTINF:-1 tvg-id="" tvg-name="Striptease (1996)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nqeGynWG1vsjFLb6wfzBj2XtdPD.jpg" group-title="PELICULAS",Striptease (1996)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73325
+#EXTINF:-1 tvg-id="" tvg-name="Suburbicon (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dL1GOIX3gs3GzZLDs4mg3fjjUOV.jpg" group-title="PELICULAS",Suburbicon (2017)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73326
+#EXTINF:-1 tvg-id="" tvg-name="Suck It Up (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rXLK3mjOt3hJnjaLhE6HfBADRUg.jpg" group-title="PELICULAS",Suck It Up (2017)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73327
+#EXTINF:-1 tvg-id="" tvg-name="Cadena perpetua (1994)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dc1fX265fZIIY5Hab8I7CdETyJy.jpg" group-title="PELICULAS",Cadena perpetua (1994)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73328
+#EXTINF:-1 tvg-id="" tvg-name="Tormenta de arena (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gVdKijksAyQVRM1u27pyQ2nMDLV.jpg" group-title="PELICULAS",Tormenta de arena (2017)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73329
+#EXTINF:-1 tvg-id="" tvg-name="Sully (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dT3AMK35Uq8FUFjCXJwZJKtfaJp.jpg" group-title="PELICULAS",Sully (2016)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73330
+#EXTINF:-1 tvg-id="" tvg-name="Super Dark Times (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7sJoNicLJ9EZwetp5ucjS8qQ9g1.jpg" group-title="PELICULAS",Super Dark Times (2017)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73331
+#EXTINF:-1 tvg-id="" tvg-name="Sweet Virginia (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gFBa18YlOE0BP3rWePPdGl1uLyk.jpg" group-title="PELICULAS",Sweet Virginia (2017)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73332
+#EXTINF:-1 tvg-id="" tvg-name="T2: Trainspotting (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3JDNhLNN4qxov7O0pI5xDQbtFRO.jpg" group-title="PELICULAS",T2: Trainspotting (2017)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73333
+#EXTINF:-1 tvg-id="" tvg-name="Tarde de perros (1975)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gQxsFG6hAms0lsnIj5J2QXpape9.jpg" group-title="PELICULAS",Tarde de perros (1975)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73334
+#EXTINF:-1 tvg-id="" tvg-name="Taxi Driver (1976)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eQ5SVeWsl8bIL3K4TPQC4McA9SG.jpg" group-title="PELICULAS",Taxi Driver (1976)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73335
+#EXTINF:-1 tvg-id="" tvg-name="Temple Grandin (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gQhQ6yEkUkDDo1zugpq46PJN8xZ.jpg" group-title="PELICULAS",Temple Grandin (2010)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73336
+#EXTINF:-1 tvg-id="" tvg-name="Terremoto (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jA5MVaNWe76EjuXn4FqkeaHDPuj.jpg" group-title="PELICULAS",Terremoto (2018)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73337
+#EXTINF:-1 tvg-id="" tvg-name="The Blind Side: Un sueño posible (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eXuAYi3nWKxXi7nYPLm8h4OGc30.jpg" group-title="PELICULAS",The Blind Side: Un sueño posible (2009)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73338
+#EXTINF:-1 tvg-id="" tvg-name="El lago azul (1980)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9ffWRvCfUbBa5yUOjvYt1N9GaOB.jpg" group-title="PELICULAS",El lago azul (1980)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73339
+#EXTINF:-1 tvg-id="" tvg-name="La ladrona de libros (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ul0gxmkZS7ytUm71HnnlkfLRbrS.jpg" group-title="PELICULAS",La ladrona de libros (2013)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73340
+#EXTINF:-1 tvg-id="" tvg-name="The Company Men (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1FJLX8D2IzrrMez9HBiy1XZXSTf.jpg" group-title="PELICULAS",The Company Men (2010)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73341
+#EXTINF:-1 tvg-id="" tvg-name="The Confirmation (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uHX6ViDnUzvZhcuzROjSRWbypv5.jpg" group-title="PELICULAS",The Confirmation (2016)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73342
+#EXTINF:-1 tvg-id="" tvg-name="El corazón valiente de Irena Sendler (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jfvvws0sCNbNNxY9llsBqmeERxv.jpg" group-title="PELICULAS",El corazón valiente de Irena Sendler (2009)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73343
+#EXTINF:-1 tvg-id="" tvg-name="La chica danesa (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8XubRv1OkM2RkksxVpkG8qoROM8.jpg" group-title="PELICULAS",La chica danesa (2015)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73344
+#EXTINF:-1 tvg-id="" tvg-name="El doble del diablo (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4vcqzoNkBcgsYabRgV41iXUYkOD.jpg" group-title="PELICULAS",El doble del diablo (2011)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73345
+#EXTINF:-1 tvg-id="" tvg-name="La sombra del diablo (1997)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7XIxdjhaoDIiv7slEiOhBEzMtqu.jpg" group-title="PELICULAS",La sombra del diablo (1997)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73346
+#EXTINF:-1 tvg-id="" tvg-name="The Doors (1991)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xa5dn3u0pwFcbWqANxZt0LTQCka.jpg" group-title="PELICULAS",The Doors (1991)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73347
+#EXTINF:-1 tvg-id="" tvg-name="El paciente inglés (1996)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rFrE4iRB9Cdj2T3H1JeeV6DOuL8.jpg" group-title="PELICULAS",El paciente inglés (1996)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73348
+#EXTINF:-1 tvg-id="" tvg-name="The Escape from Auschwitz (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zY4t2c29TfNN7Of0RvaToauR42S.jpg" group-title="PELICULAS",The Escape from Auschwitz (2020)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73349
+#EXTINF:-1 tvg-id="" tvg-name="De la India a París en un armario de Ikea (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sDO6Ff8U4G6hoTpgl1qnOiXRJXh.jpg" group-title="PELICULAS",De la India a París en un armario de Ikea (2018)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73350
+#EXTINF:-1 tvg-id="" tvg-name="The Fighter (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k8v2FzmpOARVGI3BTINSqtrERD.jpg" group-title="PELICULAS",The Fighter (2010)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73351
+#EXTINF:-1 tvg-id="" tvg-name="Iceman the time traveler (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xGXENd8fkaKPQbQw3U8GnWYeUou.jpg" group-title="PELICULAS",Iceman the time traveler (2018)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73352
+#EXTINF:-1 tvg-id="" tvg-name="Infierno blanco (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qrLan9yN5LJbJYozrr5VarL1FVh.jpg" group-title="PELICULAS",Infierno blanco (2011)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73353
+#EXTINF:-1 tvg-id="" tvg-name="Criadas y señoras (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7V5sfN6fNNXvDdr9BPIIIOtPWOp.jpg" group-title="PELICULAS",Criadas y señoras (2011)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73354
+#EXTINF:-1 tvg-id="" tvg-name="La casa de los espíritus (1993)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eiCEPrKRm3XPrcLTLOqbPKtcH7B.jpg" group-title="PELICULAS",La casa de los espíritus (1993)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73355
+#EXTINF:-1 tvg-id="" tvg-name="En tierra hostil (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wMzapRL8iTqF6oDUY04a2tVU5S4.jpg" group-title="PELICULAS",En tierra hostil (2008)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73356
+#EXTINF:-1 tvg-id="" tvg-name="Las horas pasadas (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u2Bf3bzbOBKXzj77gitzvJCU0a4.jpg" group-title="PELICULAS",Las horas pasadas (2017)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73357
+#EXTINF:-1 tvg-id="" tvg-name="El discurso del rey (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ayrDCichVVOovfAikiS5NTmq8Wb.jpg" group-title="PELICULAS",El discurso del rey (2010)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73358
+#EXTINF:-1 tvg-id="" tvg-name="El último hombre (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/syQkoFYfCADPOnP5ZPlyddGPtqC.jpg" group-title="PELICULAS",El último hombre (2018)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73359
+#EXTINF:-1 tvg-id="" tvg-name="Thelma y Louise (1991)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zS4vosCL144152a1hlU2vbiv8cO.jpg" group-title="PELICULAS",Thelma y Louise (1991)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73360
+#EXTINF:-1 tvg-id="" tvg-name="The Lost Bladesman (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qWRlg39v7cHqPHh3gEZWeotArTk.jpg" group-title="PELICULAS",The Lost Bladesman (2011)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73361
+#EXTINF:-1 tvg-id="" tvg-name="The Normal Heart (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qhugciu9LSc1g3FeS2FrR55wPi4.jpg" group-title="PELICULAS",The Normal Heart (2014)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73362
+#EXTINF:-1 tvg-id="" tvg-name="The Old Man & the Gun (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/38b5evIZIoMxOZHYiuCOdcgzFKv.jpg" group-title="PELICULAS",The Old Man & the Gun (2018)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73363
+#EXTINF:-1 tvg-id="" tvg-name="Los archivos del Pentágono (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uhUoPnkR7aAJgkQ1fq1Rm3jaenH.jpg" group-title="PELICULAS",Los archivos del Pentágono (2017)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73364
+#EXTINF:-1 tvg-id="" tvg-name="Entre la razón y la locura (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iujhDhSHxMUrWnEY7WDIqTsxfOg.jpg" group-title="PELICULAS",Entre la razón y la locura (2019)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73365
+#EXTINF:-1 tvg-id="" tvg-name="La promesa (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sTOaUcwJdD8Oqwd0OLZScQ4RBcM.jpg" group-title="PELICULAS",La promesa (2016)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73366
+#EXTINF:-1 tvg-id="" tvg-name="The Rider (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hBTcfh9LbaBg8Q7uL5DiDreW7qh.jpg" group-title="PELICULAS",The Rider (2017)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73367
+#EXTINF:-1 tvg-id="" tvg-name="El jardín secreto (1993)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2B8yOYHrp0AopX3gk4b7jWH3Q5a.jpg" group-title="PELICULAS",El jardín secreto (1993)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73368
+#EXTINF:-1 tvg-id="" tvg-name="La vida secreta de las abejas (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m1LGEeoYfc6crbfG8WmTKg9SVqL.jpg" group-title="PELICULAS",La vida secreta de las abejas (2008)
+http://69.64.48.144:25461/SIMPSONS/6RxJdnmsuy/73369
