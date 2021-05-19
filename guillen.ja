@@ -2,6 +2,8 @@
 #EXTM3U
 #EXTINF:0 tvg-country="PY" tvg-logo="" group-title="PARAGUAY",DENIS IPTV CLICK AQUI
 https://www.youtube.com/watch?v=vVMeMlY7r2s
+#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="COPA DE FRANCIA",PSG VS MONACO(CLAUDIO PUTO)
+http://cdn89.sportsbay.site:2052/live-2/284/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIxIDc6MTc6NTUgUE0maGFzaF92YWx1ZT1XNXJuakplUHRtQytsZ3pyL1dHTUVnPT0mdmFsaWRtaW51dGVzPTEyMCZzdHJtX2xlbj0xMA==
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/1280px-Tigo_Sports_logo.svg.png" group-title="PARAGUAY", 2- TIGO SPORTS(24 horas)
 http://ultrax.online:8000/IPTVTOOLSREESTREAMULTRAX/ijKfrdW8ld/1999
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/rolnando-play/RP/master/app/canalesImg/tigo%2B.png" group-title="PARAGUAY", 2- TIGO SPORTS +
