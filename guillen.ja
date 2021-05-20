@@ -152,45 +152,45 @@ https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/75|User-Agent=ajajaja
 https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/77|User-Agent=ajajajaja
 #EXTINF:-1 tvg-id="" tvg-name="H2" tvg-logo="https://i.ibb.co/tPcjdsV/History-2.png" group-title="Cultura",H2
 https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/78|User-Agent=ajajajaja
-#EXTINF:-1  group-title="ARGENTINA", EL TRECE ARGENTINA 
+#EXTINF:-1  group-title="PARAGUAY", EL TRECE ARGENTINA 
 http://cdn.stg.cvattv.com.ar:80/live/live2/ArtearHD/SA_Live_fta/ArtearHD.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://lh3.googleusercontent.com/-0K_G9JiAw-I/XkCUfNx8kmI/AAAAAAAAv8Y/eK0_8koGnZYLy58qtmUqW26VOZjRqqV8gCK8BGAsYHg/s0/2020-02-09.png" group-title="ARGENTINA", TV PUBLICA
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://lh3.googleusercontent.com/-0K_G9JiAw-I/XkCUfNx8kmI/AAAAAAAAv8Y/eK0_8koGnZYLy58qtmUqW26VOZjRqqV8gCK8BGAsYHg/s0/2020-02-09.png" group-title="PARAGUAY", TV PUBLICA
 https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://lh3.googleusercontent.com/-CcQlQ7U7EVI/XbIqQWbGCBI/AAAAAAAArpQ/CyEn-4Mk9xEHuDVVhDBB-vQumKMTSkrUwCK8BGAsYHg/s0/2019-10-24.png" group-title="NOTICIAS", FRANCE 24
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://lh3.googleusercontent.com/-CcQlQ7U7EVI/XbIqQWbGCBI/AAAAAAAArpQ/CyEn-4Mk9xEHuDVVhDBB-vQumKMTSkrUwCK8BGAsYHg/s0/2019-10-24.png" group-title="Noticias", FRANCE 24
 http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://lh3.googleusercontent.com/-CAaBUIZOgpc/XbInLO0y7XI/AAAAAAAAro8/uyF1cG5j5XcZHIDofhFJT2q00gjKsTl0wCK8BGAsYHg/s0/2019-10-24.png" group-title="NOTICIAS", TELESUR
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://lh3.googleusercontent.com/-CAaBUIZOgpc/XbInLO0y7XI/AAAAAAAAro8/uyF1cG5j5XcZHIDofhFJT2q00gjKsTl0wCK8BGAsYHg/s0/2019-10-24.png" group-title="Noticias", TELESUR
 https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/hd/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="MUSICA", Retro Tv
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Musica", Retro Tv
 http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w627639048.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/oAdVLb8.png" group-title="MUSICA", Music Top | HD
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/oAdVLb8.png" group-title="Musica", Music Top | HD
 http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://lh3.googleusercontent.com/-YvhgR9bWwEk/XqeKc33JN4I/AAAAAAAAySs/RsIopL6SbT42YZrOwRYaWYx0EztbDMSkQCK8BGAsYHg/s0/2020-04-27.png" group-title="ENTRETENIMIENTO",EXTREMA TV Peliculas
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://lh3.googleusercontent.com/-YvhgR9bWwEk/XqeKc33JN4I/AAAAAAAAySs/RsIopL6SbT42YZrOwRYaWYx0EztbDMSkQCK8BGAsYHg/s0/2020-04-27.png" group-title="Cine & TV",EXTREMA TV Peliculas
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-#EXTINF:-1 group-title="ENTRETENIMIENTO",SPACE 
+#EXTINF:-1 group-title="Cine & TV",SPACE 
 http://edge1.stg.cvattv.com.ar:80/live/live2/Space/SA_Live_fta/Space.m3u8
-#EXTINF:-1 group-title="ENTRETENIMIENTO",AXN
+#EXTINF:-1 group-title="Cine & TV",AXN
 http://38.18.238.42:2741/213AXNLatinoAmerica/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|User-Agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 group-title="ENTRETENIMIENTO",COMEDY CENTRAL
+#EXTINF:-1 group-title="Cine & TV",COMEDY CENTRAL
 http://38.18.238.42:2741/225CMEDY/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8|User-Agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1  group-title="ENTRETENIMIENTO",HBO FAMILY
+#EXTINF:-1  group-title="Cine & TV",HBO FAMILY
 http://208.88.246.11:2741/652HBOFamily/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|User-Agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 group-title="ENTRETENIMIENTO",STAR CHANNEL HD
+#EXTINF:-1 group-title="Cine & TV",STAR CHANNEL HD
 http://cdn.stg.cvattv.com.ar:80/live/live2/FXHD/SA_Live_fta/index.m3u8
-#EXTINF:-1  group-title="ENTRETENIMIENTO",CINECANAL HD
+#EXTINF:-1  group-title="Cine & TV",CINECANAL HD
 http://edge1.stg.cvattv.com.ar:80/live/live2/CinecanalHD/SA_Live_fta/CinecanalHD.m3u8
-#EXTINF:-1  group-title="ENTRETENIMIENTO",TNT
+#EXTINF:-1  group-title="Cine & TV",TNT
 http://38.18.238.35:2741/andromeda/TNT/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|User-Agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1  group-title="ENTRETENIMIENTO",FX HD
+#EXTINF:-1  group-title="Cine & TV",FX HD
 http://38.18.238.35:2741/andromeda/FX/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|User-Agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1  group-title="ENTRETENIMIENTO",WARNER HD
+#EXTINF:-1  group-title="Cine & TV",WARNER HD
 http://38.18.238.35:2741/andromeda/WARNER/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|User-Agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-.#EXTINF:-1  group-title="ENTRETENIMIENTO",AMC HD
+.#EXTINF:-1  group-title="Cine & TV",AMC HD
 http://23.237.22.162:8081//live/la-AMC/playlist.m3u8?s=832e5791601561da2700ce89b6defb48|User-Agent=vsaClient/4.4.6 (Linux;Android 10) ExoPlayerLib/1.5.14
-#EXTINF:-1  group-title="CULTURAL", HISTORY 2
+#EXTINF:-1  group-title="Cultura", HISTORY 2
 http://38.18.238.42:2741/413H2/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8|User-Agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1  group-title="CULTURAL", Discovery Home & Health
+#EXTINF:-1  group-title="Cultura", Discovery Home & Health
 http://38.18.238.42:2741/215DiscoveryHHLatinoAmerica/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8|User-Agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1  group-title="CULTURAL", E ENTERTAIMENT 
+#EXTINF:-1  group-title="Cultura", E ENTERTAIMENT 
 http://208.88.246.11:2741/212E!Latino/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|User-Agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 #EXTINF:-1 tvg-id="" tvg-name="Nat Geo" tvg-logo="https://i.ibb.co/Jt7ZCWs/Imagen60.png" group-title="Cultura",Nat Geo
 https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/79|User-Agent=ajajajaja
@@ -292,6 +292,20 @@ https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/124|User-Agent=ajajaj
 https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/125|User-Agent=ajajajaja
 #EXTINF:-1 tvg-id="" tvg-name="Fox Comedy" tvg-logo="https://i.ibb.co/SxpykXh/Imagen5.png" group-title="Premium",Fox Comedy
 https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/126|User-Agent=ajajajaja
+#EXTINF:-1 tvg-id="" tvg-name="ESPN Sur" tvg-logo="" group-title="Deportes",ESPN Sur
+https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/175|User-Agent=ajajajaja
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 Sur" tvg-logo="" group-title="Deportes",ESPN 2 Sur
+https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/176|User-Agent=ajajajaja
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 Sur" tvg-logo="" group-title="Deportes",ESPN 3 Sur
+https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/177|User-Agent=ajajajaja
+#EXTINF:-1 tvg-id="" tvg-name="ESPN Extra Sur" tvg-logo="" group-title="Deportes",ESPN Extra Sur
+https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/178|User-Agent=ajajajaja
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports Sur" tvg-logo="" group-title="Deportes",Fox Sports Sur
+https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/179|User-Agent=ajajajaja
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2 Sur" tvg-logo="" group-title="Deportes",Fox Sports 2 Sur
+https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/180|User-Agent=ajajajaja
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 3 Sur" tvg-logo="" group-title="Deportes",Fox Sports 3 Sur
+https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/181|User-Agent=ajajajaja
 #EXTINF:-1 tvg-id="" tvg-name="UTDN" tvg-logo="https://i.ibb.co/dLyJPBL/utdn.png" group-title="Deportes",TUDN OPC 1
 https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/127|User-Agent=ajajajaja
 #EXTINF:-1 tvg-id="" tvg-name="TUDN" tvg-logo="https://i.ibb.co/YfmKXLV/tudn.png" group-title="Deportes",TUDN
@@ -336,20 +350,6 @@ https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/157|User-Agent=ajajaj
 https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/161|User-Agent=ajajajaja
 #EXTINF:-1 tvg-id="" tvg-name="UFC Pass" tvg-logo="" group-title="Deportes",UFC Pass
 https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/162|User-Agent=ajajajaja
-#EXTINF:-1 tvg-id="" tvg-name="ESPN Sur" tvg-logo="" group-title="Deportes",ESPN Sur
-https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/175|User-Agent=ajajajaja
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 Sur" tvg-logo="" group-title="Deportes",ESPN 2 Sur
-https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/176|User-Agent=ajajajaja
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 Sur" tvg-logo="" group-title="Deportes",ESPN 3 Sur
-https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/177|User-Agent=ajajajaja
-#EXTINF:-1 tvg-id="" tvg-name="ESPN Extra Sur" tvg-logo="" group-title="Deportes",ESPN Extra Sur
-https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/178|User-Agent=ajajajaja
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports Sur" tvg-logo="" group-title="Deportes",Fox Sports Sur
-https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/179|User-Agent=ajajajaja
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2 Sur" tvg-logo="" group-title="Deportes",Fox Sports 2 Sur
-https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/180|User-Agent=ajajajaja
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 3 Sur" tvg-logo="" group-title="Deportes",Fox Sports 3 Sur
-https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/181|User-Agent=ajajajaja
 #EXTINF:-1 tvg-id="" tvg-name="TNT sports" tvg-logo="" group-title="Deportes",TNT sports
 https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/182|User-Agent=ajajajaja
 #EXTINF:-1 tvg-id="" tvg-name="Golperu" tvg-logo="" group-title="Deportes",Golperu
@@ -358,21 +358,21 @@ https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/318|User-Agent=ajajaj
 https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/319|User-Agent=ajajajaja
 #EXTINF:-1 tvg-id="" tvg-name="Directv Sports Plus" tvg-logo="" group-title="Deportes",Directv Sports Plus
 https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/320|User-Agent=ajajajaja
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/DirecTV_Sports_Latin_America_-_2018_logo_v2.svg" group-title="DEPORTES",DIRECT TV SPORTS HD
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/DirecTV_Sports_Latin_America_-_2018_logo_v2.svg" group-title="Deportes",DIRECT TV SPORTS HD
 http://209.205.221.74:130/R3$3202/3R1W3$32/1643_.m3u8
-#EXTINF:-1  tvg-logo="https://statics-files.tycsports.com/frontend/tycsports/img/site_image.jpg" group-title="DEPORTES",TYC SPORTS HD
+#EXTINF:-1  tvg-logo="https://statics-files.tycsports.com/frontend/tycsports/img/site_image.jpg" group-title="Deportes",TYC SPORTS HD
 http://sv3.futbollibre.net/php/tyc.php?tyc.m3u8
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/GOLTV.png" group-title="DEPORTES",GOL TV HD
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/GOLTV.png" group-title="Deportes",GOL TV HD
 http://sv3.futbollibre.net/php/goltv.php?goltv.m3u8
-#EXTINF:-1 group-title="DEPORTES ESP",MOVISTAR LA LIGA 1
+#EXTINF:-1 group-title="Deportes",MOVISTAR LA LIGA 1
 http://ns3173312.ip-51-210-33.eu:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/38.ts|User-Agent=cp_525
-#EXTINF:-1 group-title="DEPORTES ESP",MOVISTAR LIGA 2
+#EXTINF:-1 group-title="Deportes",MOVISTAR LIGA 2
 http://ns3173312.ip-51-210-33.eu:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/36.ts|User-Agent=cp_525
-#EXTINF:-1 group-title="DEPORTES ESP",GOL SPORTS
+#EXTINF:-1 group-title="Deportes",GOL SPORTS
 http://ns3173312.ip-51-210-33.eu:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/35.ts|User-Agent=cp_525
-#EXTINF:-1 group-title="DEPORTES ESP",MOVISTAR LA LIGA 3
+#EXTINF:-1 group-title="Deportes",MOVISTAR LA LIGA 3
 http://ns3173312.ip-51-210-33.eu:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/34.ts|User-Agent=cp_525
-#EXTINF:-1 group-title="DEPORTES ESP",VAMOS SPORTS 
+#EXTINF:-1 group-title="Deportes",VAMOS SPORTS 
 http://ns3173312.ip-51-210-33.eu:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/33.ts|User-Agent=cp_525
 #EXTINF:-1 tvg-id="" tvg-name="TyC SPORTS Inter" tvg-logo="" group-title="Deportes",TyC SPORTS Inter
 https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/321|User-Agent=ajajajaja
@@ -443,7 +443,123 @@ https://tigocloud.desdeparaguay.net/ugatv/ugatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cladem.org/wp-content/uploads/2020/08/Paraguay-finallll-01.png" group-title="PARAGUAY", INVASIVA TV CAPIATA PARAGUAY
 https://live.admefy.com/live/default/ashamed_crimson_3360d.m3u8
 #EXTINF:-1 tvg-logo="https://cladem.org/wp-content/uploads/2020/08/Paraguay-finallll-01.png" group-title="PARAGUAY", MI TV
-https://tigocloud.desdeparaguay.net/mitv/mitv/chunklist_w680215671.m3u8
+http#EXTINF:-1 tvg-id="" tvg-name="24/7 Los Picapiedra" tvg-logo="" group-title="24/7",24/7 Los Picapiedra
+https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/209|User-Agent=ajajajaja
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Heman" tvg-logo="" group-title="24/7",24/7 Heman
+https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/210|User-Agent=ajajajaja
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Game Of Throne" tvg-logo="" group-title="24/7",24/7 Game Of Throne
+https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/211|User-Agent=ajajajaja
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Cuentos Hermanos Grimm" tvg-logo="" group-title="24/7",24/7 Cuentos Hermanos Grimm
+https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/212|User-Agent=ajajajaja
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Jorge el curioso" tvg-logo="" group-title="24/7",24/7 Jorge el curioso
+https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/213|User-Agent=ajajajaja
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dora la Exploradora" tvg-logo="" group-title="24/7",24/7 Dora la Exploradora
+https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/214|User-Agent=ajajajaja
+#EXTINF:-1 tvg-id="" tvg-name="24/7 LE TEMES ALA OSCURIDAD" tvg-logo="" group-title="24/7",24/7 LE TEMES ALA OSCURIDAD
+https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/215|User-Agent=ajajajaja
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Death note" tvg-logo="" group-title="24/7",24/7 Death note
+https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/216|User-Agent=ajajajaja
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Pokémon" tvg-logo="" group-title="24/7",24/7 Pokémon
+https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/217|User-Agent=ajajajaja
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Pinky y Cerebro 1995" tvg-logo="" group-title="24/7",24/7 Pinky y Cerebro 1995
+https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/218|User-Agent=ajajajaja
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Naruto" tvg-logo="" group-title="24/7",24/7 Naruto
+https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/219|User-Agent=ajajajaja
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Mazinger Z" tvg-logo="" group-title="24/7",24/7 Mazinger Z
+https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/220|User-Agent=ajajajaja
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Los años maravillosos 1988" tvg-logo="" group-title="24/7",24/7 Los años maravillosos 1988
+https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/221|User-Agent=ajajajaja
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Malcolm in the middle 2000" tvg-logo="" group-title="24/7",24/7 Malcolm in the middle 2000
+https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/222|User-Agent=ajajajaja
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Luis Miguel, la serie 2018" tvg-logo="" group-title="24/7",24/7 Luis Miguel, la serie 2018
+https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/223|User-Agent=ajajajaja
+#EXTINF:-1 tvg-id="" tvg-name="24/7 LA ROSA DE GUADALUPE" tvg-logo="" group-title="24/7",24/7 LA ROSA DE GUADALUPE
+https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/224|User-Agent=ajajajaja
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Futurama 1999" tvg-logo="" group-title="24/7",24/7 Futurama 1999
+https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/225|User-Agent=ajajajaja
+#EXTINF:-1 tvg-id="" tvg-name="24/7 PELICULAS; ESTRENOS 2018" tvg-logo="" group-title="24/7",24/7 PELICULAS; ESTRENOS 2018
+https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/226|User-Agent=ajajajaja
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Escobar: el patrón del mal" tvg-logo="" group-title="24/7",24/7 Escobar: el patrón del mal
+https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/227|User-Agent=ajajajaja
+#EXTINF:-1 tvg-id="" tvg-name="24/7 EL CHAPULIN COLORADO" tvg-logo="" group-title="24/7",24/7 EL CHAPULIN COLORADO
+https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/228|User-Agent=ajajajaja
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Z 1989" tvg-logo="" group-title="24/7",24/7 Dragon Ball Z 1989
+https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/229|User-Agent=ajajajaja
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball GT 1996" tvg-logo="" group-title="24/7",24/7 Dragon Ball GT 1996
+https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/230|User-Agent=ajajajaja
+#EXTINF:-1 tvg-id="" tvg-name="24/7  Dragon Ball 1984" tvg-logo="" group-title="24/7",24/7  Dragon Ball 1984
+https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/231|User-Agent=ajajajaja
+#EXTINF:-1 tvg-id="" tvg-name="24/7  DINOSAURIOS 1991" tvg-logo="" group-title="24/7",24/7  DINOSAURIOS 1991
+https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/232|User-Agent=ajajajaja
+#EXTINF:-1 tvg-id="" tvg-name="24/7 shera" tvg-logo="" group-title="24/7",24/7 shera
+https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/233|User-Agent=ajajajaja
+#EXTINF:-1 tvg-id="" tvg-name="24/7 ALF" tvg-logo="" group-title="24/7",24/7 ALF
+https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/234|User-Agent=ajajajaja
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Super" tvg-logo="" group-title="24/7",24/7 Dragon Ball Super
+https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/235|User-Agent=ajajajaja
+#EXTINF:-1 tvg-id="" tvg-name="24/7 CSI: Miami" tvg-logo="" group-title="24/7",24/7 CSI: Miami
+https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/236|User-Agent=ajajajaja
+#EXTINF:-1 tvg-id="" tvg-name="24/7  CORAJE Agallas, el perro cobarde" tvg-logo="" group-title="24/7",24/7  CORAJE Agallas, el perro cobarde
+https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/237|User-Agent=ajajajaja
+#EXTINF:-1 tvg-id="" tvg-name="24/7 El señor de los cielos" tvg-logo="" group-title="24/7",24/7 El señor de los cielos
+https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/238|User-Agent=ajajajaja
+#EXTINF:-1 tvg-id="" tvg-name="24/7 EL CHEMA" tvg-logo="" group-title="24/7",24/7 EL CHEMA
+https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/239|User-Agent=ajajajaja
+#EXTINF:-1 tvg-id="" tvg-name="24/7 El Chavo del 8" tvg-logo="" group-title="24/7",24/7 El Chavo del 8
+https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/240|User-Agent=ajajajaja
+#EXTINF:-1 tvg-id="" tvg-name="24/7 LA CASA DE PAPEL" tvg-logo="" group-title="24/7",24/7 LA CASA DE PAPEL
+https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/241|User-Agent=ajajajaja
+#EXTINF:-1 tvg-id="" tvg-name="24/7 CABALLEROS DEL ZODIACO" tvg-logo="" group-title="24/7",24/7 CABALLEROS DEL ZODIACO
+https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/242|User-Agent=ajajajaja
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Breaking Bad" tvg-logo="" group-title="24/7",24/7 Breaking Bad
+https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/243|User-Agent=ajajajaja
+#EXTINF:-1 tvg-id="" tvg-name="24/7 XMEN ANIME" tvg-logo="" group-title="24/7",24/7 XMEN ANIME
+https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/244|User-Agent=ajajajaja
+#EXTINF:-1 tvg-id="" tvg-name="24/7 HÉROES EN PIJAMAS" tvg-logo="" group-title="24/7",24/7 HÉROES EN PIJAMAS
+https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/245|User-Agent=ajajajaja
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Peppa PIG LA CERDITA" tvg-logo="" group-title="24/7",24/7 Peppa PIG LA CERDITA
+https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/246|User-Agent=ajajajaja
+#EXTINF:-1 tvg-id="" tvg-name="24/7 La pantera rosa" tvg-logo="" group-title="24/7",24/7 La pantera rosa
+https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/247|User-Agent=ajajajaja
+#EXTINF:-1 tvg-id="" tvg-name="24/7 LazyTown" tvg-logo="" group-title="24/7",24/7 LazyTown
+https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/248|User-Agent=ajajajaja
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Happy Tree Friends" tvg-logo="" group-title="24/7",24/7 Happy Tree Friends
+https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/249|User-Agent=ajajajaja
+#EXTINF:-1 tvg-id="" tvg-name="24/7 El Coyote y el Correcaminos" tvg-logo="" group-title="24/7",24/7 El Coyote y el Correcaminos
+https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/250|User-Agent=ajajajaja
+#EXTINF:-1 tvg-id="" tvg-name="24/7  Caillou" tvg-logo="" group-title="24/7",24/7  Caillou
+https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/251|User-Agent=ajajajaja
+#EXTINF:-1 tvg-id="" tvg-name="24/7 BOB ESPONJA" tvg-logo="" group-title="24/7",24/7 BOB ESPONJA
+https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/252|User-Agent=ajajajaja
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Barney y sus amigos" tvg-logo="" group-title="24/7",24/7 Barney y sus amigos
+https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/253|User-Agent=ajajajaja
+#EXTINF:-1 tvg-id="" tvg-name="24/7  The Walking Dead" tvg-logo="" group-title="24/7",24/7  The Walking Dead
+https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/254|User-Agent=ajajajaja
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Thundercats" tvg-logo="" group-title="24/7",24/7 Thundercats
+https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/255|User-Agent=ajajajaja
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Peliculas de terror" tvg-logo="" group-title="24/7",24/7 Peliculas de terror
+https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/256|User-Agent=ajajajaja
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Super Campeones" tvg-logo="" group-title="24/7",24/7 Super Campeones
+https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/257|User-Agent=ajajajaja
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Stranger Things" tvg-logo="" group-title="24/7",24/7 Stranger Things
+https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/258|User-Agent=ajajajaja
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Spider-Man" tvg-logo="" group-title="24/7",24/7 Spider-Man
+https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/259|User-Agent=ajajajaja
+#EXTINF:-1 tvg-id="" tvg-name="24/7  South Park" tvg-logo="" group-title="24/7",24/7  South Park
+https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/260|User-Agent=ajajajaja
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Smallville" tvg-logo="" group-title="24/7",24/7 Smallville
+https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/261|User-Agent=ajajajaja
+#EXTINF:-1 tvg-id="" tvg-name="24/7  Los Simpson" tvg-logo="" group-title="24/7",24/7  Los Simpson
+https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/262|User-Agent=ajajajaja
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Sailor Moon" tvg-logo="" group-title="24/7",24/7 Sailor Moon
+https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/263|User-Agent=ajajajaja
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Robotech" tvg-logo="" group-title="24/7",24/7 Robotech
+https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/264|User-Agent=ajajajaja
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Power Rangers" tvg-logo="" group-title="24/7",24/7 Power Rangers
+https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/265|User-Agent=ajajajaja
+#EXTINF:-1 tvg-id="" tvg-name="Vete a la Versh" tvg-logo="" group-title="24/7",Vete a la Versh
+https://panel.globaltvplus.club:2083/srbravoexp/SdCGRaPPL7/335|User-Agent=ajajajajas://tigocloud.desdeparaguay.net/mitv/mitv/chunklist_w680215671.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/3/3f/D_HIL0KXkAA_s7m.jpg/revision/latest?cb=20190713001303&path-prefix=es" group-title="PELICULAS", LA VIDA SECRETA DE TUS MASCOTAS 2
 https://www320.ff-01.com:443/token=Z8X2JjxjzM5VeGUE6qTm_Q/1621317427/181.124.0.0/22/2/95/7bd616f236554f93ed40cd16cee4c952-720p.mp4
 #EXTINF:-1 tvg-id="" tvg-name="LA VIDA SECRETA DE TUS MASCOTAS 1" tvg-logo="https://i.pinimg.com/originals/0a/41/8f/0a418ff3b57072f6091bdab27b10f49b.jpg" group-title="PELICULAS",LA VIDA SECRETA DE TUS MASCOTAS 1
