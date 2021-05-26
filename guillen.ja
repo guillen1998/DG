@@ -2,7 +2,7 @@
 #EXTM3U
 #EXTINF:0 tvg-country="PY" tvg-logo="" group-title="PARAGUAY",DENIS IPTV CLICK AQUI
 https://www.youtube.com/watch?v=vVMeMlY7r2s
-#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="Deportes",OLIMPIA VS TACHIRA
+#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="Deportes",OLIMPIA VS TACHIRA OPC 1
 https://centurylink.br.cdn.booyah.live:443/hls/1000050/60397402.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/rolnando-play/RP/master/app/canalesImg/tigo%2B.png" group-title="PARAGUAY", 2- TIGO SPORTS +
 http://gooserace.xyz:2052/live/batman1/batman1/2605684.ts
