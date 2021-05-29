@@ -2,6 +2,8 @@
 #EXTM3U
 #EXTINF:0 tvg-country="PY" tvg-logo="" group-title="PARAGUAY",DENIS IPTV CLICK AQUI
 https://www.youtube.com/watch?v=vVMeMlY7r2s
+#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="Deportes",FINAL CHAMPIONS FULL HD
+http://cdn89.sportsbay.site:2052/live-2/265/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yOS8yMDIxIDY6NTc6MjAgUE0maGFzaF92YWx1ZT0rbE5ueUVBNU1oLzQ4RVJPM3ZCSkdBPT0mdmFsaWRtaW51dGVzPTEyMCZzdHJtX2xlbj0xMA==
 #EXTINF:0 tvg-country="PY" tvg-logo="" group-title="Deportes",FINAL CHAMPIONS HD
 https://akamai2-br.cdn.booyah.live:443/hls/1000039/61110961.m3u8
 #EXTINF:0 tvg-country="PY" tvg-logo="" group-title="Deportes",FINAL CHAMPIONS OPC 2
