@@ -2,8 +2,10 @@
 #EXTM3U
 #EXTINF:0 tvg-country="PY" tvg-logo="" group-title="PARAGUAY",DENIS IPTV CLICK AQUI
 https://www.youtube.com/watch?v=vVMeMlY7r2s
-#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="Deportes",OLIMPIA VS TACHIRA OPC 1
-https://centurylink.br.cdn.booyah.live:443/hls/1000050/60397402.m3u8
+#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="Deportes",FINAL CHAMPIONS HD
+https://akamai2-br.cdn.booyah.live:443/hls/1000039/61110961.m3u8
+#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="Deportes",FINAL CHAMPIONS OPC 2
+https://google-br.cdn.booyah.live:443/hls/1000066/60397402.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/rolnando-play/RP/master/app/canalesImg/tigo%2B.png" group-title="PARAGUAY", 2- TIGO SPORTS +
 http://gooserace.xyz:2052/live/batman1/batman1/2605684.ts
 #EXTINF:-1 tvg-id="" tvg-name="LA VIDA SECRETA DE TUS MASCOTAS 1" tvg-logo="https://i.pinimg.com/originals/0a/41/8f/0a418ff3b57072f6091bdab27b10f49b.jpg" group-title="gay",LA VIDA SECRETA DE TUS MASCOTAS 1(Xtream)
