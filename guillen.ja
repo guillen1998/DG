@@ -4,8 +4,8 @@
 https://www.youtube.com/watch?v=vVMeMlY7r2s
 #EXTINF:0 tvg-country="PY" tvg-logo="" group-title="Deportes",FINAL CHAMPIONS FULL HD
 http://cdn89.sportsbay.site:2052/live-2/265/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yOS8yMDIxIDY6NTc6MjAgUE0maGFzaF92YWx1ZT0rbE5ueUVBNU1oLzQ4RVJPM3ZCSkdBPT0mdmFsaWRtaW51dGVzPTEyMCZzdHJtX2xlbj0xMA==
-#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="Deportes",FINAL CHAMPIONS HD
-https://akamai2-br.cdn.booyah.live:443/hls/1000039/61110961.m3u8
+#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="Deportes",paraguay vs uruguay
+http://edge6-hr.cvattv.com.ar:80/live/c2live/Eventos_2_HD/verimatrix_rotating/Eventos_2_HD-audio_20001=145200-video=2499968.m3u8
 #EXTINF:0 tvg-country="PY" tvg-logo="" group-title="Deportes",FINAL CHAMPIONS OPC 2
 https://google-br.cdn.booyah.live:443/hls/1000066/60397402.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/rolnando-play/RP/master/app/canalesImg/tigo%2B.png" group-title="PARAGUAY", 2- TIGO SPORTS +
