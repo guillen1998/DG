@@ -76,7 +76,7 @@ http://186.101.216.211:8000/play/a0dc
 http://186.101.216.211:8000/play/a097
 #EXTINF:-1,CHV
 http://186.101.216.211:8000/play/a0eb
-#EXTINF:-1,CMD Na
+#EXTINF:-1 group-title="Deportes" ,CMD Na
 http://186.101.216.211:8000/play/a0am
 #EXTINF:-1,CNN Chile
 http://186.101.216.211:8000/play/a0ec
@@ -112,7 +112,7 @@ http://186.101.216.211:8000/play/a0ck
 http://186.101.216.211:8000/play/a09e
 #EXTINF:-1,Claro Cinema
 http://186.101.216.211:8000/play/a0cv
-#EXTINF:-1,Claro Sports
+#EXTINF:-1 group-title="Deportes",Claro Sports
 http://186.101.216.211:8000/play/a06q
 #EXTINF:-1,Classic Rock
 http://186.101.216.211:8000/play/a02u
@@ -120,7 +120,7 @@ http://186.101.216.211:8000/play/a02u
 http://186.101.216.211:8000/play/a03q
 #EXTINF:-1,DW (Deutsch +)
 http://186.101.216.211:8000/play/a0dn
-#EXTINF:-1,Directv
+#EXTINF:-1 group-title="Deportes",Directv
 http://186.101.216.211:8000/play/dtsp
 #EXTINF:-1,Discovery Channel Co
 http://186.101.216.211:8000/play/a02f
@@ -138,17 +138,17 @@ http://186.101.216.211:8000/play/a02a
 http://186.101.216.211:8000/play/a06b
 #EXTINF:-1,E Entertainment
 http://186.101.216.211:8000/play/a02i
-#EXTINF:-1,ESPN 2 Latin Co
+#EXTINF:-1 group-title="Deportes",ESPN 2 Latin Co
 http://186.101.216.211:8000/play/a02k
-#EXTINF:-1,ESPN 3 na
+#EXTINF:-1 group-title="Deportes",ESPN 3 na
 http://186.101.216.211:8000/play/a0cz
-#EXTINF:-1,ESPN Co
+#EXTINF:-1 group-title="Deportes",ESPN Co
 http://186.101.216.211:8000/play/a02l
-#EXTINF:-1,ESPN MOV
+#EXTINF:-1 group-title="Deportes",ESPN MOV
 http://186.101.216.211:8000/play/espn
-#EXTINF:-1,ESPNe
+#EXTINF:-1 group-title="Deportes",ESPNe
 http://186.101.216.211:8000/play/a0e4
-#EXTINF:-1,ESPn
+#EXTINF:-1 group-title="Deportes",ESPn
 http://186.101.216.211:8000/play/a0e3
 #EXTINF:-1,ETC TV
 http://186.101.216.211:8000/play/etct
@@ -174,31 +174,31 @@ http://186.101.216.211:8000/play/foxm
 http://186.101.216.211:8000/play/a0co
 #EXTINF:-1,FX Movies
 http://186.101.216.211:8000/play/a0ea
-#EXTINF:-1,Fox Sport Chile
+#EXTINF:-1 group-title="Deportes",Fox Sport Chile
 http://186.101.216.211:8000/play/fosc
-#EXTINF:-1,Fox Sports 1 Co
+#EXTINF:-1 group-title="Deportes",Fox Sports 1 Co
 http://186.101.216.211:8000/play/a08m
-#EXTINF:-1,Fox Sports 2 Co
+#EXTINF:-1 group-title="Deportes" ,Fox Sports 2 Co
 http://186.101.216.211:8000/play/a02z
-#EXTINF:-1,Fox Sports 3
+#EXTINF:-1 group-title="Deportes",Fox Sports 3
 http://186.101.216.211:8000/play/a0dq
-#EXTINF:-1,Fox Sports 3 Co
+#EXTINF:-1 group-title="Deportes",Fox Sports 3 Co
 http://186.101.216.211:8000/play/a030
-#EXTINF:-1,Fox Sports Co
+#EXTINF:-1 group-title="Deportes",Fox Sports Co
 http://186.101.216.211:8000/play/a02j
 #EXTINF:-1,France 24
 http://186.101.216.211:8000/play/a08d
 #EXTINF:-1,GLOBAL Na
 http://186.101.216.211:8000/play/a0a1
-#EXTINF:-1,GOL TV Co
+#EXTINF:-1 group-title="Deportes",GOL TV Co
 http://186.101.216.211:8000/play/a02m
-#EXTINF:-1,GOLPERU
+#EXTINF:-1 group-title="Deportes",GOLPERU
 http://186.101.216.211:8000/play/a0d6
-#EXTINF:-1,GOLTVEC Co
+#EXTINF:-1 group-title="Deportes",GOLTVEC Co
 http://186.101.216.211:8000/play/a032
 #EXTINF:-1,Gamavisiðn Na
 http://186.101.216.211:8000/play/a067
-#EXTINF:-1,Gol TV
+#EXTINF:-1 group-title="Deportes",Gol TV
 http://186.101.216.211:8000/play/a0dp
 #EXTINF:-1,HBO Family
 http://186.101.216.211:8000/play/a0dw
@@ -308,11 +308,11 @@ http://186.101.216.211:8000/play/a0e9
 http://186.101.216.211:8000/play/a02x
 #EXTINF:-1,TNT
 http://186.101.216.211:8000/play/a0dt
-#EXTINF:-1,TNT Co
+#EXTINF:-1 group-title="Deportes" ,TNT Co
 http://186.101.216.211:8000/play/a06p
-#EXTINF:-1,TNT SPORTS 2
+#EXTINF:-1 group-title="Deportes",TNT SPORTS 2
 http://186.101.216.211:8000/play/a021
-#EXTINF:-1,TNT SPORTS 3
+#EXTINF:-1 group-title="Deportes",TNT SPORTS 3
 http://186.101.216.211:8000/play/a02o
 #EXTINF:-1,TNT Series
 http://186.101.216.211:8000/play/a0du
@@ -352,7 +352,7 @@ http://186.101.216.211:8000/play/a0df
 http://186.101.216.211:8000/play/a0d3
 #EXTINF:-1,Tru TV
 http://186.101.216.211:8000/play/a0ds
-#EXTINF:-1,TyC Sports Na
+#EXTINF:-1 group-title="Deportes",TyC Sports Na
 http://186.101.216.211:8000/play/a0al
 #EXTINF:-1,Unicanal
 http://186.101.216.211:8000/play/a0cu
@@ -366,9 +366,9 @@ http://186.101.216.211:8000/play/a02q
 http://186.101.216.211:8000/play/a0ak
 #EXTINF:-1 tvg-id="Canal Warner TV (México)",Warner Co
 http://186.101.216.211:8000/play/a02h
-#EXTINF:-1,Win
+#EXTINF:-1 group-title="Deportes",Win
 http://186.101.216.211:8000/play/a0cq
-#EXTINF:-1,Win Sport+
+#EXTINF:-1 group-title="Deportes",Win Sport+
 http://186.101.216.211:8000/play/g07j
 #EXTINF:-1,Zona Latina co
 http://186.101.216.211:8000/play/a06i
