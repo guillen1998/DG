@@ -2,7 +2,7 @@
 #EXTM3U
 #EXTINF:0 tvg-country="PY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/LogoTFFlat.png" group-title="PARAGUAY",TELEFUTURO HD
 http://edge8-ccast-hr.cvattv.com.ar:80/live/c5eds/TELEFUTURO_C4/verimatrix_rotating_FTA/TELEFUTURO_C4-audio_20000=144800-video=3000000.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQN3YzqAYB-no96is0qft2xwhdOgMiTdAZ67A&usqp=CAU" group-title="PARAGUAY",TRECE
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQN3YzqAYB-no96is0qft2xwhdOgMiTdAZ67A&usqp=CAU" group-title="PARAGUAY",EL TRECE
 http://cdn.cvattv.com.ar/live/c5eds/RPC_C4/verimatrix_rotating_FTA/RPC_C4-audio_20000=144800-video=2100000.m3u8
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/06/Unicanal-en-vivo-Online.png" group-title="PARAGUAY",UNICANAL
 http://cdn.cvattv.com.ar/live/c5eds/UNICANAL_C4/verimatrix_rotating_FTA/UNICANAL_C4-audio_20000=144800-video=3000000.m3u8
