@@ -26,8 +26,7 @@ https://59ce1298bfb98.streamlock.net/rcntv/rcntv/playlist.m3u8
 http://159.203.148.226/live/farra.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/rolnando-play/RP/master/app/canalesImg/tigo%2B.png" group-title="PARAGUAY", 2- TIGO SPORTS +
 http://gooserace.xyz:2052/live/batman1/batman1/2605684.ts
-
-#EXTINF:-1,A&E
+#EXTINF:-1,A&E SD
 http://186.101.216.211:8000/play/a0dr
 #EXTINF:-1,AE Mundo Co
 http://186.101.216.211:8000/play/a02p
@@ -35,7 +34,7 @@ http://186.101.216.211:8000/play/a02p
 http://186.101.216.211:8000/play/a0dv
 #EXTINF:-1,ATV co
 http://186.101.216.211:8000/play/a073
-#EXTINF:-1,AXN
+#EXTINF:-1,AXN SD
 http://186.101.216.211:8000/play/a0cm
 #EXTINF:-1,America TV AR Conax
 http://186.101.216.211:8000/play/a079
@@ -47,7 +46,7 @@ http://186.101.216.211:8000/play/a02g
 http://186.101.216.211:8000/play/a0dj
 #EXTINF:-1,Baby TV
 http://186.101.216.211:8000/play/a0dc
-#EXTINF:-1,C9N
+#EXTINF:-1,C9N SD
 http://186.101.216.211:8000/play/a097
 #EXTINF:-1,CHV
 http://186.101.216.211:8000/play/a0eb
