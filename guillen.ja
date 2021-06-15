@@ -10,7 +10,7 @@ http://edge8-ccast-hr.cvattv.com.ar:80/live/c5eds/TELEFUTURO_C4/verimatrix_rotat
 http://cdn.cvattv.com.ar/live/c5eds/RPC_C4/verimatrix_rotating_FTA/RPC_C4-audio_20000=144800-video=2100000.m3u8
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/06/Unicanal-en-vivo-Online.png" group-title="PARAGUAY",UNICANAL HD
 http://cdn.cvattv.com.ar/live/c5eds/UNICANAL_C4/verimatrix_rotating_FTA/UNICANAL_C4-audio_20000=144800-video=3000000.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/latele_m.jpg" group-title="PARAGUAY",LA TELE
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/latele_m.jpg" group-title="PARAGUAY",LA TELE HD
 http://cdn.cvattv.com.ar/live/c5eds/LA_TELE_C4/verimatrix_rotating_FTA/LA_TELE_C4-audio_20000=144800-video=1532000.m3u8
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/04/Paravisi%C3%B3n-en-vivo-Online-1-218x150.png" group-title="PARAGUAY",PARAVISION
 http://cdn.cvattv.com.ar/live/c5eds/PARAVISION_C4/verimatrix_rotating_FTA/PARAVISION_C4-audio_20000=144800-video=1480000.m3u8
