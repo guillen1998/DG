@@ -416,7 +416,7 @@ http://rec2.distv.net:80/damaris/123456/119
 #EXTINF:-1 tvg-logo="http://distv.net/icons/combate.png" group-title="DEPORTES BRASIL",COMBATE
 http://rec2.distv.net:80/damaris/123456/126
 
-#EXTINF:-1 tvg-id="" tvg-name="DAZN" tvg-logo="http://distv.net/icons/dazn.png" group-title="DEPORTES BRASIL",DAZN
+#EXTINF:-1 tvg-id="" tvg-name="DAZN" tvg-logo="http://distv.net/icons/dazn.png" group-title="DEPORTES BRASIL",DAZN bb
 http://rec2.distv.net:80/damaris/123456/226
 
 #EXTINF:-1 tvg-logo="http://distv.net/icons/espn.png" group-title="DEPORTES BRASIL",ESPN
