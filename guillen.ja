@@ -409,29 +409,22 @@ http://ns3173312.ip-51-210-33.eu:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/3
 http://ns3173312.ip-51-210-33.eu:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/34.ts|User-Agent=cp_525
 #EXTINF:-1 group-title="Deportes",VAMOS SPORTS 
 http://ns3173312.ip-51-210-33.eu:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/33.ts|User-Agent=cp_525
-
 #EXTINF:-1 tvg-logo="http://distv.net/icons/bandsports.png" group-title="DEPORTES BRASIL",BAND SPORTS
 http://rec2.distv.net:80/damaris/123456/119
-
 #EXTINF:-1 tvg-logo="http://distv.net/icons/combate.png" group-title="DEPORTES BRASIL",COMBATE
 http://rec2.distv.net:80/damaris/123456/126
-
 #EXTINF:-1 tvg-id="" tvg-name="DAZN" tvg-logo="http://distv.net/icons/dazn.png" group-title="DEPORTES BRASIL",DAZN bb
 http://rec2.distv.net:80/damaris/123456/226
-
 #EXTINF:-1 tvg-logo="http://distv.net/icons/espn.png" group-title="DEPORTES BRASIL",ESPN
 http://rec2.distv.net:80/damaris/123456/142
-
 #EXTINF:-1 tvg-logo="http://distv.net/icons/espn2.png" group-title="DEPORTES BRASIL",ESPN 2
 http://rec2.distv.net:80/damaris/123456/143
-
 #EXTINF:-1 tvg-logo="http://distv.net/icons/espnbrasil.png" group-title="DEPORTES BRASIL",ESPN BRASIL
 http://rec2.distv.net:80/damaris/123456/144
-
 #EXTINF:-1 tvg-logo="http://distv.net/icons/espnextra.png" group-title="DEPORTES BRASIL",ESPN EXTRA
 http://rec2.distv.net:80/damaris/123456/145
 
-#EXTINF:-1 tvg-logo="http://distv.net/icons/foxsports.png" group-title="DEPORTES BRASIL",FOX SPORTS
+#EXTINF:-1 tvg-logo="http://distv.net/icons/foxsports.png" group-title="DEPORTES BRASIL",FOX SPORTS BRASIL
 http://rec2.distv.net:80/damaris/123456/152
 
 #EXTINF:-1 tvg-logo="http://distv.net/icons/foxsports2.png" group-title="DEPORTES BRASIL",FOX SPORTS 2
