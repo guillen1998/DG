@@ -1,7 +1,7 @@
 # DG
 #EXTM3U
-#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="PARAGUAY",EUROCOPA 1.
-https://akamai2-br.cdn.booyah.live/hls/1000046/54589695.m3u8
+#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="PARAGUAY",EUROCOPA 1
+https://akamai2-br.cdn.booyah.live/hls/1000025/54589695.m3u8
 #EXTINF:0 tvg-country="PY" tvg-logo="" group-title="PARAGUAY",EUROCOPA 2
 https://akamai2-br.cdn.booyah.live/hls/1000038/60232271.m3u8
 #EXTINF:0 tvg-country="PY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/LogoTFFlat.png" group-title="PARAGUAY",TELEFUTURO HD
