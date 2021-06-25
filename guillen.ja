@@ -2,8 +2,8 @@
 #EXTM3U
 #EXTINF:0 tvg-country="PY" tvg-logo="" group-title="PARAGUAY",COPA AMERICA qq
 https://tigocloud.desdeparaguay.net/telefuturo/telefuturo_py_alta/chunklist_w1928622130.m3u8?k=d209a8eaea49c28591b4dc8567f65376f79302bdf8aa85c83d45b8772f910cb6&exp=1624580692
-#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="PARAGUAY",COPA AMERICA B22
-https://akamai2-br.cdn.booyah.live/hls/1000062/71486811.m3u8
+#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="PARAGUAY",COPA A
+https://tigocloud.desdeparaguay.net/telefuturo/telefuturo_py_alta/chunklist_w1272225716.m3u8?k=a601ba956c4b9011ce91c2b97d5e5fb1071f0182c2201f4cb9efd62d6f031c77&exp=1624582887
 #EXTINF:0 tvg-country="PY" tvg-logo="" group-title="PARAGUAY",EUROCOPA 3
 https://akamai2-br.cdn.booyah.live/hls/1000089/71562445.m3u8
 #EXTINF:0 tvg-country="PY" tvg-logo="" group-title="PARAGUAY",claudio gay
