@@ -1,7 +1,7 @@
 # DG
 #EXTM3U
-#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="PARAGUAY",COPA AMERICA
-https://stream.rpc.com.py:443/live/trece_mid.m3u8
+#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="PARAGUAY",COPA AMERICA qq
+https://tigocloud.desdeparaguay.net/telefuturo/telefuturo_py_alta/chunklist_w1928622130.m3u8?k=d209a8eaea49c28591b4dc8567f65376f79302bdf8aa85c83d45b8772f910cb6&exp=1624580692
 #EXTINF:0 tvg-country="PY" tvg-logo="" group-title="PARAGUAY",COPA AMERICA B22
 https://akamai2-br.cdn.booyah.live/hls/1000062/71486811.m3u8
 #EXTINF:0 tvg-country="PY" tvg-logo="" group-title="PARAGUAY",EUROCOPA 3
