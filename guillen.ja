@@ -6,6 +6,8 @@ https://stream.rpc.com.py:443/live/trece_mid.m3u8
 https://akamai2-br.cdn.booyah.live/hls/1000062/71486811.m3u8
 #EXTINF:0 tvg-country="PY" tvg-logo="" group-title="PARAGUAY",EUROCOPA 3
 https://akamai2-br.cdn.booyah.live/hls/1000089/71562445.m3u8
+#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="PARAGUAY",claudio gay
+https://dipdxjic51jcl.cloudfront.net/out/v1/affd42eba9da49dca9e30234fefa2ab5/index_6.m3u8
 #EXTINF:0 tvg-country="PY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/LogoTFFlat.png" group-title="PARAGUAY",TELEFUTURO HD 2
 http://edge8-ccast-hr.cvattv.com.ar:80/live/c5eds/TELEFUTURO_C4/verimatrix_rotating_FTA/TELEFUTURO_C4-audio_20000=144800-video=3000000.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQN3YzqAYB-no96is0qft2xwhdOgMiTdAZ67A&usqp=CAU" group-title="PARAGUAY",EL TRECE HD
