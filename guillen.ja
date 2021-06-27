@@ -1,9 +1,9 @@
 # DG
 #EXTM3U
-#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="PARAGUAY",  PORTUGAL
-https://google-br.cdn.booyah.live/hls/1000085/71486811.m3u8
-#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="PARAGUAY",  la tele
-https://tigocloud.desdeparaguay.net/latele/latele_py_alta/chunklist_w6619878.m3u8?k=32320332065fdc43a9bf8eed78c8aa2ce6e0a34441cb422f4be712e38179deb0&exp=1624819828
+#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="PARAGUAY",  COPA AMERICA 1
+https://akamai2-br.cdn.booyah.live/hls/1000036/71112076.m3u8
+#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="PARAGUAY",  COPA AMERICA 2
+https://akamai2-br.cdn.booyah.live/hls/1000070/71562445.m3u8
 #EXTINF:0 tvg-country="PY" tvg-logo="" group-title="PARAGUAY",EUROCOPA 3
 https://akamai2-br.cdn.booyah.live/hls/1000089/71562445.m3u8
 #EXTINF:0 tvg-country="PY" tvg-logo="" group-title="PARAGUAY",claudio gay
