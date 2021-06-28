@@ -1,9 +1,9 @@
 # DG
 #EXTM3U
-#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="PARAGUAY",  COPA AMERICA 1
-https://akamai2-br.cdn.booyah.live/hls/1000036/71112076.m3u8
-#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="PARAGUAY",  COPA AMERICA 2
-https://akamai2-br.cdn.booyah.live/hls/1000070/71562445.m3u8
+#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="PARAGUAY",  ESPAÑA
+https://centurylink.br.cdn.booyah.live/hls/1000049/71486811.m3u8
+#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="PARAGUAY",  ESPAÑA 2
+https://centurylink.br.cdn.booyah.live/hls/1000028/71112076.m3u8
 #EXTINF:0 tvg-country="PY" tvg-logo="" group-title="PARAGUAY",EUROCOPA 3
 https://akamai2-br.cdn.booyah.live/hls/1000089/71562445.m3u8
 #EXTINF:0 tvg-country="PY" tvg-logo="" group-title="PARAGUAY",claudio gay
