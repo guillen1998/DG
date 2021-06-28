@@ -1,7 +1,7 @@
 # DG
 #EXTM3U
-#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="PARAGUAY",  ESPAÑA
-https://centurylink.br.cdn.booyah.live/hls/1000049/71486811.m3u8
+#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="PARAGUAY",  PARAGUAAAY
+https://tigocloud.desdeparaguay.net/telefuturo/telefuturo_py_alta/chunklist_w219164867.m3u8?k=5d9ff51282bfab312e1a2e3747266360e4fb3b638a44dc07d798dedf59a93942&exp=1624923351
 #EXTINF:0 tvg-country="PY" tvg-logo="" group-title="PARAGUAY",  ESPAÑA 2
 https://centurylink.br.cdn.booyah.live/hls/1000028/71112076.m3u8
 #EXTINF:0 tvg-country="PY" tvg-logo="" group-title="PARAGUAY",EUROCOPA 3
