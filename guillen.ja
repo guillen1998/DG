@@ -1,7 +1,7 @@
 # DG
 #EXTM3U
-#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="PARAGUAY",  ARGENTINA VS COLOMBIA
-https://tigocloud.desdeparaguay.net/telefuturo/telefuturo_py_alta/chunklist_w1747407997.m3u8?k=78ed40fcb4b3435c4d4bcca4d2a261f3d1c5dd1aa36ae26e0fc4dc8ffeb4d9ba&exp=1625620390
+#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="PARAGUAY",  INGLATERRA VS DINARMARCA
+https://akamai2-br.cdn.booyah.live/hls/1000035/74727476.m3u8
 #EXTINF:0 tvg-country="PY" tvg-logo="" group-title="PARAGUAY",EUROCOPA 3
 https://dipdxjic51jcl.cloudfront.net/out/v1/affd42eba9da49dca9e30234fefa2ab5/index.m3u8
 #EXTINF:0 tvg-country="PY" tvg-logo="" group-title="PARAGUAY",CLAUDIO REGAY
