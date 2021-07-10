@@ -1,11 +1,9 @@
 # DG
 #EXTM3U
-#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="PARAGUAY",  INGLATERRA VS DINARMARCA
-https://akamai2-br.cdn.booyah.live/hls/1000035/74727476.m3u8
-#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="PARAGUAY",EUROCOPA 3
-https://dipdxjic51jcl.cloudfront.net/out/v1/affd42eba9da49dca9e30234fefa2ab5/index.m3u8
-#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="PARAGUAY",CLAUDIO REGAY
-https://dipdxjic51jcl.cloudfront.net/out/v1/affd42eba9da49dca9e30234fefa2ab5/index_6.m3u8
+#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="PARAGUAY", BRASIL VS ARGENTINA OPC 1
+https://tigocloud.desdeparaguay.net/telefuturo/telefuturo_py_alta/chunklist_w1894171135.m3u8?k=0ca5761f1a000910763fe4045c9f854d7fdf246ece957816765c29ec62de4b07&exp=1625960078
+#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="PARAGUAY",BRASIL VS ARGENTINA OPC 2
+https://google-br.cdn.booyah.live:443/hls/1000045/74727476.m3u8
 #EXTINF:0 tvg-country="PY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/LogoTFFlat.png" group-title="PARAGUAY",TELEFUTURO HD 2
 http://edge8-ccast-hr.cvattv.com.ar:80/live/c5eds/TELEFUTURO_C4/verimatrix_rotating_FTA/TELEFUTURO_C4-audio_20000=144800-video=3000000.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQN3YzqAYB-no96is0qft2xwhdOgMiTdAZ67A&usqp=CAU" group-title="PARAGUAY",EL TRECE HD
