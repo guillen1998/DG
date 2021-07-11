@@ -1,9 +1,9 @@
 # DG
 #EXTM3U
 #EXTINF:0 tvg-country="PY" tvg-logo="" group-title="PARAGUAY", inglaterra vs italia la tele
-https://tigocloud.desdeparaguay.net/latele/latele_py_alta/chunklist_w1880818763.m3u8?k=7e9bd5a2a46a6aded2c11fd3ba44948ecfa3ba95986340b2a6a3a5af30caba22&exp=1626029568
-#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="PARAGUAY",BRASIL VS ARGENTINA OPC 2
-https://google-br.cdn.booyah.live:443/hls/1000045/74727476.m3u8
+https://akamai2-br.cdn.booyah.live/hls/1000010/71112076.m3u8
+#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="PARAGUAY"inglaterra vs italia OPC 2
+https://qlobbidev.s.llnwi.net/bpk-tv/AMERICATV/hls/AMERICATV-audio_128175_eng=128000-video=800000.m3u8
 #EXTINF:0 tvg-country="PY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/LogoTFFlat.png" group-title="PARAGUAY",TELEFUTURO HD 2
 http://edge8-ccast-hr.cvattv.com.ar:80/live/c5eds/TELEFUTURO_C4/verimatrix_rotating_FTA/TELEFUTURO_C4-audio_20000=144800-video=3000000.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQN3YzqAYB-no96is0qft2xwhdOgMiTdAZ67A&usqp=CAU" group-title="PARAGUAY",EL TRECE HD
