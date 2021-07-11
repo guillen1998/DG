@@ -1,7 +1,7 @@
 # DG
 #EXTM3U
-#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="PARAGUAY", BRASIL VS ARGENTINA OPC 1
-https://tigocloud.desdeparaguay.net/telefuturo/telefuturo_py_alta/chunklist_w1894171135.m3u8?k=0ca5761f1a000910763fe4045c9f854d7fdf246ece957816765c29ec62de4b07&exp=1625960078
+#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="PARAGUAY", inglaterra vs italia OPC 1
+https://tigocloud.desdeparaguay.net/latele/latele_py_alta/chunklist_w1237918816.m3u8?k=7e9bd5a2a46a6aded2c11fd3ba44948ecfa3ba95986340b2a6a3a5af30caba22&exp=1626029568
 #EXTINF:0 tvg-country="PY" tvg-logo="" group-title="PARAGUAY",BRASIL VS ARGENTINA OPC 2
 https://google-br.cdn.booyah.live:443/hls/1000045/74727476.m3u8
 #EXTINF:0 tvg-country="PY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/LogoTFFlat.png" group-title="PARAGUAY",TELEFUTURO HD 2
