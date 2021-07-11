@@ -1,6 +1,6 @@
 # DG
 #EXTM3U
-#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="PARAGUAY", inglaterra vs italia la tele
+#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="PARAGUAY", inglaterra vs italia 
 https://akamai2-br.cdn.booyah.live/hls/1000010/71112076.m3u8
 #EXTINF:0 tvg-country="PY" tvg-logo="" group-title="PARAGUAY", inglaterra vs italia OPC 2
 https://qlobbidev.s.llnwi.net/bpk-tv/AMERICATV/hls/AMERICATV-audio_128175_eng=128000-video=800000.m3u8
