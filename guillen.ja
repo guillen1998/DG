@@ -30,328 +30,328 @@ https://59ce1298bfb98.streamlock.net/rcntv/rcntv/playlist.m3u8
 http://159.203.148.226/live/farra.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/rolnando-play/RP/master/app/canalesImg/tigo%2B.png" group-title="PARAGUAY", 2- TIGO SPORTS +
 http://gooserace.xyz:2052/live/batman1/batman1/2605684.ts
-#EXTINF:-1,A&E SD
+#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="PELICULAS Y SERIES",A&E SD
 http://186.101.216.211:8000/play/a0dr
-#EXTINF:-1,AE Mundo Co
+#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="PELICULAS Y SERIES",AE Mundo Co
 http://186.101.216.211:8000/play/a02p
-#EXTINF:-1,ATRES SERIES
+#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="PELICULAS Y SERIES",ATRES SERIES
 http://186.101.216.211:8000/play/a0dv
-#EXTINF:-1,ATV co
-http://186.101.216.211:8000/play/a073
-#EXTINF:-1,AXN SD
-http://186.101.216.211:8000/play/a0cm
-#EXTINF:-1,America TV AR Conax
-http://186.101.216.211:8000/play/a079
-#EXTINF:-1,AmericaTV P
-http://186.101.216.211:8000/play/a071
-#EXTINF:-1,Animal Planet Co
-http://186.101.216.211:8000/play/a02g
-#EXTINF:-1,BBC World
-http://186.101.216.211:8000/play/a0dj
-#EXTINF:-1,Baby TV
-http://186.101.216.211:8000/play/a0dc
-#EXTINF:-1,C9N SD
-http://186.101.216.211:8000/play/a097
-#EXTINF:-1,CHV
-http://186.101.216.211:8000/play/a0eb
-#EXTINF:-1 group-title="Deportes" ,CMD Na
-http://186.101.216.211:8000/play/a0am
-#EXTINF:-1,CNN Chile
-http://186.101.216.211:8000/play/a0ec
-#EXTINF:-1,CNN Espanol co
-http://186.101.216.211:8000/play/a01u
-#EXTINF:-1,CNN International
-http://186.101.216.211:8000/play/a0dk
-#EXTINF:-1,Canal Caracol
-http://186.101.216.211:8000/play/a08z
-#EXTINF:-1,Canal Claro co
-http://186.101.216.211:8000/play/a08e
-#EXTINF:-1,Canal Institucional
-http://186.101.216.211:8000/play/a093
-#EXTINF:-1 tvg-id=""CANAL N (Canal N)"",Canal N Na
-http://186.101.216.211:8000/play/a05i
-#EXTINF:-1,Canal RCN
-http://186.101.216.211:8000/play/a09k
-#EXTINF:-1,Canal Uno TV Ecu Co
-http://186.101.216.211:8000/play/a033
-#EXTINF:-1,Canal de Las estrellas Co
-http://186.101.216.211:8000/play/a02y
-#EXTINF:-1,Canal del Congreso
-http://186.101.216.211:8000/play/a03b
-#EXTINF:-1,Capital
-http://186.101.216.211:8000/play/a03m
-#EXTINF:-1,Cartoon Network Co
-http://186.101.216.211:8000/play/a06o
-#EXTINF:-1,Cinecanal Co
-http://186.101.216.211:8000/play/a06e
-#EXTINF:-1,Cinemax
-http://186.101.216.211:8000/play/a0ck
-#EXTINF:-1,City TV
-http://186.101.216.211:8000/play/a09e
-#EXTINF:-1,Claro Cinema
-http://186.101.216.211:8000/play/a0cv
-#EXTINF:-1 group-title="Deportes",Claro Sports
-http://186.101.216.211:8000/play/a06q
-#EXTINF:-1,Classic Rock
-http://186.101.216.211:8000/play/a02u
-#EXTINF:-1,Classic RockRoll
-http://186.101.216.211:8000/play/a03q
-#EXTINF:-1,DW (Deutsch +)
-http://186.101.216.211:8000/play/a0dn
-#EXTINF:-1 group-title="Deportes",Directv
-http://186.101.216.211:8000/play/dtsp
-#EXTINF:-1,Discovery Channel Co
-http://186.101.216.211:8000/play/a02f
-#EXTINF:-1,Discovery ID3
-http://186.101.216.211:8000/play/a07s
-#EXTINF:-1,Discovery Kids Co
-http://186.101.216.211:8000/play/a01t
-#EXTINF:-1,Discovery Turbo
-http://186.101.216.211:8000/play/a0cx
-#EXTINF:-1,Disney Channel Conax
-http://186.101.216.211:8000/play/a02e
-#EXTINF:-1,Disney Jr
-http://186.101.216.211:8000/play/a02a
-#EXTINF:-1,Disney 😆
-http://186.101.216.211:8000/play/a06b
-#EXTINF:-1,E Entertainment
-http://186.101.216.211:8000/play/a02i
-#EXTINF:-1 group-title="Deportes",ESPN 2 Latin Co
-http://186.101.216.211:8000/play/a02k
-#EXTINF:-1 group-title="Deportes",ESPN 3 na
-http://186.101.216.211:8000/play/a0cz
-#EXTINF:-1 group-title="Deportes",ESPN Co
-http://186.101.216.211:8000/play/a02l
-#EXTINF:-1 group-title="Deportes",ESPN MOV
-http://186.101.216.211:8000/play/espn
-#EXTINF:-1 group-title="Deportes",ESPNe
-http://186.101.216.211:8000/play/a0e4
-#EXTINF:-1 group-title="Deportes",ESPn
-http://186.101.216.211:8000/play/a0e3
-#EXTINF:-1,ETC TV
-http://186.101.216.211:8000/play/etct
-#EXTINF:-1,Ecuador TV
-http://186.101.216.211:8000/play/a06u
-#EXTINF:-1,Ecuador TV Co
-http://186.101.216.211:8000/play/a04c
-#EXTINF:-1 tvg-id="a038",Ecuavisa Co
-http://186.101.216.211:8000/play/a038
-#EXTINF:-1,El Trece na
-http://186.101.216.211:8000/play/a0aj
-#EXTINF:-1,Enlace
-http://186.101.216.211:8000/play/a0ed
-#EXTINF:-1,Epoca
-http://186.101.216.211:8000/play/a0db
-#EXTINF:-1,Esne TV
-http://186.101.216.211:8000/play/a0cy
-#EXTINF:-1,Eurochannel
-http://186.101.216.211:8000/play/a0dl
-#EXTINF:-1,FOX SPORT MOV
-http://186.101.216.211:8000/play/foxm
-#EXTINF:-1,FX
-http://186.101.216.211:8000/play/a0co
-#EXTINF:-1,FX Movies
-http://186.101.216.211:8000/play/a0ea
-#EXTINF:-1 group-title="Deportes",Fox Sport Chile
-http://186.101.216.211:8000/play/fosc
-#EXTINF:-1 group-title="Deportes",Fox Sports 1 Co
-http://186.101.216.211:8000/play/a08m
-#EXTINF:-1 group-title="Deportes" ,Fox Sports 2 Co
-http://186.101.216.211:8000/play/a02z
-#EXTINF:-1 group-title="Deportes",Fox Sports 3
-http://186.101.216.211:8000/play/a0dq
-#EXTINF:-1 group-title="Deportes",Fox Sports 3 Co
-http://186.101.216.211:8000/play/a030
-#EXTINF:-1 group-title="Deportes",Fox Sports Co
-http://186.101.216.211:8000/play/a02j
-#EXTINF:-1,France 24
-http://186.101.216.211:8000/play/a08d
-#EXTINF:-1,GLOBAL Na
-http://186.101.216.211:8000/play/a0a1
-#EXTINF:-1 group-title="Deportes",GOL TV Co
-http://186.101.216.211:8000/play/a02m
-#EXTINF:-1 group-title="Deportes",GOLPERU
-http://186.101.216.211:8000/play/a0d6
-#EXTINF:-1 group-title="Deportes",GOLTVEC Co
-http://186.101.216.211:8000/play/a032
-#EXTINF:-1,Gamavisiðn Na
-http://186.101.216.211:8000/play/a067
-#EXTINF:-1 group-title="Deportes",Gol TV
-http://186.101.216.211:8000/play/a0dp
-#EXTINF:-1,HBO Family
-http://186.101.216.211:8000/play/a0dw
-#EXTINF:-1,HBO Na
-http://186.101.216.211:8000/play/a0ad
-#EXTINF:-1,HBO POP
-http://186.101.216.211:8000/play/a0e2
-#EXTINF:-1,HBO Plus
-http://186.101.216.211:8000/play/a0dy
-#EXTINF:-1,HBO Plus Oeste
-http://186.101.216.211:8000/play/a0e0
-#EXTINF:-1,HBO Signature
-http://186.101.216.211:8000/play/a0dz
-#EXTINF:-1,HBO XTREME
-http://186.101.216.211:8000/play/a0dx
-#EXTINF:-1,HBO2 Na
-http://186.101.216.211:8000/play/a0ae
-#EXTINF:-1,History Channel Co
-http://186.101.216.211:8000/play/a06d
-#EXTINF:-1,Home and Health
-http://186.101.216.211:8000/play/a08g
-#EXTINF:-1,I-Sat
-http://186.101.216.211:8000/play/a06g
-#EXTINF:-1,La Red
-http://186.101.216.211:8000/play/a01v
-#EXTINF:-1,La Tele Co
-http://186.101.216.211:8000/play/a074
-#EXTINF:-1,Latina
-http://186.101.216.211:8000/play/a0ef
-#EXTINF:-1,Love Music
-http://186.101.216.211:8000/play/a02t
-#EXTINF:-1,MTV
-http://186.101.216.211:8000/play/a0dh
-#EXTINF:-1,Mega
-http://186.101.216.211:8000/play/a01x
-#EXTINF:-1,Mis Peliculas
-http://186.101.216.211:8000/play/a069
-#EXTINF:-1,Mis Peliculas Na
-http://186.101.216.211:8000/play/a0aq
-#EXTINF:-1,Movistar Plus
-http://186.101.216.211:8000/play/a0eg
-#EXTINF:-1,NPY
-http://186.101.216.211:8000/play/a099
-#EXTINF:-1,Nat Geo Co
-http://186.101.216.211:8000/play/a06c
-#EXTINF:-1,NatGeo Kids
-http://186.101.216.211:8000/play/a0e6
-#EXTINF:-1,Nick Jr Na
-http://186.101.216.211:8000/play/a0ai
-#EXTINF:-1,Nickelodeon Co
-http://186.101.216.211:8000/play/a06a
-#EXTINF:-1,OROMAR
-http://186.101.216.211:8000/play/a06r
-#EXTINF:-1,Oglobo
-http://186.101.216.211:8000/play/a08u
-#EXTINF:-1,Panamericana TV Conax
-http://186.101.216.211:8000/play/a072
-#EXTINF:-1,Paraguay TV
-http://186.101.216.211:8000/play/a08t
-#EXTINF:-1,Paravision
-http://186.101.216.211:8000/play/a03d
-#EXTINF:-1,Perœ MÆgico Na
-http://186.101.216.211:8000/play/a0a8
-#EXTINF:-1,Playboy
-http://186.101.216.211:8000/play/a070
-#EXTINF:-1,RAI
-http://186.101.216.211:8000/play/a0dm
-#EXTINF:-1,RCN Novelas Co
-http://186.101.216.211:8000/play/a08b
-#EXTINF:-1,RTS
-http://186.101.216.211:8000/play/a0ee
-#EXTINF:-1,STAR ACTION
+#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="PELICULAS Y SERIES",STAR ACTION
 http://186.101.216.211:8000/play/a0af
-#EXTINF:-1,STAR CHANNEL Co
+#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="PELICULAS Y SERIES",STAR CHANNEL Co
 http://186.101.216.211:8000/play/a06l
-#EXTINF:-1,STAR CINEMA Na
+#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="PELICULAS Y SERIES",STAR CINEMA Na
 http://186.101.216.211:8000/play/a0ag
-#EXTINF:-1,STAR COMEDY Na
+#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="PELICULAS Y SERIES",STAR COMEDY Na
 http://186.101.216.211:8000/play/a0ah
-#EXTINF:-1,STAR HITS
+#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="PELICULAS Y SERIES",STAR HITS
 http://186.101.216.211:8000/play/a0e7
-#EXTINF:-1,STAR LIFE Co
+#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="PELICULAS Y SERIES",STAR LIFE Co
 http://186.101.216.211:8000/play/a06j
-#EXTINF:-1,Senal Colombia
-http://186.101.216.211:8000/play/a095
-#EXTINF:-1,Sin Limites Co
-http://186.101.216.211:8000/play/a08p
-#EXTINF:-1,Sony
+#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="PELICULAS Y SERIES",Sony
 http://186.101.216.211:8000/play/a0cl
-#EXTINF:-1,Space
+#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="PELICULAS Y SERIES",Space
 http://186.101.216.211:8000/play/a0d5
-#EXTINF:-1,Sun Channel
+#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="PELICULAS Y SERIES",Sun Channel
 http://186.101.216.211:8000/play/a0dg
-#EXTINF:-1,Sur TV
-http://186.101.216.211:8000/play/a03h
-#EXTINF:-1,Symphonic
-http://186.101.216.211:8000/play/a02r
-#EXTINF:-1,TBS Co
-http://186.101.216.211:8000/play/a08f
-#EXTINF:-1,TC TV
-http://186.101.216.211:8000/play/a06n
-#EXTINF:-1,TC Television Co
-http://186.101.216.211:8000/play/a035
-#EXTINF:-1,TCM
+#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="PELICULAS Y SERIES",TCM
 http://186.101.216.211:8000/play/a0e9
-#EXTINF:-1,TLC Co
-http://186.101.216.211:8000/play/a02x
-#EXTINF:-1,TNT
-http://186.101.216.211:8000/play/a0dt
-#EXTINF:-1 group-title="Deportes" ,TNT Co
-http://186.101.216.211:8000/play/a06p
-#EXTINF:-1 group-title="Deportes",TNT SPORTS 2
-http://186.101.216.211:8000/play/a021
-#EXTINF:-1 group-title="Deportes",TNT SPORTS 3
-http://186.101.216.211:8000/play/a02o
-#EXTINF:-1,TNT Series
+#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="PELICULAS Y SERIES",TNT Series
 http://186.101.216.211:8000/play/a0du
-#EXTINF:-1,TRO
-http://186.101.216.211:8000/play/a09c
-#EXTINF:-1,TV CAMARA
-http://186.101.216.211:8000/play/a0d4
-#EXTINF:-1,TV PERU
+#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="PELICULAS Y SERIES",Universal Co
+http://186.101.216.211:8000/play/a06f
+#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="PELICULAS Y SERIES",Mis Peliculas
+http://186.101.216.211:8000/play/a069
+#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="PELICULAS Y SERIES",Mis Peliculas Na
+http://186.101.216.211:8000/play/a0aq
+#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="PELICULAS Y SERIES",HBO Family
+http://186.101.216.211:8000/play/a0dw
+#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="PELICULAS Y SERIES",HBO Na
+http://186.101.216.211:8000/play/a0ad
+#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="PELICULAS Y SERIES",HBO POP
+http://186.101.216.211:8000/play/a0e2
+#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="PELICULAS Y SERIES",HBO Plus
+http://186.101.216.211:8000/play/a0dy
+#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="PELICULAS Y SERIES",HBO Plus Oeste
+http://186.101.216.211:8000/play/a0e0
+#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="PELICULAS Y SERIES",HBO Signature
+http://186.101.216.211:8000/play/a0dz
+#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="PELICULAS Y SERIES",HBO XTREME
+http://186.101.216.211:8000/play/a0dx
+#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="PELICULAS Y SERIES",HBO2 Na
+http://186.101.216.211:8000/play/a0ae
+#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="PELICULAS Y SERIES",Claro Cinema
+http://186.101.216.211:8000/play/a0cv
+#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="PELICULAS Y SERIES",Cinecanal Co
+http://186.101.216.211:8000/play/a06e
+#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="PELICULAS Y SERIES",Cinemax
+http://186.101.216.211:8000/play/a0ck
+#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="PELICULAS Y SERIES",AXN SD
+http://186.101.216.211:8000/play/a0cm
+#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="PELICULAS Y SERIES",Warner Co
+http://186.101.216.211:8000/play/a02h
+#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="PELICULAS Y SERIES",Eurochannel
+http://186.101.216.211:8000/play/a0dl
+#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="PELICULAS Y SERIES",TNT
+http://186.101.216.211:8000/play/a0dt
+#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="PELICULAS Y SERIES",TBS Co
+http://186.101.216.211:8000/play/a08f
+#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="PELICULAS Y SERIES",FX
+http://186.101.216.211:8000/play/a0co
+#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="PELICULAS Y SERIES",FX Movies
+http://186.101.216.211:8000/play/a0ea
+#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="PELICULAS Y SERIES",I-Sat
+http://186.101.216.211:8000/play/a06g
+#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="PERU",ATV co
+http://186.101.216.211:8000/play/a073
+#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="PERU",Latina
+http://186.101.216.211:8000/play/a0ef
+#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="PERU",America TV AR Conax
+http://186.101.216.211:8000/play/a079
+#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="PERU",AmericaTV P
+http://186.101.216.211:8000/play/a071
+#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="PERU",TV PERU
 http://186.101.216.211:8000/play/a09y
-#EXTINF:-1,TVEDUCA
+#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="PERU",TVEDUCA
 http://186.101.216.211:8000/play/a02d
-#EXTINF:-1,Teleamazonas Co
+#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="PERU",Perœ MÆgico Na
+http://186.101.216.211:8000/play/a0a8
+#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="PERU",Panamericana TV Conax
+http://186.101.216.211:8000/play/a072
+#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="PERU",Movistar Plus
+http://186.101.216.211:8000/play/a0eg
+#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="CULTURA",TLC Co
+http://186.101.216.211:8000/play/a02x
+#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="CULTURA",Nat Geo Co
+http://186.101.216.211:8000/play/a06c
+#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="CULTURA",History Channel Co
+http://186.101.216.211:8000/play/a06d
+#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="CULTURA",Home and Health
+http://186.101.216.211:8000/play/a08g
+#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="CULTURA",E Entertainment
+http://186.101.216.211:8000/play/a02i
+#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="CULTURA",Discovery Turbo
+http://186.101.216.211:8000/play/a0cx
+#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="CULTURA",Discovery Channel Co
+http://186.101.216.211:8000/play/a02f
+#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="CULTURA",Discovery ID3
+http://186.101.216.211:8000/play/a07s
+#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="CULTURA",Animal Planet Co
+http://186.101.216.211:8000/play/a02g
+#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="CULTURA",Tru TV
+http://186.101.216.211:8000/play/a0ds
+#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="CULTURA",Travel and Living Channel
+http://186.101.216.211:8000/play/a0df
+#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="PARAGUAY SD",Unicanal
+http://186.101.216.211:8000/play/a0cu
+#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="PARAGUAY SD",Telefuturo
+http://186.101.216.211:8000/play/a06s
+#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="PARAGUAY SD",Paraguay TV
+http://186.101.216.211:8000/play/a08t
+#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="PARAGUAY SD",Paravision
+http://186.101.216.211:8000/play/a03d
+#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="PARAGUAY SD",NPY
+http://186.101.216.211:8000/play/a099
+#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="PARAGUAY SD",C9N SD
+http://186.101.216.211:8000/play/a097
+#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="PARAGUAY SD",Sur TV
+http://186.101.216.211:8000/play/a03h
+#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="Deportes",ESPN 2 Latin Co
+http://186.101.216.211:8000/play/a02k
+#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="Deportes",ESPN 3 na
+http://186.101.216.211:8000/play/a0cz
+#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="Deportes",ESPN Co
+http://186.101.216.211:8000/play/a02l
+#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="Deportes",ESPN MOV
+http://186.101.216.211:8000/play/espn
+#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="Deportes",ESPNe
+http://186.101.216.211:8000/play/a0e4
+#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="Deportes",ESPn
+http://186.101.216.211:8000/play/a0e3
+#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="Deportes",Fox Sport Chile
+http://186.101.216.211:8000/play/fosc
+#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="Deportes",Fox Sports 1 Co
+http://186.101.216.211:8000/play/a08m
+#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="Deportes" ,Fox Sports 2 Co
+http://186.101.216.211:8000/play/a02z
+#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="Deportes",Fox Sports 3
+http://186.101.216.211:8000/play/a0dq
+#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="Deportes",Fox Sports 3 Co
+http://186.101.216.211:8000/play/a030
+#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="Deportes",Fox Sports Co
+http://186.101.216.211:8000/play/a02j
+#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="Deportes",Win
+http://186.101.216.211:8000/play/a0cq
+#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="Deportes",Win Sport+
+http://186.101.216.211:8000/play/g07j
+#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="Deportes",TyC Sports Na
+http://186.101.216.211:8000/play/a0al
+#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="Deportes" ,TNT Co
+http://186.101.216.211:8000/play/a06p
+#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="Deportes",TNT SPORTS 2
+http://186.101.216.211:8000/play/a021
+#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="Deportes",TNT SPORTS 3
+http://186.101.216.211:8000/play/a02o
+#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="Deportes",FOX SPORT MOV
+http://186.101.216.211:8000/play/foxm
+#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="Deportes",GOL TV Co
+http://186.101.216.211:8000/play/a02m
+#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="Deportes",GOLPERU
+http://186.101.216.211:8000/play/a0d6
+#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="Deportes",GOLTVEC Co
+http://186.101.216.211:8000/play/a032
+#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="Deportes",Gol TV
+http://186.101.216.211:8000/play/a0dp
+#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="Deportes",Claro Sports
+http://186.101.216.211:8000/play/a06q
+#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="Deportes",Directv
+http://186.101.216.211:8000/play/dtsp
+#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="Deportes" ,CMD Na
+http://186.101.216.211:8000/play/a0am
+#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="CHILE",Zona Latina co
+http://186.101.216.211:8000/play/a06i
+#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="CHILE",Sin Limites Co
+http://186.101.216.211:8000/play/a08p
+#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="CHILE",Mega
+http://186.101.216.211:8000/play/a01x
+#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="CHILE",La Red
+http://186.101.216.211:8000/play/a01v
+#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="CHILE",ETC TV
+http://186.101.216.211:8000/play/etct
+#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="CHILE",CHV
+http://186.101.216.211:8000/play/a0eb
+#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="CHILE",CNN Chile
+http://186.101.216.211:8000/play/a0ec
+#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="COLOMBIA",TRO
+http://186.101.216.211:8000/play/a09c
+#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="COLOMBIA",TV CAMARA
+http://186.101.216.211:8000/play/a0d4
+#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="COLOMBIA",Teleamazonas Co
 http://186.101.216.211:8000/play/a039
-#EXTINF:-1,Teleantioquia
+#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="COLOMBIA",Teleantioquia
 http://186.101.216.211:8000/play/a0cp
-#EXTINF:-1,Telecafe
+#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="COLOMBIA",Telecafe
 http://186.101.216.211:8000/play/a0d2
-#EXTINF:-1,Telecaribe
+#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="COLOMBIA",Telecaribe
 http://186.101.216.211:8000/play/a0d0
 #EXTINF:-1,Telefe
 http://186.101.216.211:8000/play/a0ct
-#EXTINF:-1,Telefuturo
-http://186.101.216.211:8000/play/a06s
-#EXTINF:-1,Teleislas
+#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="COLOMBIA",Teleislas
 http://186.101.216.211:8000/play/a03k
-#EXTINF:-1,Telemundo1
+#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="COLOMBIA",Telemundo1
 http://186.101.216.211:8000/play/a0a4
-#EXTINF:-1,Telepacifico
+#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="COLOMBIA",Telepacifico
 http://186.101.216.211:8000/play/a0cr
-#EXTINF:-1,Telesur
-http://186.101.216.211:8000/play/a0do
-#EXTINF:-1,Tooncast
-http://186.101.216.211:8000/play/a0dd
-#EXTINF:-1,Travel and Living Channel
-http://186.101.216.211:8000/play/a0df
-#EXTINF:-1,Trece
+#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="COLOMBIA",Trece
 http://186.101.216.211:8000/play/a0d3
-#EXTINF:-1,Tru TV
-http://186.101.216.211:8000/play/a0ds
-#EXTINF:-1 group-title="Deportes",TyC Sports Na
-http://186.101.216.211:8000/play/a0al
-#EXTINF:-1,Unicanal
-http://186.101.216.211:8000/play/a0cu
-#EXTINF:-1,Universal Co
-http://186.101.216.211:8000/play/a06f
-#EXTINF:-1,Venevision Plus na
+#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="COLOMBIA",RCN Novelas Co
+http://186.101.216.211:8000/play/a08b
+#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="COLOMBIA",RTS
+http://186.101.216.211:8000/play/a0ee
+#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="COLOMBIA",Senal Colombia
+http://186.101.216.211:8000/play/a095
+#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="COLOMBIA",OROMAR
+http://186.101.216.211:8000/play/a06r
+#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="COLOMBIA",La Tele Co
+http://186.101.216.211:8000/play/a074
+#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="COLOMBIA",Canal Claro co
+http://186.101.216.211:8000/play/a08e
+#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="COLOMBIA",Canal Caracol
+http://186.101.216.211:8000/play/a08z
+#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="COLOMBIA",Canal Institucional
+http://186.101.216.211:8000/play/a093
+#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="COLOMBIA",Canal N Na
+http://186.101.216.211:8000/play/a05i
+#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="COLOMBIA",Canal RCN
+http://186.101.216.211:8000/play/a09k
+#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="ECUADOR",Venevision Plus na
 http://186.101.216.211:8000/play/a0a3
-#EXTINF:-1,Venus
+#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="ECUADOR",Venus
 http://186.101.216.211:8000/play/a02q
-#EXTINF:-1,WOBI Na
+#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="ECUADOR",WOBI Na
 http://186.101.216.211:8000/play/a0ak
-#EXTINF:-1 tvg-id="Canal Warner TV (México)",Warner Co
-http://186.101.216.211:8000/play/a02h
-#EXTINF:-1 group-title="Deportes",Win
-http://186.101.216.211:8000/play/a0cq
-#EXTINF:-1 group-title="Deportes",Win Sport+
-http://186.101.216.211:8000/play/g07j
-#EXTINF:-1,Zona Latina co
-http://186.101.216.211:8000/play/a06i
-#EXTINF:-1 tvg-id="Canal ZOOM (Colombia)",Zoom
+#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="ECUADOR",Zoom
 http://186.101.216.211:8000/play/a09b
+#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="ECUADOR",Telesur
+http://186.101.216.211:8000/play/a0do
+#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="ECUADOR",TC TV
+http://186.101.216.211:8000/play/a06n
+#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="ECUADOR",TC Television Co
+http://186.101.216.211:8000/play/a035
+#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="ECUADOR",GLOBAL Na
+http://186.101.216.211:8000/play/a0a1
+#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="ECUADOR",Gamavisiðn Na
+http://186.101.216.211:8000/play/a067
+#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="ECUADOR",Ecuador TV
+http://186.101.216.211:8000/play/a06u
+#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="ECUADOR",Ecuador TV Co
+http://186.101.216.211:8000/play/a04c
+#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="ECUADOR",Ecuavisa Co
+http://186.101.216.211:8000/play/a038
+#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="ECUADOR",El Trece na
+http://186.101.216.211:8000/play/a0aj
+#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="ECUADOR",Enlace
+http://186.101.216.211:8000/play/a0ed
+#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="ECUADOR",Epoca
+http://186.101.216.211:8000/play/a0db
+#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="ECUADOR",Esne TV
+http://186.101.216.211:8000/play/a0cy
+#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="ECUADOR",Canal del Congreso
+http://186.101.216.211:8000/play/a03b
+#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="ECUADOR",Capital
+http://186.101.216.211:8000/play/a03m
+#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="ECUADOR",Canal Uno TV Ecu Co
+http://186.101.216.211:8000/play/a033
+#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="NOTICIAS",Symphonic
+http://186.101.216.211:8000/play/a02r
+#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="NOTICIAS",Oglobo
+http://186.101.216.211:8000/play/a08u
+#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="NOTICIAS",Playboy
+http://186.101.216.211:8000/play/a070
+#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="NOTICIAS",RAI
+http://186.101.216.211:8000/play/a0dm
+#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="NOTICIAS",France 24
+http://186.101.216.211:8000/play/a08d
+#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="NOTICIAS",City TV
+http://186.101.216.211:8000/play/a09e
+#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="NOTICIAS",CNN Espanol co
+http://186.101.216.211:8000/play/a01u
+#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="NOTICIAS",CNN International
+http://186.101.216.211:8000/play/a0dk
+#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="NOTICIAS",Canal de Las estrellas Co
+http://186.101.216.211:8000/play/a02y
+#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="NOTICIAS",BBC World
+http://186.101.216.211:8000/play/a0dj
+#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="Kids",NatGeo Kids
+http://186.101.216.211:8000/play/a0e6
+#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="Kids",Nick Jr Na
+http://186.101.216.211:8000/play/a0ai
+#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="Kids",Nickelodeon Co
+http://186.101.216.211:8000/play/a06a
+#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="Kids",Tooncast
+http://186.101.216.211:8000/play/a0dd
+#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="Kids",Discovery Kids Co
+http://186.101.216.211:8000/play/a01t
+#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="Kids",Disney Channel Conax
+http://186.101.216.211:8000/play/a02e
+#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="Kids",Disney Jr
+http://186.101.216.211:8000/play/a02a
+#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="Kids",Disney 😆
+http://186.101.216.211:8000/play/a06b
+#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="Kids",Baby TV
+http://186.101.216.211:8000/play/a0dc
+#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="Kids",Cartoon Network Co
+http://186.101.216.211:8000/play/a06o
+#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="MUSICA",Classic Rock
+http://186.101.216.211:8000/play/a02u
+#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="MUSICA",Classic RockRoll
+http://186.101.216.211:8000/play/a03q
+#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="NOTICIAS",DW (Deutsch +)
+http://186.101.216.211:8000/play/a0dn
+#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="MUSICA",Love Music
+http://186.101.216.211:8000/play/a02t
+#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="MUSICA",MTV
+http://186.101.216.211:8000/play/a0dh
 #EXTINF:-1  group-title="PARAGUAY", EL TRECE ARGENTINA 
 http://cdn.stg.cvattv.com.ar:80/live/live2/ArtearHD/SA_Live_fta/ArtearHD.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://lh3.googleusercontent.com/-0K_G9JiAw-I/XkCUfNx8kmI/AAAAAAAAv8Y/eK0_8koGnZYLy58qtmUqW26VOZjRqqV8gCK8BGAsYHg/s0/2020-02-09.png" group-title="PARAGUAY", TV PUBLICA
