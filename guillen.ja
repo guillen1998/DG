@@ -1,7 +1,11 @@
 # DG
 #EXTM3U
 #EXTINF:0 tvg-country="PY" tvg-logo="" group-title="PARAGUAY", FUTBOL PARAGUAYO 1--
+https://d2slu3qf332d0d.cloudfront.net:443/out/v1/93e9278c930743bbbc68dce83d11dbe6/index_6.m3u8
+#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="PARAGUAY", FUTBOL PARAGUAYO 2--
 https://d3kzwqwnq1f7tq.cloudfront.net:443/out/v1/21ec7610fb8c4438ab96f2ab74010a9a/index_6.m3u8
+#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="PARAGUAY", FUTBOL PARAGUAYO 3--
+https://d2jluxxgx550su.cloudfront.net:443/out/v1/e41f1568b50d49229b095520e71de7ce/index_2.m3u8
 #EXTINF:0 tvg-country="PY" tvg-logo="" group-title="PARAGUAY", inglaterra vs italia OPC 2
 https://qlobbidev.s.llnwi.net/bpk-tv/AMERICATV/hls/AMERICATV-audio_128175_eng=128000-video=800000.m3u8
 #EXTINF:0 tvg-country="PY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/LogoTFFlat.png" group-title="PARAGUAY",TELEFUTURO HD 2
