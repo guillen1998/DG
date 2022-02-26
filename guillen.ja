@@ -9,4 +9,64 @@ http://200.89.191.165/live/c3eds/ESPN2HD/SA_SAGEMCOM/ESPN2HD.m3u8
 #EXTINF:0 tvg-country="PY" tvg-logo="" group-title="PARAGUAY", ESPN EXTRA
 http://200.89.191.165/live/c3eds/ESPNHD/SA_SAGEMCOM/ESPNHD.m3u8
 #EXTINF:0 tvg-country="PY" tvg-logo="" group-title="PARAGUAY", DE PRUEBA g
-https://s1.dominiopersonal.xyz/suplayer/pX02QCrhS8/95
+https://s1.dominiopersonal.xyz/suplayer/pX02QCrhS8/95|user-agent=suplayer
+
+#EXTINF:-1,Espn Plus Sur
+https://88.99.209.97:2083/suplayer/pX02QCrhS8/94|user-agent=suplayer
+#EXTINF:-1,Espn 3 Sur
+https://88.99.209.97:2083/suplayer/pX02QCrhS8/95|user-agent=suplayer
+#EXTINF:-1,Espn 2 Sur
+https://88.99.209.97:2083/suplayer/pX02QCrhS8/96|user-agent=suplayer
+#EXTINF:-1,Espn 1 Sur
+https://88.99.209.97:2083/suplayer/pX02QCrhS8/97|user-agent=suplayer
+#EXTINF:-1,Win Sports
+https://88.99.209.97:2083/suplayer/pX02QCrhS8/98|user-agent=suplayer
+#EXTINF:-1,Warner Channel
+https://88.99.209.97:2083/suplayer/pX02QCrhS8/130
+#EXTINF:-1,HBO Pop
+https://88.99.209.97:2083/suplayer/pX02QCrhS8/131
+#EXTINF:-1,HBO Xtreme
+https://88.99.209.97:2083/suplayer/pX02QCrhS8/132
+#EXTINF:-1,HBO Mundi
+https://88.99.209.97:2083/suplayer/pX02QCrhS8/133
+https://88.99.209.97:2083/suplayer/pX02QCrhS8/71
+#EXTINF:-1,Fox Sports 3 Sur
+https://88.99.209.97:2083/suplayer/pX02QCrhS8/72|user-agent=suplayer
+#EXTINF:-1,Fox Sports 2 MX
+https://88.99.209.97:2083/suplayer/pX02QCrhS8/74|user-agent=suplayer
+#EXTINF:-1,Fox Sports 2 Sur
+https://88.99.209.97:2083/suplayer/pX02QCrhS8/75|user-agent=suplayer
+#EXTINF:-1,Fox Sports 1 Sur
+https://88.99.209.97:2083/suplayer/pX02QCrhS8/76|user-agent=suplayer
+#EXTINF:-1,Fox Sports 1 MX
+https://88.99.209.97:2083/suplayer/pX02QCrhS8/77|user-agent=suplayer
+#EXTINF:-1,Fox Premium Series Subtitulado
+https://88.99.209.97:2083/suplayer/pX02QCrhS8/78
+#EXTINF:-1,Fox Premium Series
+https://88.99.209.97:2083/suplayer/pX02QCrhS8/79
+#EXTINF:-1,Fox News
+https://88.99.209.97:2083/suplayer/pX02QCrhS8/80
+#EXTINF:-1,Fox Premium Movies
+https://88.99.209.97:2083/suplayer/pX02QCrhS8/81
+#EXTINF:-1,Fox Life Mex
+https://88.99.209.97:2083/suplayer/pX02QCrhS8/82
+#EXTINF:-1,Fox Life
+https://88.99.209.97:2083/suplayer/pX02QCrhS8/83
+#EXTINF:-1,Fox Premium Family
+https://88.99.209.97:2083/suplayer/pX02QCrhS8/84
+#EXTINF:-1,Fox Premium Comedy
+https://88.99.209.97:2083/suplayer/pX02QCrhS8/85
+#EXTINF:-1,Fox Premium Classics
+https://88.99.209.97:2083/suplayer/pX02QCrhS8/86
+#EXTINF:-1,Fox Cinema Subtitulado
+https://88.99.209.97:2083/suplayer/pX02QCrhS8/87
+#EXTINF:-1,Fox Premium Cinema
+https://88.99.209.97:2083/suplayer/pX02QCrhS8/88
+#EXTINF:-1,Fox Premium Action MX
+https://88.99.209.97:2083/suplayer/pX02QCrhS8/89
+#EXTINF:-1,Fox Premium Action
+https://88.99.209.97:2083/suplayer/pX02QCrhS8/90
+#EXTINF:-1,Fox
+https://88.99.209.97:2083/suplayer/pX02QCrhS8/91
+#EXTINF:-1,FX
+https://88.99.209.97:2083/suplayer/pX02QCrhS8/92
