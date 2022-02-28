@@ -12,7 +12,6 @@ http://200.89.191.165/live/c3eds/ESPN2HD/SA_SAGEMCOM/ESPN2HD.m3u8
 http://200.89.191.165/live/c3eds/ESPNHD/SA_SAGEMCOM/ESPNHD.m3u8
 #EXTINF:0 tvg-country="PY" tvg-logo="" group-title="PARAGUAY", DE PRUEBA g
 https://s1.dominiopersonal.xyz/suplayer/pX02QCrhS8/95|user-agent=suplayer
-
 #EXTINF:-1,Espn Plus Sur
 https://88.99.209.97:2083/suplayer/pX02QCrhS8/94|user-agent=suplayer
 #EXTINF:-1,Espn 3 Sur
