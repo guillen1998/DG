@@ -56,6 +56,20 @@ http://200.89.191.165/live/c3eds/TyCSport/SA_SAGEMCOM/TyCSport.m3u8
 http://200.89.191.165/live/c6eds/Golf_Channel/SA_SAGEMCOM/Golf_Channel.m3u8
 #EXTINF:-1 tvg-chno="415" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s69306_dark_360w_270h.png" group-title="DEPORTES",TNT SPORTS
 http://200.89.191.165/live/c3eds/TNT_Sports_HD/SA_SAGEMCOM/TNT_Sports_HD.m3u8
+#EXTINF:-1 tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1524752421749-Imagen.jpg" group-title="HBO",HBO
+http://200.89.191.165/live/c3eds/HBOHD/SA_SAGEMCOM/HBOHD.m3u8
+#EXTINF:-1 tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1548948320646-Imagen.jpg" group-title="HBO",HBO 2 HD
+http://200.89.191.165/live/c6eds/HBO_2/SA_SAGEMCOM/HBO_2.m3u8
+#EXTINF:-1 tvg-logo="http://titanicos.net:8080/images/67b5430b80be3d73e276868679d50e1d.png" group-title="HBO",HBO SIGNATURE
+http://200.89.191.165/live/c6eds/HBO_Signature/SA_SAGEMCOM/HBO_Signature.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/id/HBOFamily.id.png" group-title="HBO", HBO FAMILY
+http://200.89.191.165/live/c6eds/HBO_Family/SA_SAGEMCOM/HBO_Family.m3u8
+#EXTINF:-1 tvg-logo="http://titanicos.net:8080/images/3ad6f23f18989b6d2750960ecdc0fda2.png" group-title="HBO", HBO PLUS
+http://200.89.191.165/live/c6eds/HBO_Plus/SA_SAGEMCOM/HBO_Plus.m3u8
+#EXTINF:-1 tvg-logo="https://www.claro.com.co/portal/recursos/co/cpp/promociones/imagenes/1576097937893-HBO-pop-pequenio.png" group-title="HBO", HBO POP
+http://200.89.191.165/live/c7eds/HBO_POP/SA_SAGEMCOM/HBO_POP.m3u8
+#EXTINF:-1  group-title="HBO",HBO MUNDI
+http://200.89.191.165/live/c6eds/HBO_Mundi/SA_SAGEMCOM/HBO_Mundi.m3u8
 #EXTINF:-1 tvg-logo="https://img-ha.mthcdn.com/rUY6pxpLfeGbWDBv6BZqGiW7tw4=/seeme.me/storage/logo/2018/05/07/g9pyRW27UlQhbnM4.jpg" group-title="K.PREMIUM",ANIMAL PLANET
 http://200.89.191.165//live/c7eds/AnimalPlanet/SA_SAGEMCOM/AnimalPlanet.m3u8
 #EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/7837/CH_LOGO/60/40/0/0/45676872071383.png" group-title="K.PREMIUM", Canal 4 HD
@@ -106,18 +120,7 @@ http://200.89.191.165/live/c3eds/Gourmet/SA_SAGEMCOM/Gourmet.m3u8
 http://200.89.191.165/live/c3eds/Space/SA_SAGEMCOM/Space.m3u8
 #EXTINF:-1 tvg-logo="https://www.pngkit.com/png/detail/410-4109688_invitados-a-un-amc-tv-png-logo.png" group-title="K.PREMIUM",AMC
 http://200.89.191.165/live/c3eds/AMC/SA_SAGEMCOM/AMC.m3u8 
-#EXTINF:-1 tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1524752421749-Imagen.jpg" group-title="K.PREMIUM",HBO
-http://200.89.191.165/live/c3eds/HBOHD/SA_SAGEMCOM/HBOHD.m3u8
-#EXTINF:-1 tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1548948320646-Imagen.jpg" group-title="K.PREMIUM",HBO 2 HD
-http://200.89.191.165/live/c6eds/HBO_2/SA_SAGEMCOM/HBO_2.m3u8
-#EXTINF:-1 tvg-logo="http://titanicos.net:8080/images/67b5430b80be3d73e276868679d50e1d.png" group-title="K.PREMIUM",HBO SIGNATURE
-http://200.89.191.165/live/c6eds/HBO_Signature/SA_SAGEMCOM/HBO_Signature.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/id/HBOFamily.id.png" group-title="K.PREMIUM", HBO Family
-http://200.89.191.165/live/c6eds/HBO_Family/SA_SAGEMCOM/HBO_Family.m3u8
-#EXTINF:-1 tvg-logo="http://titanicos.net:8080/images/3ad6f23f18989b6d2750960ecdc0fda2.png" group-title="K.PREMIUM", HBO Plus HD
-http://200.89.191.165/live/c6eds/HBO_Plus/SA_SAGEMCOM/HBO_Plus.m3u8
-#EXTINF:-1 tvg-logo="https://www.claro.com.co/portal/recursos/co/cpp/promociones/imagenes/1576097937893-HBO-pop-pequenio.png" group-title="K.PREMIUM", HBO Pop
-http://200.89.191.165/live/c7eds/HBO_POP/SA_SAGEMCOM/HBO_POP.m3u8
+
 #EXTINF:-1 tvg-logo="http://xtream-coders.com/x0/latino/discovery_world.png" group-title="K.PREMIUM",Discovery World
 http://200.89.191.165/live/c6eds/Discovery_World_HD/SA_SAGEMCOM/Discovery_World_HD.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HN9mYDP.png" group-title="K.PREMIUM",MEGA ARG.
@@ -172,10 +175,6 @@ http://200.89.191.165/live/c7eds/TNT/SA_SAGEMCOM/TNT.m3u8
 http://200.89.191.165/live/c3eds/TNT_HD_Arg/SA_SAGEMCOM/TNT_HD_Arg.m3u8
 #EXTINF:-1 tvg-chno="318" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s59562_dark_360w_270h.png" group-title="K.PREMIUM",CARTOON NETWORK HD
 http://200.89.191.165/live/c3eds/CartoonNetwork/SA_SAGEMCOM/CartoonNetwork.m3u8
-#EXTINF:-1 tvg-id="HBOFamilyLatinAmerica.pa" tvg-name="CINE SD | HBO FAMILY" tvg-logo="https://static.epg.best/mx/HBOFamily.mx.png" group-title="K.PREMIUM",HBO FAMILY HD
-http://200.89.191.165/live/c6eds/HBO_Family/SA_SAGEMCOM/HBO_Family.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mCWryRp/logo-hbo-signature-small.gif" tvg-group="K.PREMIUM",HBO SIGNATURE
-http://200.89.191.165/live/c6eds/HBO_Signature/SA_SAGEMCOM/HBO_Signature.m3u8 
 #EXTINF:-1 tvg-chno="316" tvg-name="AMC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s90653_dark_360w_270h.png" group-title="K.PREMIUM",AMC HD
 http://200.89.191.165/live/c3eds/AMC/SA_SAGEMCOM/AMC.m3u8
 #EXTINF:-1 tvg-chno="317" tvg-logo="https://i.imgur.com/wQXHgYW.png" group-title="K.PREMIUM",AXN HD
@@ -188,16 +187,6 @@ http://200.89.191.165/live/c4eds/Canal4_URU/SA_SAGEMCOM/Canal4_URU.m3u8
 http://200.89.191.165/live/c3eds/FOXHD/SA_SAGEMCOM/FOXHD.m3u8
 #EXTINF:-1 tvg-chno="320" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s75423_dark_360w_270h.png" group-title="K.PREMIUM",STAR CHANNEL
 http://200.89.191.165/live/c3eds/FOXHD/SA_SAGEMCOM/FOXHD.m3u8
-#EXTINF:-1 tvg-chno="328" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s12288_dark_360w_270h.png" group-title="K.PREMIUM",HBO 1
-http://200.89.191.165/live/c3eds/HBOHD/SA_SAGEMCOM/HBOHD.m3u8
-#EXTINF:-1 tvg-chno="329" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s68140_dark_360w_270h.png" group-title="K.PREMIUM",HBO 2
-http://200.89.191.165/live/c6eds/HBO_2/SA_SAGEMCOM/HBO_2.m3u8
-#EXTINF:-1 tvg-chno="330" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s80120_dark_360w_270h.png" group-title="K.PREMIUM",HBO SIGNATURE
-http://200.89.191.165/live/c6eds/HBO_Signature/SA_SAGEMCOM/HBO_Signature.m3u8
-#EXTINF:-1 tvg-chno="334" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s34725_dark_360w_270h.png" group-title="K.PREMIUM",HBO Plus
-http://200.89.191.165/live/c6eds/HBO_Plus/SA_SAGEMCOM/HBO_Plus.m3u8
-#EXTINF:-1 tvg-chno="335" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s34879_dark_360w_270h.png" group-title="K.PREMIUM",HBO Family
-http://200.89.191.165/live/c6eds/HBO_Family/SA_SAGEMCOM/HBO_Family.m3u8
 #EXTINF:-1 tvg-chno="336" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s68021_dark_360w_270h.png" group-title="K.PREMIUM",SPACE
 http://200.89.191.165/live/c3eds/Space/SA_SAGEMCOM/Space.m3u8
 #EXTINF:-1 tvg-chno="337" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s25553_dark_360w_270h.png" group-title="K.PREMIUM",El Gourmet
@@ -229,7 +218,7 @@ http://200.89.191.165/live/c4eds/Hola_TV/SA_SAGEMCOM/Hola_TV.m3u8
 #EXTINF:-1,¡¡TELEDOCE!!
 http://200.89.191.165/live/c4eds/Canal12URU/SA_SAGEMCOM/Canal12URU.m3u8
 #EXTINF:-1,¡¡HGTV!!
-http://200.89.191.165/live/c4eds/Home_and_Garden/SA_SAGEMCOM/Home_and_Garden.m3u8
+http://200.89.191.165/live/c7eds/Home_and_Garden/SA_SAGEMCOM/Home_and_Garden.m3u8
 #EXTINF:-1,¡¡MAS CHIC!!
 http://200.89.191.165/live/c4eds/Mas_Chic/SA_SAGEMCOM/Mas_Chic.m3u8
 #EXTINF:-1,¡¡Ei!!
@@ -269,14 +258,6 @@ http://200.89.191.165/live/c7eds/AXNHD/SA_SAGEMCOM/AXNHD.m3u8
 http://200.89.191.165/live/c4eds/ComedyCentral/SA_SAGEMCOM/ComedyCentral.m3u8
 #EXTINF:-1,¡¡Studio Universal
 http://200.89.191.165/live/c4eds/Studio_Universal/SA_SAGEMCOM/Studio_Universal.m3u8
-#EXTINF:-1,¡¡Hbo2
-http://200.89.191.165/live/c4eds/HBO_2/SA_SAGEMCOM/HBO_2.m3u8
-#EXTINF:-1,¡¡HBO
-http://200.89.191.165/live/c3eds/HBOHD/SA_SAGEMCOM/HBOHD.m3u8
-#EXTINF:-1,¡¡HBO signature
-http://200.89.191.165/live/c6eds/HBO_Signature/SA_SAGEMCOM/HBO_Signature.m3u8
-#EXTINF:-1,¡¡HBO mundi
-http://200.89.191.165/live/c6eds/HBO_Mundi/SA_SAGEMCOM/HBO_Mundi.m3u8
 #EXTINF:-1,¡¡A&E
 http://200.89.191.165/live/c4eds/AEHD/SA_SAGEMCOM/AEHD.m3u8
 #EXTINF:-1,¡¡Syfy
