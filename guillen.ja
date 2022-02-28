@@ -30,14 +30,32 @@ http://200.89.191.165/live/c7eds/GEN_TV/SA_SAGEMCOM/GEN_TV.m3u8
 http://200.89.191.165/live/c4eds/LA_TELE_C4/SA_SAGEMCOM/LA_TELE_C4.m3u8
 #EXTINF:0 tvg-country="PY" tvg-logo="" group-title=DEPORTES", TV MAX 
 https://bcovlive-a.akamaihd.net/a2e5e035037742ff8fd4bae79de16ad4/us-east-1/6058004209001/profile_0/chunklist.m3u8
-#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="DEPORTES", PSG Vs nose
-https://mn-nl-glb.mncdn.com/dlive/transcode-84-72/bvwibewuiwef/1645830599/src/live.m3u8
-#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="DEPORTES", ESPN 2
-http://spliktv-edge2.wedrly.xyz/live/vod/ESPN2HD/SA_Live_WebVTT_FTA/ESPN2HD-avc1_379968=10005.m3u8
-#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="DEPORTES", ESPN HD
+#EXTINF:-1  group-title="DEPORTES", FOXSPORTS PREMIUM
+http://200.89.191.165/live/c3eds/Fox_Sports_Premiun_HD/SA_SAGEMCOM/Fox_Sports_Premiun_HD.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qyNp5Yr/foxsports.png" tvg-group="DEPORTES", FOX SPORTS
+http://200.89.191.165/live/c3eds/FoxSports/SA_SAGEMCOM/FoxSports.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JCfZ5R2/foxsports2.png" tvg-group="DEPORTES", FOX SPORTS 2
+http://200.89.191.165/live/c3eds/FoxSports2HD/SA_SAGEMCOM/FoxSports2HD.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qyNp5Yr/foxsports.png" tvg-group="DEPORTES", FOX SPORTS 3
+http://200.89.191.165/live/c3eds/FoxSports3HD/SA_SAGEMCOM/FoxSports3HD.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN HD MX" tvg-logo="https://www.ecured.cu/images/thumb/2/2f/Espn_logo.jpg/260px-Espn_logo.jpg" group-title="DEPORTES",ESPN PY
+http://200.89.191.165/live/c3eds/ESPN2_PY/SA_SAGEMCOM/ESPN2_PY.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN HD MX" tvg-logo="https://www.ecured.cu/images/thumb/2/2f/Espn_logo.jpg/260px-Espn_logo.jpg" group-title="DEPORTES",ESPN 2 PY
+http://200.89.191.165/live/c3eds/ESPN_PY/SA_SAGEMCOM/ESPN_PY.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN HD MX" tvg-logo="https://www.ecured.cu/images/thumb/2/2f/Espn_logo.jpg/260px-Espn_logo.jpg" group-title="DEPORTES",ESPN
 http://200.89.191.165/live/c3eds/ESPN2HD/SA_SAGEMCOM/ESPN2HD.m3u8
-#EXTINF:0 tvg-country="PY" tvg-logo="" group-title="DEPORTES", ESPN EXTRA
+#EXTINF:-1 tvg-id="" tvg-name="ESPN HD MX" tvg-logo="https://www.ecured.cu/images/thumb/2/2f/Espn_logo.jpg/260px-Espn_logo.jpg" group-title="DEPORTES",ESPN 3
+http://200.89.191.165/live/c3eds/ESPN3/SA_SAGEMCOM/ESPN3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN HD MX" tvg-logo="https://www.ecured.cu/images/thumb/2/2f/Espn_logo.jpg/260px-Espn_logo.jpg" group-title="DEPORTES",ESPN 4
+http://200.89.191.165/live/c7eds/ESPN4/SA_SAGEMCOM/ESPN4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN HD MX" tvg-logo="https://www.ecured.cu/images/thumb/2/2f/Espn_logo.jpg/260px-Espn_logo.jpg" group-title="DEPORTES",ESPN EXTRA
 http://200.89.191.165/live/c3eds/ESPNHD/SA_SAGEMCOM/ESPNHD.m3u8
+#EXTINF:-1 tvg-chno="410" tvg-logo="https://i.imgur.com/puBDhTt.png" group-title="DEPORTES",TyC Sports
+http://200.89.191.165/live/c3eds/TyCSport/SA_SAGEMCOM/TyCSport.m3u8
+#EXTINF:-1 tvg-chno="408" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s61033_dark_360w_270h.png" group-title="DEPORTES",Golf Channel
+http://200.89.191.165/live/c6eds/Golf_Channel/SA_SAGEMCOM/Golf_Channel.m3u8
+#EXTINF:-1 tvg-chno="415" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s69306_dark_360w_270h.png" group-title="DEPORTES",TNT SPORTS
+http://200.89.191.165/live/c3eds/TNT_Sports_HD/SA_SAGEMCOM/TNT_Sports_HD.m3u8
 #EXTINF:-1 tvg-logo="https://img-ha.mthcdn.com/rUY6pxpLfeGbWDBv6BZqGiW7tw4=/seeme.me/storage/logo/2018/05/07/g9pyRW27UlQhbnM4.jpg" group-title="K.PREMIUM",ANIMAL PLANET
 http://200.89.191.165//live/c7eds/AnimalPlanet/SA_SAGEMCOM/AnimalPlanet.m3u8
 #EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/7837/CH_LOGO/60/40/0/0/45676872071383.png" group-title="K.PREMIUM", Canal 4 HD
@@ -166,34 +184,6 @@ http://200.89.191.165/live/live/AXNHD/SA_SAGEMCOM/AXNHD.m3u8
 http://200.89.191.165/live/c3eds/CinecanalHD/SA_SAGEMCOM/CinecanalHD.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Cinema 34 PPV" tvg-logo="http://hdguru.com/wp-content/uploads/2010/06/logo_directv_cinema_3D-HDGURU-300x170.jpg" group-title="K.PREMIUM","CANAL 4 URU"
 http://200.89.191.165/live/c4eds/Canal4_URU/SA_SAGEMCOM/Canal4_URU.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qyNp5Yr/foxsports.png" tvg-group="K.PREMIUN", FOX SPORTS
-http://200.89.191.165/live/c3eds/FoxSports/SA_SAGEMCOM/FoxSports.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/JCfZ5R2/foxsports2.png" tvg-group="K.PREMIUM", FOX SPORTS 2
-http://200.89.191.165/live/c3eds/FoxSports2HD/SA_SAGEMCOM/FoxSports2HD.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qyNp5Yr/foxsports.png" tvg-group="K.PREMIUN", FOX SPORTS 3
-http://200.89.191.165/live/c3eds/FoxSports3HD/SA_SAGEMCOM/FoxSports3HD.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ESPN HD MX" tvg-logo="https://www.ecured.cu/images/thumb/2/2f/Espn_logo.jpg/260px-Espn_logo.jpg" group-title="K.PREMIUM",ESPN PY
-http://200.89.191.165/live/c3eds/ESPN2_PY/SA_SAGEMCOM/ESPN2_PY.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ESPN HD MX" tvg-logo="https://www.ecured.cu/images/thumb/2/2f/Espn_logo.jpg/260px-Espn_logo.jpg" group-title="K.PREMIUM",ESPN 2 PY
-http://200.89.191.165/live/c3eds/ESPN_PY/SA_SAGEMCOM/ESPN_PY.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ESPN HD MX" tvg-logo="https://www.ecured.cu/images/thumb/2/2f/Espn_logo.jpg/260px-Espn_logo.jpg" group-title="K.PREMIUM",ESPN
-http://200.89.191.165/live/c3eds/ESPN2HD/SA_SAGEMCOM/ESPN2HD.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ESPN HD MX" tvg-logo="https://www.ecured.cu/images/thumb/2/2f/Espn_logo.jpg/260px-Espn_logo.jpg" group-title="K.PREMIUM",ESPN 3
-http://200.89.191.165/live/c3eds/ESPN3/SA_SAGEMCOM/ESPN3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ESPN HD MX" tvg-logo="https://www.ecured.cu/images/thumb/2/2f/Espn_logo.jpg/260px-Espn_logo.jpg" group-title="K.PREMIUM",ESPN 4
-http://200.89.191.165/live/c7eds/ESPN4/SA_SAGEMCOM/ESPN4.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ESPN HD MX" tvg-logo="https://www.ecured.cu/images/thumb/2/2f/Espn_logo.jpg/260px-Espn_logo.jpg" group-title="K.PREMIUM",ESPN EXTRA
-http://200.89.191.165/live/c3eds/ESPNHD/SA_SAGEMCOM/ESPNHD.m3u8
-#EXTINF:-1 tvg-chno="410" tvg-logo="https://i.imgur.com/puBDhTt.png" group-title="K.PREMIUM",TyC Sports
-http://200.89.191.165/live/c3eds/TyCSport/SA_SAGEMCOM/TyCSport.m3u8
-#EXTINF:-1 tvg-chno="408" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s61033_dark_360w_270h.png" group-title="K.PREMIUM",Golf Channel
-http://200.89.191.165/live/c6eds/Golf_Channel/SA_SAGEMCOM/Golf_Channel.m3u8
-#EXTINF:-1 tvg-chno="415" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s69306_dark_360w_270h.png" group-title="K.PREMIUM",TNT SPORTS
-http://200.89.191.165/live/c3eds/TNT_Sports_HD/SA_SAGEMCOM/TNT_Sports_HD.m3u8
-#EXTINF:-1  tvg-id="Canal WOBI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/WOBI_logo.png" group-title="K.PREMIUM",Canal WOBI
-http://200.89.191.165/live/c4eds/WOBI/SA_SAGEMCOM/WOBI.m3u8
-#EXTINF:-1 tvg-id="Cine TV: AXN (MOVIL)" tvg-logo="https://i.ibb.co/NZ66vJS/AXNHD.jpg" group-title="K.PREMIUM",AXN
-http://200.89.191.165/live/c4eds/AXNHD/SA_SAGEMCOM/AXNHD.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Star Channel HD" tvg-logo="https://www.informador.mx/__export/1614018559320/sites/elinformador/img/2021/02/22/eu2gejxwyaakn-d_crop1614018325447.jpg_757208179.jpg" group-title="K.PREMIUM",STAR CHANNEL
 http://200.89.191.165/live/c3eds/FOXHD/SA_SAGEMCOM/FOXHD.m3u8
 #EXTINF:-1 tvg-chno="320" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s75423_dark_360w_270h.png" group-title="K.PREMIUM",STAR CHANNEL
@@ -262,13 +252,6 @@ http://200.89.191.165/live/c4eds/Telemundo_HD/SA_SAGEMCOM/Telemundo_HD.m3u8
 http://200.89.191.165/live/c4eds/Canal_de_las_estrellas/SA_SAGEMCOM/Canal_de_las_estrellas.m3u8
 #EXTINF:-1 tvg-id="610DTSA.ar" tvg-name="ARG: Telefe HD" tvg-logo="http://img.tvcl.xyz/argentina/telefe.png" group-title="Argentina",AR1G: Telefe HD
 http://200.89.191.165/live/c3eds/TelefeHD/SA_SAGEMCOM/TelefeHD.m3u8
-#EXTINF:-1,¡¡LaTele
-http://200.89.191.165/live/c4eds/LA_TELE_C4/SA_SAGEMCOM/LA_TELE_C4.m3u8
-#EXTINF:-1,¡¡Telefuturo
-http://200.89.191.165/live/c4eds/TELEFUTURO_C4/SA_SAGEMCOM/TELEFUTURO_C4.m3u8
-#EXTINF:-1,¡¡RPC
-http://200.89.191.165/live/c4eds/RPC_C4/SA_SAGEMCOM/RPC_C4.m3u8
-#EXTINF:-1,¡¡HTV
 http://200.89.191.165/live/c4eds/HTV/SA_SAGEMCOM/HTV.m3u8
 #EXTINF:-1,¡¡QUIERO MÚSICA
 http://200.89.191.165/live/c4eds/Quiero_HD/SA_SAGEMCOM/Quiero_HD.m3u8
@@ -334,28 +317,6 @@ http://200.89.191.165/live/c3eds/TNTSeries/SA_SAGEMCOM/TNTSeries.m3u8
 http://200.89.191.165/live/c4eds/WarnerHD/SA_SAGEMCOM/WarnerHD.m3u8
 #EXTINF:-1,¡¡UNIVERSAL CHANEL
 http://200.89.191.165/live/c4eds/Universal_Channel_HD/SA_SAGEMCOM/Universal_Channel_HD.m3u8
-#EXTINF:-1,¡¡FOXSPORTS PREMIUM
-http://200.89.191.165/live/c3eds/Fox_Sports_Premiun_HD/SA_SAGEMCOM/Fox_Sports_Premiun_HD.m3u8
-#EXTINF:-1,¡¡FOXSPORTS
-http://200.89.191.165/live/c3eds/FoxSports/SA_SAGEMCOM/FoxSports.m3u8
-#EXTINF:-1,¡¡FOXSPORTS 2
-http://200.89.191.165/live/c3eds/FoxSports2HD/SA_SAGEMCOM/FoxSports2HD.m3u8
-#EXTINF:-1,¡¡FOXSPORTS 3
-http://200.89.191.165/live/c3eds/FoxSports3HD/SA_SAGEMCOM/FoxSports3HD.m3u8
-#EXTINF:-1,¡¡ESPN extra
-http://200.89.191.165/live/c3eds/ESPNHD/SA_SAGEMCOM/ESPNHD.m3u8
-#EXTINF:-1,¡¡ESPN
-http://200.89.191.165/live/c3eds/ESPN2HD/SA_SAGEMCOM/ESPN2HD.m3u8
-#EXTINF:-1,¡¡ESPN 2
-http://200.89.191.165/live/c2live/ESPN_HD/SA_SAGEMCOM/ESPN_HD.m3u8
-#EXTINF:-1,¡¡ESPN 3
-http://200.89.191.165/live/c3eds/ESPN3/SA_SAGEMCOM/ESPN3.m3u8
-#EXTINF:-1,¡¡TyC Spors
-http://200.89.191.165/live/c3eds/TyCSport/SA_SAGEMCOM/TyCSport.m3u8
-#EXTINF:-1,¡¡TNT Spors
-http://200.89.191.165/live/c3eds/TNT_Sports_HD/SA_SAGEMCOM/TNT_Sports_HD.m3u8
-#EXTINF:-1,¡¡Golf
-http://200.89.191.165/live/c4eds/Golf_Channel/SA_SAGEMCOM/Golf_Channel.m3u8
 #EXTINF:-1,¡¡Cinemax
 http://200.89.191.165/live/c4eds/Cinemax/SA_SAGEMCOM/Cinemax.m3u8
 #EXTINF:-1,¡¡Cinecanal
