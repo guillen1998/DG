@@ -10,14 +10,12 @@ http://spliktv-edge2.wedrly.xyz/live/vod/ESPN2HD/SA_Live_WebVTT_FTA/ESPN2HD-avc1
 http://200.89.191.165/live/c3eds/ESPN2HD/SA_SAGEMCOM/ESPN2HD.m3u8
 #EXTINF:0 tvg-country="PY" tvg-logo="" group-title="PARAGUAY", ESPN EXTRA
 http://200.89.191.165/live/c3eds/ESPNHD/SA_SAGEMCOM/ESPNHD.m3u8
-#EXTM3U
 #EXTINF:-1 tvg-logo="https://img-ha.mthcdn.com/rUY6pxpLfeGbWDBv6BZqGiW7tw4=/seeme.me/storage/logo/2018/05/07/g9pyRW27UlQhbnM4.jpg" group-title="K.PREMIUM",ANIMAL PLANET
 http://200.89.191.165//live/c7eds/AnimalPlanet/SA_SAGEMCOM/AnimalPlanet.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/LogoTFFlat.png" group-title="K.PREMIUM",TELEFUTURO HD
 http://200.89.191.165/live/c4eds/TELEFUTURO_C4/SA_SAGEMCOM/TELEFUTURO_C4.m3u8
 #EXTINF:-1 tvg-logo="http://glmtv.pw/logo/prestige/Paraguay/latele-pe.png" group-title="K.PREMIUM",LA TELE HD
 http://200.89.191.165/live/c4eds/LA_TELE_C4/SA_SAGEMCOM/LA_TELE_C4.m3u8
-  
 #EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/7837/CH_LOGO/60/40/0/0/45676872071383.png" group-title="K.PREMIUM", Canal 4 HD
 https://edge3-hr.cvattv.com.ar/live/c4eds/Canal4_URU/SA_SAGEMCOM/Canal4_URU.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/266_Canal_10.png" group-title="K.PREMIUM", Canal 10
@@ -362,4 +360,5 @@ http://200.89.191.165/live/c4eds/Discovery_Science/SA_SAGEMCOM/Discovery_Science
 http://200.89.191.165/live/c4eds/MTV_Hits/SA_SAGEMCOM/MTV_Hits.m3u8
 #EXTINF:-1,¡¡MTV
 http://200.89.191.165/live/c4eds/MTV_HD/SA_SAGEMCOM/MTV_HD.m3u8
-
+Holvksjsjzkzb
+Jshsjsisj
