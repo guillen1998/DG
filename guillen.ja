@@ -28,6 +28,8 @@ http://200.89.191.165/live/c4eds/NOTICIAS_PY_C4/SA_SAGEMCOM/NOTICIAS_PY_C4.m3u8
 http://200.89.191.165/live/c7eds/GEN_TV/SA_SAGEMCOM/GEN_TV.m3u8
 #EXTINF:-1 tvg-logo="http://glmtv.pw/logo/prestige/Paraguay/latele-pe.png" group-title="K.PREMIUM",LA TELE HD
 http://200.89.191.165/live/c4eds/LA_TELE_C4/SA_SAGEMCOM/LA_TELE_C4.m3u8
+#EXTINF:-26 tvg-logo="https://lh3.googleusercontent.com/proxy/hfavRJ5LMNd_rERiLXzwVwgAKWE0wk-6ld5K5TblGaIvChiAHE5RMox6P5u0nbfRUFUlAUB6qMaayaQs_vXBkKmqbqzT6tM3kfaKRw" group-title="PARAGUAY", FARRA PLAY
+http://159.203.148.226/live/farra_low.m3u8
 #EXTINF:0 tvg-country="PY" tvg-logo="" group-title=DEPORTES", TV MAX 
 https://bcovlive-a.akamaihd.net/a2e5e035037742ff8fd4bae79de16ad4/us-east-1/6058004209001/profile_0/chunklist.m3u8
 #EXTINF:-1  group-title="DEPORTES", FOXSPORTS PREMIUM
