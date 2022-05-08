@@ -6,6 +6,8 @@ http://200.89.191.165/live/c4eds/TELEFUTURO_C4/SA_SAGEMCOM/TELEFUTURO_C4.m3u8
 http://jumangis.com:2082/live/Hellb78/B7BafUhTX2/28535.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/1024px-Tigo_Sports_logo.svg.png" group-title="PARAGUAY", TIGO SPORTS +
 http://jumangis.com:2082/live/Hellb78/B7BafUhTX2/28536.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/1024px-Tigo_Sports_logo.svg.png group-title="PARAGUAY", TIGO SPORTS EXTRA
+https://prod-ec-sa-east-1.video.pscp.tv/Transcoding/v1/hls/TmOCqjx7z-Lv8nBtlRXH-9EcZuLlLQWDZT7yqQehpqKYGFgQNbYdMwSuzMEaOMMN8bsBd6dGp2rJf5nY1bHFKQ/transcode/sa-east-1/periscope-replay-direct-prod-sa-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/dynamic_highlatency.m3u8?type=live
 #EXTINF:-0 tvg-logo = "https://static.wikia.nocookie.net/logopedia/images/6/6c/Snt-en-vivo.png/revision/latest?cb=20161224202322" group-title="PARAGUAY", SNT HD
 http://200.89.191.165/live/c4eds/SNT_C4/SA_SAGEMCOM/SNT_C4.m3u8
 #EXTINF:-0 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/04/Paravisi%C3%B3n-en-vivo-Online-1-218x150.png" group-title="PARAGUAY", PARAVISION HD
