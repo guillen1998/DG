@@ -3,7 +3,7 @@
 #EXTINF:-0 tvg-logo="https://pbs.twimg.com/profile_images/1190255684639744001/nsiIZ_X-_400x400.jpg" group-title="PARAGUAY", TELEFUTURO HD
 http://200.89.191.165/live/c4eds/TELEFUTURO_C4/SA_SAGEMCOM/TELEFUTURO_C4.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Logo-tigosports.png" group-title="PARAGUAY", TIGO SPORTS pp
-http://iptvtucuman.com/index_6/tigo.m3u8
+http://iptvtucuman.com/index_2/tigo.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/1024px-Tigo_Sports_logo.svg.png" group-title="PARAGUAY", TIGO SPORTS +0
 https://cdnapisec.kaltura.com/p/4618003/sp/461800300/playManifest/entryId/1_39trqqqt/format/applehttp/protocol/https/uiConfId/50195093/a.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/1024px-Tigo_Sports_logo.svg.png group-title="PARAGUAY", TIGO SPORTS EXTRA
