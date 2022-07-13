@@ -54,6 +54,10 @@ https://edge1.prepro.cvattv.com.ar/live/vod/AEHD/SA_Live_WebVTT_FTA/AEHD.m3u8
 http://edge3.prepro.cvattv.com.ar/live/vod/SpaceHD/SA_Live_WebVTT_FTA/SpaceHD.m3u8
 #EXTINF:-1 tvg-logo="http://xtream-coders.com/x0/latino/tnt.png" group-title="PELICULAS",TNT
 http://edge3.prepro.cvattv.com.ar/live/vod/TNTHD/SA_Live_WebVTT_FTA/TNTHD.m3u8
+#EXTINF:-1, group-title="PELICULAS" , CINEMAX
+https://edge3.prepro.cvattv.com.ar/live/live/Cinemax/SA_Live_WebVTT_FTA/Cinemax.m3u8
+#EXTINF:-1, group-title="PELICULAS" , STUDIO UNIVERSAL
+https://edge3.prepro.cvattv.com.ar/live/live/Studio_Universal/SA_Live_WebVTT_FTA/Studio_Universal.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1200px-FX_International_logo.svg.png" group-title="PELICULAS",FX HD
 http://edge3.prepro.cvattv.com.ar/live/vod/FXHD/SA_Live_WebVTT_FTA/FXHD.m3u8
 #EXTINF:-1 tvg-logo="https://tvseriesfinale.com/wp-content/uploads/2017/05/TBS-TV-Shows-Canceled-or-Renewed-534x400.png" group-title="PELICULAS",TBS HD
@@ -62,14 +66,20 @@ http://edge3.prepro.cvattv.com.ar/live/vod/TBS/SA_Live_WebVTT_FTA/TBS.m3u8
 http://edge3.prepro.cvattv.com.ar/live/vod/HBO_2/SA_Live_WebVTT_FTA/HBO_2.m3u8
 #EXTINF:-1 tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1524752421749-Imagen.jpg" group-title="HBO",HBO
 http://edge3.prepro.cvattv.com.ar/live/vod/HBOHD/SA_Live_WebVTT_FTA/HBOHD.m3u8
-#EXTINF:-1 tvg-logo="http://titanicos.net:8080/images/3ad6f23f18989b6d2750960ecdc0fda2.png" group-title="HBO", HBO PLUS
+#EXTINF:-1 tvg-logo="" group-title="HBO", HBO XTREME
 https://edge3.prepro.cvattv.com.ar/live/vod/HBO_Plus/SA_Live_WebVTT_FTA/HBO_Plus.m3u8
-#EXTINF:-1 tvg-logo="https://www.claro.com.co/portal/recursos/co/cpp/promociones/imagenes/1576097937893-HBO-pop-pequenio.png" group-title="HBO", HBO XTREME
+#EXTINF:-1 tvg-logo="" group-title="HBO", HBO MUNDI
 https://edge1.prepro.cvattv.com.ar/live/vod/Max_HD/SA_Live_WebVTT_FTA/Max_HD.m3u8
+#EXTINF:-1, group-title="HBO" , HBO+
+https://edge3.prepro.cvattv.com.ar/live/live/HBO_Plus/SA_Live_WebVTT_FTA/HBO_Plus.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/z7DwS7B/nationalgeo.png" tvg-group="CULTURA", NATGEO
 http://edge3.prepro.cvattv.com.ar/live/vod/NatGeoHD/SA_Live_WebVTT_FTA/NatGeoHD.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Bgpm95Y/k-Mnbxb-EN-400x400.png" tvg-group="CULTURA", DISCOVERY TURBO
 https://edge3.prepro.cvattv.com.ar/live/live/DiscoveryTurbo/SA_Live_WebVTT_FTA/DiscoveryTurbo.m3u8
+#EXTINF:-1, group-title="CULTURAL" , ANIMAL PLANET
+https://edge3.prepro.cvattv.com.ar/live/live/AnimalPlanet/SA_Live_WebVTT_FTA/AnimalPlanet.m3u8
+#EXTINF:-1,group-title="CULTURAL" , HISTORY 2
+https://edge3.prepro.cvattv.com.ar/live/live/History_2/SA_Live_WebVTT_FTA/History_2.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SyyDDQB/discovery.png" tvg-group="CULTURA", DISCOVERY CHANNEL
 http://edge3.prepro.cvattv.com.ar/live/vod/DiscoveryHD/SA_Live_WebVTT_FTA/DiscoveryHD.m3u8
 #EXTINF:-1 tvg-logo="http://www.mediafire.com/convkey/1948/urzsrf946zocc6qzg.jpg" group-title="CULTURA",TLC
@@ -88,3 +98,7 @@ https://edge1.prepro.cvattv.com.ar/live/vod/ArtearHD/SA_Live_WebVTT_FTA/ArtearHD
 https://edge1.prepro.cvattv.com.ar/live/vod/Volver/SA_Live_WebVTT_FTA/Volver.m3u8
 #EXTINF:-1 tvg-logo="" group-title="INFANTILES",Cartoon Network HD
 https://edge1.prepro.cvattv.com.ar/live/vod/CartoonNetwork/SA_Live_WebVTT_FTA/CartoonNetwork.m3u8
+#EXTINF:-1, group-title="INFANTILES" , NICKELODEON
+https://edge3.prepro.cvattv.com.ar/live/vod/Nickelodeon/SA_Live_WebVTT_FTA/Nickelodeon.m3u8
+#EXTINF:-1, group-title="INFANTILES" , DISNEYJR
+https://edge3.prepro.cvattv.com.ar/live/vod/DisneyJr/SA_Live_WebVTT_FTA/DisneyJr.m3u8
